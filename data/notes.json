@@ -1,0 +1,29 @@
+{
+  "last_updated": "2026-10-21",
+  "election_date": "2026-11-03",
+  "race_notes": {
+    "Governor": "Neither candidate submitted a statement to the Official Voter Information Guide.",
+    "Attorney General": "Bonta did not submit a statement to the Official Voter Information Guide. His promises come from his campaign site and the LA Times.",
+    "Treasurer": "Hawks declined to answer GrowSF's questionnaire.",
+    "U.S. House CA District 18": "Lewis's answers were mostly general. Only the items close enough to promises were recorded.",
+    "Hollister City Treasurer": "Machado's only forward-looking commitment found was the quarterly budget review."
+  },
+  "candidates_without_promises": [
+    {
+      "race": "San Benito County Board of Education District 4",
+      "candidate": "Reb Monaco",
+      "party": "Nonpartisan",
+      "note": "No specific, concrete promises found. In BenitoLink's Q&A and the Free Lance statement he names priorities and concerns (serving all students; declining enrollment, reading/math scores, AI's impact, student mental health) but commits to no specific action.",
+      "sources": [
+        "https://benitolink.com/2026-general-election-qa-san-benito-county-board-of-education-district-4/",
+        "https://sanbenito.com/meet-the-candidates-sbc-board-of-education-hollister-city-treasurer/"
+      ]
+    }
+  ],
+  "races_without_promises": [
+    "San Benito High School District, Trustee Area 3 (Carla Torres De Luna, Betsey Lemay): neither has completed Ballotpedia's survey, and no BenitoLink or Free Lance Q&A or campaign site was found.",
+    "Sunnyslope County Water District, At-large special (Orlando Martinez, Alexis M. Perez-Kenny) and Division 5 (Dee Brown, Karen Enzensperger): no candidate Q&As or statements were found.",
+    "Gavilan Joint CCD Trustee Areas 5 and 7: Ballotpedia lists one candidate each (Jeanie Wallace; Irma Gonzalez). These races may be uncontested and may not appear on the ballot. Not researched.",
+    "Not researched (outside Hollister): San Juan Bautista City Council, South Monterey County Joint Union HSD, Cabrillo CCD Area 6, and Hartnell CCD Area 7. State ballot propositions and judicial retention races are also not covered."
+  ]
+}

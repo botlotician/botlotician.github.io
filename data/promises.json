@@ -1,0 +1,2364 @@
+{
+ "last_updated": "2026-10-21",
+ "election_date": "2026-11-03",
+ "president": {
+  "promises": [
+   {
+    "promise": "Carry out the largest deportation operation in American history",
+    "topic": "Immigration",
+    "made_where": "2024 Republican Party platform (adopted at the Republican National Convention); one of its 20 core promises",
+    "made_date": "2024-07-08",
+    "source_url": "https://www.presidency.ucsb.edu/documents/2024-republican-party-platform",
+    "status": "In progress",
+    "status_note": "PolitiFact rates it In the Works (Sept. 8, 2026): ICE said more than 356,000 people had been deported in FY2026 as of July, less than half of the 1 million a year Trump promised.",
+    "status_source_url": "https://www.politifact.com/truth-o-meter/promises/maga-meter-tracking-donald-trumps-2024-promises/promise/387364/carry-out-the-largest-domestic-deportation-operati/article/397479/"
+   },
+   {
+    "promise": "Complete the border wall with Mexico",
+    "topic": "Immigration",
+    "made_where": "2024 Republican Party platform (adopted at the Republican National Convention)",
+    "made_date": "2024-07-08",
+    "source_url": "https://www.presidency.ucsb.edu/documents/2024-republican-party-platform",
+    "status": "In progress",
+    "status_note": "PolitiFact rates it In the Works (June 25, 2026): CBP has awarded 11 contracts covering 218 miles and reports 110 miles of barriers built, including 74 miles of primary wall. The stated goal is to close the border by FY2028.",
+    "status_source_url": "https://www.politifact.com/truth-o-meter/promises/maga-meter-tracking-donald-trumps-2024-promises/promise/387370/finish-the-border-wall/article/387375/"
+   },
+   {
+    "promise": "Sign a Day One executive order ending automatic citizenship for U.S.-born children of parents in the country illegally",
+    "topic": "Immigration",
+    "made_where": "Agenda47 campaign video/post (archived campaign page)",
+    "made_date": "2023-05-30",
+    "source_url": "https://web.archive.org/web/20240110013105/https:/www.donaldjtrump.com/news/8b147aa4-100c-4154-ade4-6a758a1d42f0",
+    "status": "Broken",
+    "status_note": "Trump signed the order on Jan. 20, 2025, but on June 30, 2026 the Supreme Court struck it down in Trump v. Barbara. PolitiFact rates the promise Broken.",
+    "status_source_url": "https://www.politifact.com/truth-o-meter/promises/maga-meter-tracking-donald-trumps-2024-promises/promise/387381/end-citizenship-birthright/article/387386/"
+   },
+   {
+    "promise": "Restore and expand the first-term travel ban",
+    "topic": "Immigration",
+    "made_where": "Campaign speech in Clive, Iowa (reported by NBC News)",
+    "made_date": "2023-10-16",
+    "source_url": "https://www.nbcnews.com/politics/donald-trump/trump-vows-expand-travel-ban-gaza-rcna120711",
+    "status": "Kept",
+    "status_note": "PolitiFact rates it Kept (Mar. 6, 2026): June 2025 restrictions fully covered 12 countries and partially covered 7. The ban was expanded again in December 2025.",
+    "status_source_url": "https://www.politifact.com/truth-o-meter/promises/maga-meter-tracking-donald-trumps-2024-promises/promise/387376/restore-and-expand-the-travel-ban/article/387380/"
+   },
+   {
+    "promise": "Revoke Temporary Protected Status for Haitian migrants (e.g., in Springfield, Ohio) and send them back",
+    "topic": "Immigration",
+    "made_where": "NewsNation interview (reported by CNN)",
+    "made_date": "2024-10-02",
+    "source_url": "https://www.cnn.com/2024/10/03/politics/trump-revoke-status-ohio-haitian-migrants",
+    "status": "In progress",
+    "status_note": "In Mullin v. Doe (June 25, 2026, 6-3), the Supreme Court let DHS end Haiti's TPS designation. PolitiFact moved the promise from Stalled back to In the Works.",
+    "status_source_url": "https://www.politifact.com/truth-o-meter/promises/maga-meter-tracking-donald-trumps-2024-promises/promise/387400/revoke-the-temporary-legal-status-of-haitians/article/387406/"
+   },
+   {
+    "promise": "Automatically give green cards to foreign students who graduate from U.S. colleges",
+    "topic": "Immigration",
+    "made_where": "All-In podcast interview (reported by ABC News)",
+    "made_date": "2024-06-20",
+    "source_url": "https://abcnews.com/Politics/trump-proposes-giving-green-cards-noncitizen-college-graduates/story?id=111309610",
+    "status": "Stalled",
+    "status_note": "PolitiFact rates it Stalled (Jan. 30, 2026): there was no progress, and the administration instead moved to restrict post-graduation routes such as OPT and H-1B.",
+    "status_source_url": "https://www.politifact.com/truth-o-meter/promises/maga-meter-tracking-donald-trumps-2024-promises/promise/387387/give-college-graduates-a-green-card/article/387390/"
+   },
+   {
+    "promise": "Designate the major drug cartels as foreign terrorist organizations",
+    "topic": "Crime & security",
+    "made_where": "Agenda47 video 'Declares War on Cartels' (archived campaign page, dated Dec. 22, 2023)",
+    "made_date": "2023-12-22",
+    "source_url": "https://web.archive.org/web/20240705185451/https:/www.donaldjtrump.com/agenda47/president-donald-j-trump-declares-war-on-cartels",
+    "status": "Kept",
+    "status_note": "On Feb. 20, 2025 the State Department designated six Mexican cartels, plus Tren de Aragua and MS-13, as FTOs. PolitiFact rates it Kept.",
+    "status_source_url": "https://www.politifact.com/truth-o-meter/promises/maga-meter-tracking-donald-trumps-2024-promises/promise/387391/designate-drug-cartels-as-foreign-terrorist-organi/article/387395/"
+   },
+   {
+    "promise": "Impose a universal baseline tariff of about 10% (up to 20%) on all imported goods",
+    "topic": "Trade",
+    "made_where": "Fox Business interview: 'let's say a 10% tax' (reported by Business Insider, Aug. 22, 2023)",
+    "made_date": "2023-08-17",
+    "source_url": "https://www.businessinsider.com/donald-trump-new-tariffs-election-2024-trade-war-joe-biden-2023-8",
+    "status": "In progress",
+    "status_note": "After the Supreme Court struck down the IEEPA tariffs (Learning Resources v. Trump, 6-3), PolitiFact rated it In the Works on Feb. 20, 2026. Per CRS (Oct. 8, 2026), a Section 122 10% global tariff expired July 24, 2026 and was followed by Section 301 tariffs of 10% to 12.5% on 60 economies (see https://www.everycrsreport.com/reports/R49481.html).",
+    "status_source_url": "https://www.politifact.com/truth-o-meter/promises/maga-meter-tracking-donald-trumps-2024-promises/promise/387410/add-a-tariff-of-10-to-20-to-all-nondomestic-goods/article/387415/"
+   },
+   {
+    "promise": "Impose tariffs of 60% (or more) on goods from China",
+    "topic": "Trade",
+    "made_where": "Fox News 'Sunday Morning Futures' interview (reported by CNN)",
+    "made_date": "2024-02-04",
+    "source_url": "https://www.cnn.com/2024/02/04/politics/china-trump-tariffs-taiwan",
+    "status": "In progress",
+    "status_note": "Trump went past 60% in April 2025 (145%). The Feb. 2026 Supreme Court ruling then invalidated the IEEPA-based China tariffs. PolitiFact rates it In the Works because Section 301/232 tools remain, though a 60% rate is uncertain.",
+    "status_source_url": "https://www.politifact.com/truth-o-meter/promises/maga-meter-tracking-donald-trumps-2024-promises/promise/387416/add-a-60-tariff-on-goods-from-china/article/387421/"
+   },
+   {
+    "promise": "Institute reciprocal tariffs (pass the Trump Reciprocal Trade Act)",
+    "topic": "Trade",
+    "made_where": "2024 Republican Party platform (adopted at the Republican National Convention)",
+    "made_date": "2024-07-08",
+    "source_url": "https://www.presidency.ucsb.edu/documents/2024-republican-party-platform",
+    "status": "Stalled",
+    "status_note": "PolitiFact rates it Stalled (Feb. 20, 2026): the Supreme Court struck down the IEEPA-based 'reciprocal' tariffs, and Congress has not passed a Reciprocal Trade Act.",
+    "status_source_url": "https://www.politifact.com/truth-o-meter/promises/maga-meter-tracking-donald-trumps-2024-promises/promise/387422/institute-a-reciprocal-tariff-policy/article/387427/"
+   },
+   {
+    "promise": "Make the Trump tax cuts permanent: a 'middle-class, upper-class, lower-class, business-class big tax cut'",
+    "topic": "Taxes",
+    "made_where": "2024 Republican Party platform (adopted at the Republican National Convention) ('Make Trump Tax Cuts Permanent')",
+    "made_date": "2024-07-08",
+    "source_url": "https://www.presidency.ucsb.edu/documents/2024-republican-party-platform",
+    "status": "Kept",
+    "status_note": "The One Big Beautiful Bill Act, signed July 4, 2025, extended the 2017 tax law and added new cuts. The Tax Policy Center found after-tax income rises in every income group, with larger gains at the top. PolitiFact rates it Kept.",
+    "status_source_url": "https://www.politifact.com/truth-o-meter/promises/maga-meter-tracking-donald-trumps-2024-promises/promise/387432/provide-a-middle-class-upper-class-lower-class-bus/article/387435/"
+   },
+   {
+    "promise": "No tax on tips",
+    "topic": "Taxes",
+    "made_where": "Campaign rally in Las Vegas, Nevada (reported by CNN)",
+    "made_date": "2024-06-09",
+    "source_url": "https://www.cnn.com/2024/06/09/politics/donald-trump-nevada-rally",
+    "status": "Kept",
+    "status_note": "The July 2025 law lets eligible workers deduct up to $25,000 in tips (with income limits) through 2028. PolitiFact rates it Kept.",
+    "status_source_url": "https://www.politifact.com/truth-o-meter/promises/maga-meter-tracking-donald-trumps-2024-promises/promise/387440/end-taxation-on-tips/article/387444/"
+   },
+   {
+    "promise": "End all taxes on overtime pay",
+    "topic": "Taxes",
+    "made_where": "Campaign rally in Tucson, Arizona (reported by NBC News)",
+    "made_date": "2024-09-12",
+    "source_url": "https://www.nbcnews.com/politics/2024-election/trump-says-will-end-taxes-overtime-pay-first-post-debate-rally-rcna170948",
+    "status": "Partially kept",
+    "status_note": "PolitiFact rates it Compromise: the law allows a deduction through 2028 of up to $12,500 (single) or $25,000 (joint), and only for the premium 'half' of FLSA overtime pay.",
+    "status_source_url": "https://www.politifact.com/truth-o-meter/promises/maga-meter-tracking-donald-trumps-2024-promises/promise/387445/end-taxation-on-overtime/article/387449/"
+   },
+   {
+    "promise": "End taxes on Social Security benefits ('Seniors should not pay tax on Social Security')",
+    "topic": "Taxes",
+    "made_where": "Truth Social post (reported by Roll Call)",
+    "made_date": "2024-07-31",
+    "source_url": "https://rollcall.com/2024/07/31/trump-pitches-repealing-tax-on-social-security-benefits/",
+    "status": "Partially kept",
+    "status_note": "PolitiFact rates it Compromise: the July 2025 law did not end taxation of benefits. It added a temporary $6,000 deduction for people 65 and older, through 2028.",
+    "status_source_url": "https://www.politifact.com/truth-o-meter/promises/maga-meter-tracking-donald-trumps-2024-promises/promise/387436/end-taxation-on-social-security/article/387439/"
+   },
+   {
+    "promise": "Restore the state and local tax (SALT) deduction ('get SALT back')",
+    "topic": "Taxes",
+    "made_where": "Truth Social post before a Uniondale, N.Y. rally (reported by NBC News)",
+    "made_date": "2024-09-17",
+    "source_url": "https://www.nbcnews.com/politics/2024-election/trump-calls-undoing-part-tax-law-vowing-get-salt-back-rcna171513",
+    "status": "Partially kept",
+    "status_note": "PolitiFact rates it Compromise: the cap rose temporarily to $40,000 and returns to $10,000 in 2030.",
+    "status_source_url": "https://www.politifact.com/truth-o-meter/promises/maga-meter-tracking-donald-trumps-2024-promises/promise/387464/restore-the-state-and-local-tax-deduction-salt/article/387467/"
+   },
+   {
+    "promise": "Make interest on car loans tax-deductible",
+    "topic": "Taxes",
+    "made_where": "Speech to the Detroit Economic Club (reported by CNBC)",
+    "made_date": "2024-10-10",
+    "source_url": "https://www.cnbc.com/2024/10/10/trump-car-loan-tax-deductible-harris-election.html",
+    "status": "Kept",
+    "status_note": "The July 2025 law lets buyers deduct up to $10,000 a year in interest on new U.S.-assembled vehicles for 2025-2028. PolitiFact rates it Kept.",
+    "status_source_url": "https://www.politifact.com/truth-o-meter/promises/maga-meter-tracking-donald-trumps-2024-promises/promise/387459/make-interest-on-car-loans-tax-deductible/article/387463/"
+   },
+   {
+    "promise": "Cut the corporate tax rate from 21% to 15% for companies that make their products in America",
+    "topic": "Taxes",
+    "made_where": "Speech to the Economic Club of New York (official transcript)",
+    "made_date": "2024-09-05",
+    "source_url": "https://econclubny.globalnorthstar.net/documents/20124/74672/20240905_Trump_Transcript.pdf/cf65e176-58d3-44e8-71fe-941d4cc71029",
+    "status": "Stalled",
+    "status_note": "PolitiFact rates it Stalled: the 2025 tax law expanded expensing benefits for businesses but did not lower the corporate rate to 15%.",
+    "status_source_url": "https://www.politifact.com/truth-o-meter/promises/maga-meter-tracking-donald-trumps-2024-promises/promise/387450/reduce-corporate-tax-rate-from-21-to-15-for-compan/article/387453/"
+   },
+   {
+    "promise": "Defeat inflation and quickly bring down prices (groceries, cars, other consumer goods)",
+    "topic": "Cost of living",
+    "made_where": "2024 Republican Party platform (adopted at the Republican National Convention) (core promise: 'End inflation, and make America affordable again')",
+    "made_date": "2024-07-08",
+    "source_url": "https://www.presidency.ucsb.edu/documents/2024-republican-party-platform",
+    "status": "Stalled",
+    "status_note": "PolitiFact rates it Stalled (Jan. 20, 2026): year-over-year inflation went only from 3.0% to 2.7%. Prices for groceries, electricity, housing and medical care kept rising.",
+    "status_source_url": "https://www.politifact.com/truth-o-meter/promises/maga-meter-tracking-donald-trumps-2024-promises/promise/387725/reduce-prices-for-groceries-cars-and-other-consume/article/387728/"
+   },
+   {
+    "promise": "Cut energy costs in half within 12 months of taking office",
+    "topic": "Cost of living",
+    "made_where": "Campaign rally in Potterville, Michigan (Rev transcript)",
+    "made_date": "2024-08-29",
+    "source_url": "https://webflow.rev.com/transcripts/trump-speaks-at-event-in-michigan",
+    "status": "Stalled",
+    "status_note": "PolitiFact rates it Stalled (Jan. 20, 2026): at the one-year mark gasoline was down about 11%, but electricity was up almost 7% and natural gas almost 9%.",
+    "status_source_url": "https://www.politifact.com/truth-o-meter/promises/maga-meter-tracking-donald-trumps-2024-promises/promise/387683/lower-energy-costs-within-the-first-year-by-50/article/387686/"
+   },
+   {
+    "promise": "Get gasoline below $2 a gallon",
+    "topic": "Cost of living",
+    "made_where": "Speech to the Economic Club of New York (official transcript)",
+    "made_date": "2024-09-05",
+    "source_url": "https://econclubny.globalnorthstar.net/documents/20124/74672/20240905_Trump_Transcript.pdf/cf65e176-58d3-44e8-71fe-941d4cc71029",
+    "status": "Stalled",
+    "status_note": "PolitiFact rates it Stalled: the national average was $4.15 a gallon on Apr. 10, 2026 after the Iran war disrupted shipping through the Strait of Hormuz.",
+    "status_source_url": "https://api.politifact.com/truth-o-meter/promises/maga-meter-tracking-donald-trumps-2024-promises/promise/1692/reduce-the-cost-of-gasoline-below-2-a-gallon/article/3264/"
+   },
+   {
+    "promise": "Put a temporary cap of about 10% on credit card interest rates",
+    "topic": "Cost of living",
+    "made_where": "Campaign rally in Uniondale, New York (Rev transcript)",
+    "made_date": "2024-09-18",
+    "source_url": "https://www.rev.com/transcripts/donald-trump-rally-on-9-18-24-in-uniondale",
+    "status": "Stalled",
+    "status_note": "PolitiFact rates it Stalled: Trump publicly called for a 10% cap in January 2026, but legislation has not advanced and no cap is in effect.",
+    "status_source_url": "https://www.politifact.com/truth-o-meter/promises/maga-meter-tracking-donald-trumps-2024-promises/promise/387454/put-a-temporary-cap-on-credit-card-interest-rates/article/387458/"
+   },
+   {
+    "promise": "Immediately refill the Strategic Petroleum Reserve",
+    "topic": "Energy",
+    "made_where": "Campaign pledge reported by E&E News (POLITICO)",
+    "made_date": "2024-08-08",
+    "source_url": "https://www.eenews.net/articles/trump-promises-to-refill-strategic-oil-reserve/",
+    "status": "Stalled",
+    "status_note": "PolitiFact rates it Stalled (Sept. 4, 2026): after releases during the Iran war, the reserve is at its lowest level since the early 1980s, about 26% below where it was when he took office.",
+    "status_source_url": "https://www.politifact.com/truth-o-meter/promises/maga-meter-tracking-donald-trumps-2024-promises/promise/387687/fill-up-the-strategic-petroleum-reserve-immediatel/article/397404/"
+   },
+   {
+    "promise": "End offshore wind energy development 'on day one' by executive order",
+    "topic": "Energy",
+    "made_where": "Campaign rally in Wildwood, New Jersey (reported by The Guardian)",
+    "made_date": "2024-05-11",
+    "source_url": "https://www.theguardian.com/us-news/article/2024/may/13/trump-president-agenda-climate-policy-wind-power",
+    "status": "In progress",
+    "status_note": "PolitiFact rates it In the Works: Trump signed a Day One order on Jan. 20, 2025, but in December 2025 courts ruled the halt unlawful and paused projects resumed.",
+    "status_source_url": "https://www.politifact.com/truth-o-meter/promises/maga-meter-tracking-donald-trumps-2024-promises/promise/387678/issue-an-executive-order-ending-offshore-wind-ener/article/387682/"
+   },
+   {
+    "promise": "Approve liquefied natural gas (LNG) export terminals on his first day back",
+    "topic": "Energy",
+    "made_where": "Campaign promise compiled in PolitiFact's list of Trump's 2024 promises (published Sept. 30, 2024); original statement date not independently verified",
+    "made_date": "2024-09-30",
+    "source_url": "https://www.politifact.com/article/2024/sep/30/donald-trumps-2024-campaign-promises-heres-his-vis/",
+    "status": "In progress",
+    "status_note": "PolitiFact rated it In the Works (Jan. 23, 2025; its latest update): the Biden-era pause on new LNG export approvals was lifted Jan. 21, 2025, but no new terminals were approved right away.",
+    "status_source_url": "https://www.politifact.com/truth-o-meter/promises/maga-meter-tracking-donald-trumps-2024-promises/promise/387674/approve-liquefied-natural-gas-terminals/article/387677/"
+   },
+   {
+    "promise": "Withdraw the U.S. from the Paris climate agreement (again)",
+    "topic": "Energy & climate",
+    "made_where": "Campaign promise compiled in PolitiFact's list of Trump's 2024 promises (published Sept. 30, 2024); original statement date not independently verified",
+    "made_date": "2024-09-30",
+    "source_url": "https://www.politifact.com/article/2024/sep/30/donald-trumps-2024-campaign-promises-heres-his-vis/",
+    "status": "Kept",
+    "status_note": "Trump signed an executive order on Jan. 20, 2025 withdrawing from the Paris Agreement. PolitiFact rates it Kept.",
+    "status_source_url": "https://www.politifact.com/truth-o-meter/promises/maga-meter-tracking-donald-trumps-2024-promises/promise/387666/leave-the-paris-climate-accord-again/article/387669/"
+   },
+   {
+    "promise": "End the Russia-Ukraine war within 24 hours (before even taking office)",
+    "topic": "Foreign policy",
+    "made_where": "CNN town hall in New Hampshire (repeated through 2024, including the Sept. 2024 debate)",
+    "made_date": "2023-05-10",
+    "source_url": "https://www.cnn.com/2023/05/10/politics/ukraine-russia-putin-trump-town-hall/",
+    "status": "Broken",
+    "status_note": "PolitiFact rates it Broken: the war continued past the deadline with no peace deal. As of Oct. 21, 2026, Reuters reports U.S.-brokered trilateral talks are only being revived (see https://www.arabnews.com/world/ukraines-zelensky-says-he-supports-ceasefire-trilateral-talks-with-us-russia-3007519).",
+    "status_source_url": "https://www.politifact.com/truth-o-meter/promises/maga-meter-tracking-donald-trumps-2024-promises/promise/387480/end-the-russia-ukraine-war-within-24-hours/article/387484/"
+   },
+   {
+    "promise": "Build an Iron Dome missile defense shield over the entire country, made in America",
+    "topic": "Defense",
+    "made_where": "2024 Republican Party platform (adopted at the Republican National Convention) (core promise)",
+    "made_date": "2024-07-08",
+    "source_url": "https://www.presidency.ucsb.edu/documents/2024-republican-party-platform",
+    "status": "In progress",
+    "status_note": "PolitiFact rates it In the Works: the July 2025 law included $24.4 billion for 'Golden Dome,' a fraction of the roughly $175 billion Trump estimated.",
+    "status_source_url": "https://www.politifact.com/truth-o-meter/promises/maga-meter-tracking-donald-trumps-2024-promises/promise/387485/construct-an-iron-dome-like-missile-defense-system/article/387490/"
+   },
+   {
+    "promise": "Withdraw from the World Health Organization",
+    "topic": "Health",
+    "made_where": "Campaign promise compiled in PolitiFact's list of Trump's 2024 promises (published Sept. 30, 2024); original statement date not independently verified",
+    "made_date": "2024-09-30",
+    "source_url": "https://www.politifact.com/article/2024/sep/30/donald-trumps-2024-campaign-promises-heres-his-vis/",
+    "status": "Kept",
+    "status_note": "Trump ordered withdrawal on Jan. 20, 2025, and the U.S. exit was completed in January 2026. PolitiFact rates it Kept.",
+    "status_source_url": "https://www.politifact.com/truth-o-meter/promises/maga-meter-tracking-donald-trumps-2024-promises/promise/387497/withdraw-from-the-world-health-organization/article/387501/"
+   },
+   {
+    "promise": "Protect Social Security and Medicare with no cuts, including no change to the retirement age",
+    "topic": "Health & seniors",
+    "made_where": "2024 Republican Party platform (adopted at the Republican National Convention) (core promise)",
+    "made_date": "2024-07-08",
+    "source_url": "https://www.presidency.ucsb.edu/documents/2024-republican-party-platform",
+    "status": "In progress",
+    "status_note": "PolitiFact rates it In the Works (Feb. 19, 2026): there have been no direct benefit cuts. However, SSA staffing cuts and the 2025 law's end of Medicare eligibility for some lawfully present immigrants could affect beneficiaries.",
+    "status_source_url": "https://www.politifact.com/truth-o-meter/promises/maga-meter-tracking-donald-trumps-2024-promises/promise/387502/leave-social-security-and-medicare-unchanged/article/387505/"
+   },
+   {
+    "promise": "Have the government pay for, or mandate insurers to cover, IVF treatment",
+    "topic": "Health",
+    "made_where": "Campaign interview with NBC News",
+    "made_date": "2024-08-29",
+    "source_url": "https://www.nbcnews.com/politics/donald-trump/trump-says-wants-make-ivf-treatments-paid-government-insurance-compani-rcna168804",
+    "status": "In progress",
+    "status_note": "PolitiFact rates it In the Works after a Feb. 18, 2025 executive order on IVF access. CNN (May 21, 2026) reports there is no coverage mandate; the administration has offered TrumpRx drug discounts and proposed a rule for voluntary employer fertility benefits (https://www.cnn.com/2026/05/21/politics/ivf-treatment-cost-trump).",
+    "status_source_url": "https://www.politifact.com/truth-o-meter/promises/maga-meter-tracking-donald-trumps-2024-promises/promise/387506/either-have-the-government-pay-for-or-require-insu/article/387509/"
+   },
+   {
+    "promise": "Close the Department of Education and send education back to the states",
+    "topic": "Education",
+    "made_where": "2024 Republican Party platform (adopted at the Republican National Convention)",
+    "made_date": "2024-07-08",
+    "source_url": "https://www.presidency.ucsb.edu/documents/2024-republican-party-platform",
+    "status": "In progress",
+    "status_note": "PolitiFact rates it In the Works (June 26, 2026): functions are being moved to other agencies (e.g., Treasury, Justice, HHS), but Congress has not abolished the department.",
+    "status_source_url": "https://www.politifact.com/truth-o-meter/promises/maga-meter-tracking-donald-trumps-2024-promises/promise/387528/abolish-the-education-department/article/387534/"
+   },
+   {
+    "promise": "Universal school choice in every state",
+    "topic": "Education",
+    "made_where": "2024 Republican Party platform (adopted at the Republican National Convention)",
+    "made_date": "2024-07-08",
+    "source_url": "https://www.presidency.ucsb.edu/documents/2024-republican-party-platform",
+    "status": "In progress",
+    "status_note": "PolitiFact rates it In the Works: the July 2025 law created a federal tax credit for scholarship donations starting in 2027. States must opt in, so school choice is not universal.",
+    "status_source_url": "https://www.politifact.com/truth-o-meter/promises/maga-meter-tracking-donald-trumps-2024-promises/promise/387535/provide-universal-school-choice/article/387539/"
+   },
+   {
+    "promise": "Pardon/free people convicted over the Jan. 6, 2021 Capitol riot as one of his first acts",
+    "topic": "Justice & clemency",
+    "made_where": "Campaign remarks reported by NBC News",
+    "made_date": "2024-03-11",
+    "source_url": "https://www.nbcnews.com/politics/donald-trump/trump-vows-free-jan-6-defendants-one-first-acts-elected-rcna142894",
+    "status": "Kept",
+    "status_note": "On Jan. 20, 2025 Trump issued a proclamation pardoning Jan. 6 defendants and commuting 14 sentences. PolitiFact rates it Kept.",
+    "status_source_url": "https://www.politifact.com/truth-o-meter/promises/maga-meter-tracking-donald-trumps-2024-promises/promise/387548/fully-pardon-people-convicted-of-crimes-related-to/article/387551/"
+   },
+   {
+    "promise": "On Day One, commute the life sentence of Silk Road operator Ross Ulbricht",
+    "topic": "Justice & clemency",
+    "made_where": "Libertarian National Convention speech (reported by NBC News)",
+    "made_date": "2024-05-25",
+    "source_url": "https://www.nbcnews.com/politics/2024-election/trump-commute-silk-road-website-operator-ross-ulbrichts-life-prison-se-rcna154082",
+    "status": "Kept",
+    "status_note": "Trump went further and granted Ulbricht a full pardon on Jan. 21, 2025. PolitiFact rates it Kept.",
+    "status_source_url": "https://www.politifact.com/truth-o-meter/promises/maga-meter-tracking-donald-trumps-2024-promises/promise/387574/commute-the-sentence-of-silk-road-website-operator/article/387577/"
+   },
+   {
+    "promise": "'Save TikTok' from a U.S. ban",
+    "topic": "Technology",
+    "made_where": "Remarks to reporters while campaigning in Philadelphia (reported by the Los Angeles Times)",
+    "made_date": "2024-06",
+    "source_url": "https://www.latimes.com/politics/story/2024-10-10/2024-election-trump-policy-shifts",
+    "status": "Kept",
+    "status_note": "A U.S. joint venture keeping TikTok operating in the U.S. was announced Jan. 22, 2026. PolitiFact rates it Kept.",
+    "status_source_url": "https://www.politifact.com/truth-o-meter/promises/maga-meter-tracking-donald-trumps-2024-promises/promise/387695/save-tiktok/article/387704/"
+   },
+   {
+    "promise": "Create a Government Efficiency Commission (led by Elon Musk) to audit government and eliminate fraud and improper payments",
+    "topic": "Government",
+    "made_where": "Speech to the Economic Club of New York (official transcript)",
+    "made_date": "2024-09-05",
+    "source_url": "https://econclubny.globalnorthstar.net/documents/20124/74672/20240905_Trump_Transcript.pdf/cf65e176-58d3-44e8-71fe-941d4cc71029",
+    "status": "In progress",
+    "status_note": "PolitiFact's latest update (June 2025) rated it In the Works: DOGE claimed $180 billion in savings, but verifiable itemized cuts were roughly half that. DOGE's mandate ran to July 4, 2026, and PolitiFact has not published a final rating.",
+    "status_source_url": "https://www.politifact.com/truth-o-meter/promises/maga-meter-tracking-donald-trumps-2024-promises/promise/387643/create-a-government-efficiency-commission-to-elimi/article/387648/"
+   },
+   {
+    "promise": "On Day One, re-issue the Schedule F order restoring the president's power to fire 'rogue bureaucrats'",
+    "topic": "Government",
+    "made_where": "Agenda47 video 'Plan to Dismantle the Deep State' (campaign page copy in House committee records)",
+    "made_date": "2023-03-21",
+    "source_url": "https://www.congress.gov/118/meeting/house/117688/documents/HHRG-118-FD00-20240925-SD006.pdf",
+    "status": "Kept",
+    "status_note": "PolitiFact rates it Kept: OPM issued a final 'Schedule Policy/Career' rule on Feb. 5, 2026 covering about 50,000 positions, effective Mar. 9, 2026, with litigation pending.",
+    "status_source_url": "https://www.politifact.com/truth-o-meter/promises/maga-meter-tracking-donald-trumps-2024-promises/promise/387628/empower-the-president-to-remove-rogue-bureaucrats/article/387633/"
+   },
+   {
+    "promise": "Cut off federal funding for NPR ('NOT ONE DOLLAR')",
+    "topic": "Government",
+    "made_where": "Truth Social post (reported by CNN)",
+    "made_date": "2024-04-10",
+    "source_url": "https://www.cnn.com/2024/04/11/media/npr-uri-berliner-left-bias-right-wing-media",
+    "status": "Kept",
+    "status_note": "On July 18, 2025 Congress approved a rescissions package that canceled about $1.07 billion for the Corporation for Public Broadcasting, which funds NPR and PBS. PolitiFact rates it Kept.",
+    "status_source_url": "https://www.politifact.com/truth-o-meter/promises/maga-meter-tracking-donald-trumps-2024-promises/promise/387660/cut-off-federal-funding-for-npr/article/387665/"
+   },
+   {
+    "promise": "Require voter ID",
+    "topic": "Elections",
+    "made_where": "2024 Republican Party platform (adopted at the Republican National Convention) (core promise: 'Secure our elections, including ... voter identification')",
+    "made_date": "2024-07-08",
+    "source_url": "https://www.presidency.ucsb.edu/documents/2024-republican-party-platform",
+    "status": "Broken",
+    "status_note": "PolitiFact rates it Broken: the Senate rejected a national photo-ID bill 52-46 on Aug. 8, 2026, short of the 60 votes needed, so the midterms will follow state ID laws.",
+    "status_source_url": "https://www.politifact.com/truth-o-meter/promises/maga-meter-tracking-donald-trumps-2024-promises/promise/387584/require-voter-id-at-the-polls/article/396917/"
+   },
+   {
+    "promise": "Require proof of citizenship to vote",
+    "topic": "Elections",
+    "made_where": "2024 Republican Party platform (adopted at the Republican National Convention) (core promise)",
+    "made_date": "2024-07-08",
+    "source_url": "https://www.presidency.ucsb.edu/documents/2024-republican-party-platform",
+    "status": "Stalled",
+    "status_note": "PolitiFact rates it Stalled: the House passed the SAVE America Act on Feb. 11, 2026, but it faces Senate hurdles, and courts blocked key parts of a related executive order.",
+    "status_source_url": "https://www.politifact.com/truth-o-meter/promises/maga-meter-tracking-donald-trumps-2024-promises/promise/387578/require-proof-of-citizenship-at-the-polls/article/387583/"
+   },
+   {
+    "promise": "Require paper ballots",
+    "topic": "Elections",
+    "made_where": "2024 Republican Party platform (adopted at the Republican National Convention) (core promise)",
+    "made_date": "2024-07-08",
+    "source_url": "https://www.presidency.ucsb.edu/documents/2024-republican-party-platform",
+    "status": "Stalled",
+    "status_note": "PolitiFact rates it Stalled (Jan. 21, 2026): no concrete federal steps have been taken and Congress has not acted.",
+    "status_source_url": "https://www.politifact.com/truth-o-meter/promises/maga-meter-tracking-donald-trumps-2024-promises/promise/387589/require-only-paper-ballots/article/387592/"
+   },
+   {
+    "promise": "Count all votes on election night",
+    "topic": "Elections",
+    "made_where": "Campaign promise compiled in PolitiFact's list of Trump's 2024 promises (published Sept. 30, 2024); original statement date not independently verified",
+    "made_date": "2024-09-30",
+    "source_url": "https://www.politifact.com/article/2024/sep/30/donald-trumps-2024-campaign-promises-heres-his-vis/",
+    "status": "Broken",
+    "status_note": "PolitiFact rates it Broken (June 29, 2026): in Watson v. RNC (5-4), the Supreme Court upheld states' counting of mail ballots postmarked by Election Day but received later.",
+    "status_source_url": "https://www.politifact.com/truth-o-meter/promises/maga-meter-tracking-donald-trumps-2024-promises/promise/387593/count-all-votes-on-election-night/article/387598/"
+   },
+   {
+    "promise": "Reinstate the ban on transgender people serving in the military",
+    "topic": "Gender & LGBTQ policy",
+    "made_where": "Campaign promise compiled in PolitiFact's list of Trump's 2024 promises (published Sept. 30, 2024); original statement date not independently verified",
+    "made_date": "2024-09-30",
+    "source_url": "https://www.politifact.com/article/2024/sep/30/donald-trumps-2024-campaign-promises-heres-his-vis/",
+    "status": "Kept",
+    "status_note": "The ban was implemented after the Supreme Court allowed it to take effect on May 6, 2025. PolitiFact rates it Kept.",
+    "status_source_url": "https://www.politifact.com/truth-o-meter/promises/maga-meter-tracking-donald-trumps-2024-promises/promise/387616/reinstate-the-transgender-ban-in-the-military/article/387623/"
+   },
+   {
+    "promise": "Ask Congress to pass a law recognizing only two genders, male and female, assigned at birth",
+    "topic": "Gender & LGBTQ policy",
+    "made_where": "Agenda47 video 'Plan to Protect Children from Left-Wing Gender Insanity' (archived campaign page)",
+    "made_date": "2023-02-01",
+    "source_url": "https://web.archive.org/web/20240706021613/https:/www.donaldjtrump.com/agenda47/president-trumps-plan-to-protect-children-from-left-wing-gender-insanity",
+    "status": "In progress",
+    "status_note": "A Jan. 20, 2025 executive order declared that federal policy recognizes two sexes, but Congress has not passed such a law. PolitiFact rates it In the Works.",
+    "status_source_url": "https://www.politifact.com/truth-o-meter/promises/maga-meter-tracking-donald-trumps-2024-promises/promise/1666/sign-legislation-recognizing-only-two-genders-assi/article/3137/"
+   },
+   {
+    "promise": "Pass a law banning gender-transition procedures for minors in all 50 states",
+    "topic": "Gender & LGBTQ policy",
+    "made_where": "Agenda47 video 'Plan to Protect Children from Left-Wing Gender Insanity' (archived campaign page)",
+    "made_date": "2023-02-01",
+    "source_url": "https://web.archive.org/web/20240706021613/https:/www.donaldjtrump.com/agenda47/president-trumps-plan-to-protect-children-from-left-wing-gender-insanity",
+    "status": "In progress",
+    "status_note": "PolitiFact rates it In the Works: HHS proposed rules on Dec. 18, 2025 targeting providers that perform these procedures on minors, and the House passed the Protect Children's Innocence Act, but no nationwide ban is law.",
+    "status_source_url": "https://www.politifact.com/truth-o-meter/promises/maga-meter-tracking-donald-trumps-2024-promises/promise/387603/sign-legislation-outlawing-gender-related-surgery/article/387607/"
+   },
+   {
+    "promise": "Create 'baby bonuses' for new parents",
+    "topic": "Family",
+    "made_where": "Campaign promise compiled in PolitiFact's list of Trump's 2024 promises (published Sept. 30, 2024); original statement date not independently verified",
+    "made_date": "2024-09-30",
+    "source_url": "https://www.politifact.com/article/2024/sep/30/donald-trumps-2024-campaign-promises-heres-his-vis/",
+    "status": "Kept",
+    "status_note": "The July 2025 law provides a $1,000 federal deposit into a 'Trump account' for U.S.-citizen babies born 2025-2028. PolitiFact rates it Kept.",
+    "status_source_url": "https://www.politifact.com/truth-o-meter/promises/maga-meter-tracking-donald-trumps-2024-promises/promise/387476/create-baby-bonuses-for-young-parents/article/387479/"
+   }
+  ],
+  "status_order": [
+   "Kept",
+   "Partially kept",
+   "In progress",
+   "Stalled",
+   "Broken"
+  ],
+  "counts": {
+   "Kept": 14,
+   "Partially kept": 3,
+   "In progress": 15,
+   "Stalled": 10,
+   "Broken": 4,
+   "Not yet addressed": 0
+  },
+  "total": 46
+ },
+ "races": [
+  {
+   "race": "Governor",
+   "level": "state",
+   "section": "state",
+   "note": "Neither candidate submitted a statement to the Official Voter Information Guide.",
+   "candidates": [
+    {
+     "name": "Steve Hilton",
+     "party": "Republican",
+     "promises": [
+      {
+       "text": "No state income tax on the first $150,000 of income; flat 8% rate above that",
+       "topic": "taxes",
+       "topics": [
+        "taxes"
+       ],
+       "url": "https://stevehiltonforgovernor.com/policies/no-state-income-tax-on-your-first-150000",
+       "date": ""
+      },
+      {
+       "text": "$3 gas plan: repeal the Low Carbon Fuel Standard, end cap-and-trade, end 2045 net-zero target, cut refinery mandates, reduce the state gas tax",
+       "topic": "energy / transportation",
+       "topics": [
+        "energy",
+        "transportation"
+       ],
+       "url": "https://stevehiltonforgovernor.com/news/steve-hilton-announces-plan-for-3-gas-in-2026",
+       "date": "2025-06-02"
+      },
+      {
+       "text": "Pay for tax cuts by ending high-speed rail funding, trimming state agencies 5% and cracking down on Medi-Cal fraud (~$25B/yr est.)",
+       "topic": "budget",
+       "topics": [
+        "budget"
+       ],
+       "url": "https://www.latimes.com/california/story/2026-10-06/hilton-warm-on-tax-cuts-tepid-on-trump-cold-on-offshore-wind-during-town-hall",
+       "date": "2026-10-06"
+      },
+      {
+       "text": "Build 10 new cities, cap government fees on new homes, and stop enforcing housing production goals in favor of building outward in undeveloped areas",
+       "topic": "housing",
+       "topics": [
+        "housing"
+       ],
+       "url": "https://www.latimes.com/california/story/2026-10-06/hilton-warm-on-tax-cuts-tepid-on-trump-cold-on-offshore-wind-during-town-hall",
+       "date": "2026-10-06"
+      },
+      {
+       "text": "End state-funded health care for undocumented immigrants",
+       "topic": "health care / immigration",
+       "topics": [
+        "health care",
+        "immigration"
+       ],
+       "url": "https://www.latimes.com/california/story/2026-10-06/hilton-warm-on-tax-cuts-tepid-on-trump-cold-on-offshore-wind-during-town-hall",
+       "date": "2026-10-06"
+      },
+      {
+       "text": "Oppose offshore wind; plant 3 billion trees, restore wetlands, expand geothermal and in-state oil production",
+       "topic": "energy / environment",
+       "topics": [
+        "energy",
+        "environment"
+       ],
+       "url": "https://www.latimes.com/california/story/2026-10-06/hilton-warm-on-tax-cuts-tepid-on-trump-cold-on-offshore-wind-during-town-hall",
+       "date": "2026-10-06"
+      },
+      {
+       "text": "'Eight promises' include cutting utility bills in half, every student reading by 3rd grade, skills training in every school, and abolishing the $800 minimum small-business tax",
+       "topic": "cost of living / education",
+       "topics": [
+        "cost of living",
+        "education"
+       ],
+       "url": "https://stevehiltonforgovernor.com/plan",
+       "date": ""
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Xavier Becerra",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "On day one, issue an executive order declaring the housing shortage a state of emergency and create a senior housing delivery team; first target ~40,000 approved affordable units awaiting final funding",
+       "topic": "housing",
+       "topics": [
+        "housing"
+       ],
+       "url": "https://www.xavierbecerra2026.com/priorities/housing/",
+       "date": ""
+      },
+      {
+       "text": "Work with the Legislature to comprehensively reform statewide development fees; give every housing project seeking state review a final response within a defined timeline (e.g., 180 days)",
+       "topic": "housing",
+       "topics": [
+        "housing"
+       ],
+       "url": "https://www.xavierbecerra2026.com/priorities/housing/",
+       "date": ""
+      },
+      {
+       "text": "Direct HCD to identify cities reneging on housing element commitments and begin enforcement, including financial penalties; expand the Housing Accountability Unit",
+       "topic": "housing",
+       "topics": [
+        "housing"
+       ],
+       "url": "https://www.xavierbecerra2026.com/priorities/housing/",
+       "date": ""
+      },
+      {
+       "text": "Expand and increase funding for the state down payment assistance program and broaden eligibility for first-time buyers",
+       "topic": "housing",
+       "topics": [
+        "housing"
+       ],
+       "url": "https://www.xavierbecerra2026.com/priorities/housing/",
+       "date": ""
+      },
+      {
+       "text": "'Power Hour': up to two hours/day of free mid-day electricity for eligible working families (e.g., family of four under $82,500), est. ~$1,000/yr savings",
+       "topic": "energy / cost of living",
+       "topics": [
+        "energy",
+        "cost of living"
+       ],
+       "url": "https://www.xavierbecerra2026.com/2026/08/11/becerra-announces-first-in-the-nation-free-power-hour-to-cut-utility-bills-for-working-californians/",
+       "date": "2026-08-11"
+      },
+      {
+       "text": "Day-one executive order directing agencies to maintain coverage continuity for Californians affected by federal Medi-Cal cuts",
+       "topic": "health care",
+       "topics": [
+        "health care"
+       ],
+       "url": "https://www.xavierbecerra2026.com/priorities/health-care/",
+       "date": ""
+      },
+      {
+       "text": "Would try to freeze home insurance rates during a declared cost-of-living state of emergency and scrutinize utility rate increases",
+       "topic": "insurance / cost of living",
+       "topics": [
+        "insurance",
+        "cost of living"
+       ],
+       "url": "https://calmatters.org/california-voter-guide-2026/governor/videos/transcripts/",
+       "date": ""
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ]
+  },
+  {
+   "race": "Lieutenant Governor",
+   "level": "state",
+   "section": "state",
+   "note": "",
+   "candidates": [
+    {
+     "name": "Fiona Ma",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "Advocate UC and CSU tuition freezes, more affordable student housing and expanded paid internships",
+       "topic": "education / higher ed",
+       "topics": [
+        "education",
+        "higher ed"
+       ],
+       "url": "https://www.dailynews.com/2026/10/09/california-lieutenant-governor-candidates-talk-college-affordability-and-workforce-development/",
+       "date": "2026-10-09"
+      },
+      {
+       "text": "Expand Cal Grants to cover full cost of attendance (housing, food, books, transportation, childcare); 'total cost of attendance' supplement for low/middle-income students",
+       "topic": "education / higher ed",
+       "topics": [
+        "education",
+        "higher ed"
+       ],
+       "url": "https://www.dailynews.com/2026/10/09/california-lieutenant-governor-candidates-talk-college-affordability-and-workforce-development/",
+       "date": "2026-10-09"
+      },
+      {
+       "text": "Strengthen college-employer-apprenticeship partnerships and connect workforce training to growth industries; reduce barriers for small, women- and minority-owned businesses",
+       "topic": "jobs / economy",
+       "topics": [
+        "jobs",
+        "economy"
+       ],
+       "url": "https://fionama.com/scng-and-la-daily-news-examine-college-affordability-and-workforce-development-in-lieutenant-governor-race/",
+       "date": "2026-10-10"
+      },
+      {
+       "text": "Make higher education more affordable, expand paid internships and strengthen career pathways",
+       "topic": "education / jobs",
+       "topics": [
+        "education",
+        "jobs"
+       ],
+       "url": "https://voterguide.sos.ca.gov/candidates/lt-governor-candidate-statements.htm",
+       "date": "2026 general (Official Voter Information Guide)"
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Gloria Romero",
+     "party": "Republican",
+     "promises": [
+      {
+       "text": "Advocate restoring merit-based admissions and the SAT at UC",
+       "topic": "education / higher ed",
+       "topics": [
+        "education",
+        "higher ed"
+       ],
+       "url": "https://growsf.org/voter-guide/questionnaires/november-2026/gloria-romero/",
+       "date": "2026-07-01"
+      },
+      {
+       "text": "'Degree guarantee': colleges must offer required courses on time or cover tuition/fees for the delayed course",
+       "topic": "education / higher ed",
+       "topics": [
+        "education",
+        "higher ed"
+       ],
+       "url": "https://www.dailynews.com/2026/10/09/california-lieutenant-governor-candidates-talk-college-affordability-and-workforce-development/",
+       "date": "2026-10-09"
+      },
+      {
+       "text": "Oppose state efforts to eliminate natural gas appliances",
+       "topic": "energy / consumer choice",
+       "topics": [
+        "energy",
+        "consumer choice"
+       ],
+       "url": "https://growsf.org/voter-guide/questionnaires/november-2026/gloria-romero/",
+       "date": "2026-07-01"
+      },
+      {
+       "text": "Promote vegetation management and fuel reduction for wildfire prevention via the State Lands Commission",
+       "topic": "wildfire / environment",
+       "topics": [
+        "wildfire",
+        "environment"
+       ],
+       "url": "https://growsf.org/voter-guide/questionnaires/november-2026/gloria-romero/",
+       "date": "2026-07-01"
+      },
+      {
+       "text": "Convene a California Task Force on Human Sex Trafficking and organize a California-Mexico summit on trafficking networks",
+       "topic": "public safety",
+       "topics": [
+        "public safety"
+       ],
+       "url": "https://growsf.org/voter-guide/questionnaires/november-2026/gloria-romero/",
+       "date": "2026-07-01"
+      },
+      {
+       "text": "Restore education standards, develop a bold economic plan for businesses, and 'rein in politicized commissions' on water and farmland",
+       "topic": "education / economy / water",
+       "topics": [
+        "education",
+        "economy",
+        "water"
+       ],
+       "url": "https://voterguide.sos.ca.gov/candidates/lt-governor-candidate-statements.htm",
+       "date": "2026 general (Official Voter Information Guide)"
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ]
+  },
+  {
+   "race": "Attorney General",
+   "level": "state",
+   "section": "state",
+   "note": "Bonta did not submit a statement to the Official Voter Information Guide. His promises come from his campaign site and the LA Times.",
+   "candidates": [
+    {
+     "name": "Michael E. Gates",
+     "party": "Republican",
+     "promises": [
+      {
+       "text": "Make full statewide implementation of Proposition 36 his highest priority; prioritize prosecuting violent and repeat offenders",
+       "topic": "public safety",
+       "topics": [
+        "public safety"
+       ],
+       "url": "https://www.gates4ag.com/issues",
+       "date": ""
+      },
+      {
+       "text": "Defend cities' and counties' authority over zoning and housing; push back on state mandates overriding local plans",
+       "topic": "housing / local control",
+       "topics": [
+        "housing",
+        "local control"
+       ],
+       "url": "https://www.gates4ag.com/issues",
+       "date": ""
+      },
+      {
+       "text": "Investigate and prosecute fraud in state programs, demand independent audits, and sue to recover lost funds",
+       "topic": "government accountability",
+       "topics": [
+        "government accountability"
+       ],
+       "url": "https://www.gates4ag.com/issues",
+       "date": ""
+      },
+      {
+       "text": "Enforce Title IX statewide 'on day one,' including keeping boys out of girls' sports; defend parents' rights (e.g., against AB 1955)",
+       "topic": "education / civil rights",
+       "topics": [
+        "education",
+        "civil rights"
+       ],
+       "url": "https://www.gates4ag.com/issues",
+       "date": ""
+      },
+      {
+       "text": "Review each of Bonta's pending suits against the Trump administration case by case rather than dropping them all",
+       "topic": "federal relations / legal",
+       "topics": [
+        "federal relations",
+        "legal"
+       ],
+       "url": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-attorney-general-bonta-gates-voter-guide",
+       "date": "2026-10-01"
+      },
+      {
+       "text": "Fully enforce Prop. 36 and prosecute fentanyl traffickers; help people off the streets into treatment",
+       "topic": "public safety / drugs",
+       "topics": [
+        "public safety",
+        "drugs"
+       ],
+       "url": "https://voterguide.sos.ca.gov/candidates/attorney-general-candidate-statements.htm",
+       "date": "2026 general (Official Voter Information Guide)"
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Rob Bonta",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "Continue suing the Trump administration when its actions break the law and the state has standing",
+       "topic": "federal relations / legal",
+       "topics": [
+        "federal relations",
+        "legal"
+       ],
+       "url": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-attorney-general-bonta-gates-voter-guide",
+       "date": "2026-10-01"
+      },
+      {
+       "text": "Defend California gun safety laws and expand use of gun violence restraining orders and community violence-interruption programs",
+       "topic": "public safety / guns",
+       "topics": [
+        "public safety",
+        "guns"
+       ],
+       "url": "https://robbonta.com/issues/",
+       "date": ""
+      },
+      {
+       "text": "Increase resources to clear the rape kit backlog and expand human trafficking/sexual predator response units",
+       "topic": "public safety",
+       "topics": [
+        "public safety"
+       ],
+       "url": "https://robbonta.com/issues/",
+       "date": ""
+      },
+      {
+       "text": "Prioritize cases against employers who steal wages or create unsafe conditions; expand capacity to prosecute polluters",
+       "topic": "labor / environment",
+       "topics": [
+        "labor",
+        "environment"
+       ],
+       "url": "https://robbonta.com/issues/",
+       "date": ""
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ]
+  },
+  {
+   "race": "Secretary of State",
+   "level": "state",
+   "section": "state",
+   "note": "",
+   "candidates": [
+    {
+     "name": "Donald P. (Don) Wagner",
+     "party": "Republican",
+     "promises": [
+      {
+       "text": "Pledges to speed up vote counting so results come faster after Election Day",
+       "topic": "elections",
+       "topics": [
+        "elections"
+       ],
+       "url": "https://voterguide.sos.ca.gov/candidates/sos-candidate-statements.htm",
+       "date": "2026 general (Official Voter Information Guide)"
+      },
+      {
+       "text": "Clean voter rolls of people who moved or died; would accept federal help to clean rolls",
+       "topic": "elections",
+       "topics": [
+        "elections"
+       ],
+       "url": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-secretary-of-state-weber-wagner-voter-guide",
+       "date": "2026-10-01"
+      },
+      {
+       "text": "Supports Prop. 39 photo ID requirement and wants the Legislature to 'fix' ballot harvesting",
+       "topic": "elections",
+       "topics": [
+        "elections"
+       ],
+       "url": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-secretary-of-state-weber-wagner-voter-guide",
+       "date": "2026-10-01"
+      },
+      {
+       "text": "Run the office as a nonpartisan 'umpire' removed from partisan politics",
+       "topic": "elections / governance",
+       "topics": [
+        "elections",
+        "governance"
+       ],
+       "url": "https://voterguide.sos.ca.gov/candidates/sos-candidate-statements.htm",
+       "date": "2026 general (Official Voter Information Guide)"
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Shirley N. Weber",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "Will 'continue to fight to make sure nothing stands between you and the ballot box'; opposes shorter polling hours/fewer voting days/removing vote-by-mail",
+       "topic": "elections / voting rights",
+       "topics": [
+        "elections",
+        "voting rights"
+       ],
+       "url": "https://voterguide.sos.ca.gov/candidates/sos-candidate-statements.htm",
+       "date": "2026 general (Official Voter Information Guide)"
+      },
+      {
+       "text": "Opposes Prop. 39 voter ID measure and says turning voter rolls over to federal officials is unconstitutional and not required",
+       "topic": "elections / voting rights",
+       "topics": [
+        "elections",
+        "voting rights"
+       ],
+       "url": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-secretary-of-state-weber-wagner-voter-guide",
+       "date": "2026-10-01"
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ]
+  },
+  {
+   "race": "Treasurer",
+   "level": "state",
+   "section": "state",
+   "note": "Hawks declined to answer GrowSF's questionnaire.",
+   "candidates": [
+    {
+     "name": "Eleni Kounalakis",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "Build more affordable housing through public finance; invest in children's/families' financial future; protect pensions",
+       "topic": "housing / finance",
+       "topics": [
+        "housing",
+        "finance"
+       ],
+       "url": "https://voterguide.sos.ca.gov/candidates/treasurer-candidate-statements.htm",
+       "date": "2026 general (Official Voter Information Guide)"
+      },
+      {
+       "text": "Would consider public banks to help low-paid workers avoid bank fees; push for expanded on-campus student housing",
+       "topic": "finance / housing",
+       "topics": [
+        "finance",
+        "housing"
+       ],
+       "url": "https://www.sacbee.com/news/politics-government/election/voter-guide/article317117760.html",
+       "date": "2026-09-24"
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Jennifer Hawks",
+     "party": "Republican",
+     "promises": [
+      {
+       "text": "In first 100 days, audit the state's portfolio, cash flow and bond programs and meet with every division chief",
+       "topic": "budget / oversight",
+       "topics": [
+        "budget",
+        "oversight"
+       ],
+       "url": "https://www.sacbee.com/news/politics-government/election/voter-guide/article317117760.html",
+       "date": "2026-09-24"
+      },
+      {
+       "text": "Require public dashboards so taxpayers can track how state funds are spent; focus on cutting state debt and protecting CalPERS/CalSTRS assets",
+       "topic": "budget / transparency",
+       "topics": [
+        "budget",
+        "transparency"
+       ],
+       "url": "https://www.sacbee.com/news/politics-government/election/voter-guide/article317117760.html",
+       "date": "2026-09-24"
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ]
+  },
+  {
+   "race": "Controller",
+   "level": "state",
+   "section": "state",
+   "note": "",
+   "candidates": [
+    {
+     "name": "Herb W Morgan",
+     "party": "Republican",
+     "promises": [
+      {
+       "text": "Publish all state expenditures in an online database with transaction-level, near-real-time detail, with AI flagging anomalies",
+       "topic": "budget / transparency",
+       "topics": [
+        "budget",
+        "transparency"
+       ],
+       "url": "https://voterguide.sos.ca.gov/candidates/controller-candidate-statements.htm",
+       "date": "2026 general (Official Voter Information Guide)"
+      },
+      {
+       "text": "Conduct more audits, starting with Medi-Cal/Health and Human Services programs and state-funded nonprofits (NGOs); tie NGO funding to measurable results",
+       "topic": "budget / oversight",
+       "topics": [
+        "budget",
+        "oversight"
+       ],
+       "url": "https://abc7news.com/post/california-controller-race-heats-democratic-incumbent-malia-cohen-republican-herb-morgan-clash-fraud-taxpayer-dollars/19902629/",
+       "date": "2026-10-05"
+      },
+      {
+       "text": "Be more aggressive returning the ~$15.5B in unclaimed property to owners",
+       "topic": "government operations",
+       "topics": [
+        "government operations"
+       ],
+       "url": "https://abc7news.com/post/california-controller-race-heats-democratic-incumbent-malia-cohen-republican-herb-morgan-clash-fraud-taxpayer-dollars/19902629/",
+       "date": "2026-10-05"
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Malia M. Cohen",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "Prioritize high-priority, high-risk audits (incl. high-speed rail questions) in collaboration with the State Auditor and Treasurer",
+       "topic": "budget / oversight",
+       "topics": [
+        "budget",
+        "oversight"
+       ],
+       "url": "https://www.kcra.com/article/california-state-controller-2026-voter-guide/74111198",
+       "date": "2026-10-15"
+      },
+      {
+       "text": "Pilot AI to flag irregular payments before money goes out; make state financial information searchable and easier to understand",
+       "topic": "budget / transparency",
+       "topics": [
+        "budget",
+        "transparency"
+       ],
+       "url": "https://abc7news.com/post/california-controller-race-heats-democratic-incumbent-malia-cohen-republican-herb-morgan-clash-fraud-taxpayer-dollars/19902629/",
+       "date": "2026-10-05"
+      },
+      {
+       "text": "Continue modernizing the state payroll and accounting systems",
+       "topic": "government operations",
+       "topics": [
+        "government operations"
+       ],
+       "url": "https://voterguide.sos.ca.gov/candidates/controller-candidate-statements.htm",
+       "date": "2026 general (Official Voter Information Guide)"
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ]
+  },
+  {
+   "race": "Insurance Commissioner",
+   "level": "state",
+   "section": "state",
+   "note": "",
+   "candidates": [
+    {
+     "name": "Ben Allen",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "Increase competition to bring down insurance costs; protect consumers unfairly dropped; make insurers accountable and expedite rebuilding",
+       "topic": "insurance",
+       "topics": [
+        "insurance"
+       ],
+       "url": "https://voterguide.sos.ca.gov/candidates/insurance-commissioner-candidate-statements.htm",
+       "date": "2026 general (Official Voter Information Guide)"
+      },
+      {
+       "text": "Will not take insurance company money; opposes creating an 'untested large-scale' state insurance system",
+       "topic": "insurance / ethics",
+       "topics": [
+        "insurance",
+        "ethics"
+       ],
+       "url": "https://voterguide.sos.ca.gov/candidates/insurance-commissioner-candidate-statements.htm",
+       "date": "2026 general (Official Voter Information Guide)"
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Jane Kim",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "Make claims fast and fair, cap excessive insurer profits, and crack down on illegal price-fixing",
+       "topic": "insurance",
+       "topics": [
+        "insurance"
+       ],
+       "url": "https://voterguide.sos.ca.gov/candidates/insurance-commissioner-candidate-statements.htm",
+       "date": "2026 general (Official Voter Information Guide)"
+      },
+      {
+       "text": "Create a public 'Disaster Insurance for All' program; never take money from insurance companies or corporate PACs",
+       "topic": "insurance / disasters",
+       "topics": [
+        "insurance",
+        "disasters"
+       ],
+       "url": "https://voterguide.sos.ca.gov/candidates/insurance-commissioner-candidate-statements.htm",
+       "date": "2026 general (Official Voter Information Guide)"
+      },
+      {
+       "text": "Fight for guaranteed health care for every California child",
+       "topic": "health care",
+       "topics": [
+        "health care"
+       ],
+       "url": "https://voterguide.sos.ca.gov/candidates/insurance-commissioner-candidate-statements.htm",
+       "date": "2026 general (Official Voter Information Guide)"
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ]
+  },
+  {
+   "race": "Superintendent of Public Instruction",
+   "level": "state",
+   "section": "state",
+   "note": "",
+   "candidates": [
+    {
+     "name": "Richard Barrera",
+     "party": "Nonpartisan",
+     "promises": [
+      {
+       "text": "Bring San Diego Unified's reading/math reforms to every California school",
+       "topic": "education",
+       "topics": [
+        "education"
+       ],
+       "url": "https://voterguide.sos.ca.gov/candidates/superintendent-candidate-statements.htm",
+       "date": "2026 general (Official Voter Information Guide)"
+      },
+      {
+       "text": "Protect public education from Trump administration actions, incl. keeping ICE out of schools and supporting LGBTQ students",
+       "topic": "education / immigration",
+       "topics": [
+        "education",
+        "immigration"
+       ],
+       "url": "https://voterguide.sos.ca.gov/candidates/superintendent-candidate-statements.htm",
+       "date": "2026 general (Official Voter Information Guide)"
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Sonja Shaw",
+     "party": "Nonpartisan",
+     "promises": [
+      {
+       "text": "Restore high academic standards in reading, writing and math",
+       "topic": "education",
+       "topics": [
+        "education"
+       ],
+       "url": "https://voterguide.sos.ca.gov/candidates/superintendent-candidate-statements.htm",
+       "date": "2026 general (Official Voter Information Guide)"
+      },
+      {
+       "text": "Protect Title IX 'fairness and safety for girls' in sports and private spaces",
+       "topic": "education / civil rights",
+       "topics": [
+        "education",
+        "civil rights"
+       ],
+       "url": "https://voterguide.sos.ca.gov/candidates/superintendent-candidate-statements.htm",
+       "date": "2026 general (Official Voter Information Guide)"
+      },
+      {
+       "text": "Cut wasteful bureaucracy and demand fiscal transparency so money reaches classrooms",
+       "topic": "education / budget",
+       "topics": [
+        "education",
+        "budget"
+       ],
+       "url": "https://voterguide.sos.ca.gov/candidates/superintendent-candidate-statements.htm",
+       "date": "2026 general (Official Voter Information Guide)"
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ]
+  },
+  {
+   "race": "Board of Equalization District 2",
+   "level": "state",
+   "section": "state",
+   "note": "",
+   "candidates": [
+    {
+     "name": "John Pimentel",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "Fight to end sales tax on restaurant and delivered food",
+       "topic": "taxes",
+       "topics": [
+        "taxes"
+       ],
+       "url": "https://voterguide.sos.ca.gov/candidates/boe-candidate-statements.htm",
+       "date": "2026 general (Official Voter Information Guide)"
+      },
+      {
+       "text": "Reform the BOE to stop 'sweetheart tax breaks' for utilities and end loopholes so billionaires and corporations pay taxes",
+       "topic": "taxes / accountability",
+       "topics": [
+        "taxes",
+        "accountability"
+       ],
+       "url": "https://voterguide.sos.ca.gov/candidates/boe-candidate-statements.htm",
+       "date": "2026 general (Official Voter Information Guide)"
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Sally J. Lieber",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "Continue working for accurate, equitable property tax assessments and expanded taxpayer assistance; uphold Prop. 13",
+       "topic": "taxes / property tax",
+       "topics": [
+        "taxes",
+        "property tax"
+       ],
+       "url": "https://voterguide.sos.ca.gov/candidates/boe-candidate-statements.htm",
+       "date": "2026 general (Official Voter Information Guide)"
+      },
+      {
+       "text": "Support policies for housing affordability and rapid disaster recovery; insist wealthy interests pay what they owe",
+       "topic": "taxes / housing",
+       "topics": [
+        "taxes",
+        "housing"
+       ],
+       "url": "https://voterguide.sos.ca.gov/candidates/boe-candidate-statements.htm",
+       "date": "2026 general (Official Voter Information Guide)"
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ]
+  },
+  {
+   "race": "U.S. House CA District 18",
+   "level": "federal",
+   "section": "state",
+   "note": "Lewis's answers were mostly general. Only the items close enough to promises were recorded.",
+   "candidates": [
+    {
+     "name": "Shane Lewis",
+     "party": "Republican",
+     "promises": [
+      {
+       "text": "Push for federal infrastructure investment in the district that keeps pace with inflation and population",
+       "topic": "infrastructure",
+       "topics": [
+        "infrastructure"
+       ],
+       "url": "https://benitolink.com/2026-general-election-qa-18th-district-u-s-congressional-race/",
+       "date": "2026-09-12"
+      },
+      {
+       "text": "Says he will 'provide solutions' on immigration enforcement that support communities, families and immigrants (no specific policy stated)",
+       "topic": "immigration",
+       "topics": [
+        "immigration"
+       ],
+       "url": "https://benitolink.com/2026-general-election-qa-18th-district-u-s-congressional-race/",
+       "date": "2026-09-12"
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Zoe Lofgren",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "Support legislation to revive the expired ACA premium tax credits and reverse Medicaid cuts in the 2025 Republican budget law (which she calls the 'Big, Ugly Law')",
+       "topic": "health care",
+       "topics": [
+        "health care"
+       ],
+       "url": "https://benitolink.com/2026-general-election-qa-18th-district-u-s-congressional-race/",
+       "date": "2026-09-12"
+      },
+      {
+       "text": "Vote to end the Trump administration's tariffs, citing costs to families and farmers",
+       "topic": "economy / trade",
+       "topics": [
+        "economy",
+        "trade"
+       ],
+       "url": "https://benitolink.com/2026-general-election-qa-18th-district-u-s-congressional-race/",
+       "date": "2026-09-12"
+      },
+      {
+       "text": "Work to ensure continued federal funding for community projects in the district",
+       "topic": "infrastructure / federal funding",
+       "topics": [
+        "infrastructure",
+        "federal funding"
+       ],
+       "url": "https://benitolink.com/2026-general-election-qa-18th-district-u-s-congressional-race/",
+       "date": "2026-09-12"
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ]
+  },
+  {
+   "race": "State Assembly District 29",
+   "level": "state",
+   "section": "state",
+   "note": "",
+   "candidates": [
+    {
+     "name": "Dennis P. Sanchez",
+     "party": "Republican",
+     "promises": [
+      {
+       "text": "Support stronger public disclosure requirements and local participation before major data center projects are approved (water, power, jobs impacts)",
+       "topic": "energy / technology",
+       "topics": [
+        "energy",
+        "technology"
+       ],
+       "url": "https://benitolink.com/2026-general-election-candidates-qa-29th-assembly-district/",
+       "date": "2026-09-15"
+      },
+      {
+       "text": "Advocate for state funding formulas that recognize rural counties' public safety staffing needs; seek funding for recruitment/retention, training, equipment and behavioral health",
+       "topic": "public safety",
+       "topics": [
+        "public safety"
+       ],
+       "url": "https://benitolink.com/2026-general-election-candidates-qa-29th-assembly-district/",
+       "date": "2026-09-15"
+      },
+      {
+       "text": "Expand career and technical education partnerships among schools, colleges and employers",
+       "topic": "education / jobs",
+       "topics": [
+        "education",
+        "jobs"
+       ],
+       "url": "https://benitolink.com/2026-general-election-candidates-qa-29th-assembly-district/",
+       "date": "2026-09-15"
+      },
+      {
+       "text": "Work to reduce unnecessary regulatory barriers for small businesses; plan housing and economic development together while protecting farmland",
+       "topic": "economy / housing",
+       "topics": [
+        "economy",
+        "housing"
+       ],
+       "url": "https://benitolink.com/2026-general-election-candidates-qa-29th-assembly-district/",
+       "date": "2026-09-15"
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Robert Rivas",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "If re-elected, keep holding data centers accountable (energy-use transparency, paying fair share of grid costs, disclosing water use) so residents don't face higher energy costs",
+       "topic": "energy / technology",
+       "topics": [
+        "energy",
+        "technology"
+       ],
+       "url": "https://benitolink.com/2026-general-election-candidates-qa-29th-assembly-district/",
+       "date": "2026-09-15"
+      },
+      {
+       "text": "Says housing growth must be accompanied by jobs, transportation, infrastructure and services; cites state small-business tax incentives and child care slots to grow local jobs",
+       "topic": "economy / housing",
+       "topics": [
+        "economy",
+        "housing"
+       ],
+       "url": "https://benitolink.com/2026-general-election-candidates-qa-29th-assembly-district/",
+       "date": "2026-09-15"
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ]
+  },
+  {
+   "race": "San Benito County Supervisor District 5 (special, remainder of term)",
+   "level": "local",
+   "section": "local",
+   "note": "",
+   "candidates": [
+    {
+     "name": "Ignacio Velazquez",
+     "party": "Nonpartisan",
+     "promises": [
+      {
+       "text": "Continue opposing developments that would convert thousands of acres of farmland to housing ('stop out-of-control development')",
+       "topic": "housing / land use",
+       "topics": [
+        "housing",
+        "land use"
+       ],
+       "url": "https://benitolink.com/2026-general-election-qa-san-benito-county-board-of-supervisors-district-5/",
+       "date": "2026-09-09"
+      },
+      {
+       "text": "Continue getting county road repair projects done",
+       "topic": "transportation",
+       "topics": [
+        "transportation"
+       ],
+       "url": "https://benitolink.com/2026-general-election-qa-san-benito-county-board-of-supervisors-district-5/",
+       "date": "2026-09-09"
+      },
+      {
+       "text": "Stop deficit spending / deficit budgeting by the county",
+       "topic": "budget",
+       "topics": [
+        "budget"
+       ],
+       "url": "https://benitolink.com/2026-general-election-qa-san-benito-county-board-of-supervisors-district-5/",
+       "date": "2026-09-09"
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "John Williams",
+     "party": "Nonpartisan",
+     "promises": [
+      {
+       "text": "Protect farmland and steer housing growth toward affordable, lower-cost options like townhomes, condos and multifamily units",
+       "topic": "housing / agriculture",
+       "topics": [
+        "housing",
+        "agriculture"
+       ],
+       "url": "https://benitolink.com/2026-general-election-qa-san-benito-county-board-of-supervisors-district-5/",
+       "date": "2026-09-09"
+      },
+      {
+       "text": "Prioritize economic development to grow the tax base and bring well-paying jobs via data-driven, controlled growth with resident input",
+       "topic": "economy / jobs",
+       "topics": [
+        "economy",
+        "jobs"
+       ],
+       "url": "https://benitolink.com/2026-general-election-qa-san-benito-county-board-of-supervisors-district-5/",
+       "date": "2026-09-09"
+      },
+      {
+       "text": "Work cooperatively on the board to balance the budget and focus on basics (public safety, roads, infrastructure)",
+       "topic": "budget",
+       "topics": [
+        "budget"
+       ],
+       "url": "https://benitolink.com/2026-general-election-qa-san-benito-county-board-of-supervisors-district-5/",
+       "date": "2026-09-09"
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Rodney Bianchi",
+     "party": "Nonpartisan",
+     "promises": [
+      {
+       "text": "Support policies to create good local jobs; streamline the process for responsible businesses to open or expand and attract fitting industries",
+       "topic": "economy / jobs",
+       "topics": [
+        "economy",
+        "jobs"
+       ],
+       "url": "https://benitolink.com/2026-general-election-qa-san-benito-county-board-of-supervisors-district-5/",
+       "date": "2026-09-09"
+      },
+      {
+       "text": "Address traffic by improving roads/transportation infrastructure and ensuring new development doesn't simply add cars to crowded roads",
+       "topic": "transportation",
+       "topics": [
+        "transportation"
+       ],
+       "url": "https://benitolink.com/2026-general-election-qa-san-benito-county-board-of-supervisors-district-5/",
+       "date": "2026-09-09"
+      },
+      {
+       "text": "Expand and improve parks, recreational spaces and sports complexes",
+       "topic": "parks / recreation",
+       "topics": [
+        "parks",
+        "recreation"
+       ],
+       "url": "https://benitolink.com/2026-general-election-qa-san-benito-county-board-of-supervisors-district-5/",
+       "date": "2026-09-09"
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ]
+  },
+  {
+   "race": "San Benito County Board of Education District 4",
+   "level": "local",
+   "section": "local",
+   "note": "",
+   "candidates": [
+    {
+     "name": "Ed Schmidt",
+     "party": "Nonpartisan",
+     "promises": [
+      {
+       "text": "Improve conditions at rural schools facing declining enrollment and service funding gaps, with county office support",
+       "topic": "education",
+       "topics": [
+        "education"
+       ],
+       "url": "https://benitolink.com/2026-general-election-qa-san-benito-county-board-of-education-district-4/",
+       "date": "2026-09-30"
+      },
+      {
+       "text": "Push board policies and professional development focused on stronger initial instruction and interventions for students not yet proficient",
+       "topic": "education",
+       "topics": [
+        "education"
+       ],
+       "url": "https://benitolink.com/2026-general-election-qa-san-benito-county-board-of-education-district-4/",
+       "date": "2026-09-30"
+      },
+      {
+       "text": "Facilitate a smooth transition between the outgoing and incoming county superintendents",
+       "topic": "education / governance",
+       "topics": [
+        "education",
+        "governance"
+       ],
+       "url": "https://benitolink.com/2026-general-election-qa-san-benito-county-board-of-education-district-4/",
+       "date": "2026-09-30"
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Reb Monaco",
+     "party": "Nonpartisan",
+     "promises": [],
+     "note": "No specific, concrete promises found. In BenitoLink's Q&A and the Free Lance statement he names priorities and concerns (serving all students; declining enrollment, reading/math scores, AI's impact, student mental health) but commits to no specific action.",
+     "sources": [
+      "https://benitolink.com/2026-general-election-qa-san-benito-county-board-of-education-district-4/",
+      "https://sanbenito.com/meet-the-candidates-sbc-board-of-education-hollister-city-treasurer/"
+     ]
+    }
+   ]
+  },
+  {
+   "race": "Hollister Mayor",
+   "level": "local",
+   "section": "local",
+   "note": "",
+   "candidates": [
+    {
+     "name": "Scott McPhail",
+     "party": "Nonpartisan",
+     "promises": [
+      {
+       "text": "Keep the biker rally but bring in a new modern concert/event promoter; explore using the airport for major concerts with admission fees",
+       "topic": "events / economic development",
+       "topics": [
+        "events",
+        "economic development"
+       ],
+       "url": "https://benitolink.com/2026-general-election-qa-hollister-mayor/",
+       "date": "2026-09-11"
+      },
+      {
+       "text": "'Take a break' from traditional tract housing and attract builders of higher-quality homes, including NextGen-style attached units for multigenerational living",
+       "topic": "housing",
+       "topics": [
+        "housing"
+       ],
+       "url": "https://benitolink.com/2026-general-election-qa-hollister-mayor/",
+       "date": "2026-09-11"
+      },
+      {
+       "text": "Attract big-box retailers (e.g., Home Depot), corporate restaurants, shopping centers and tech companies; major developments to pay their fair share of infrastructure",
+       "topic": "economic development",
+       "topics": [
+        "economic development"
+       ],
+       "url": "https://benitolink.com/2026-general-election-qa-hollister-mayor/",
+       "date": "2026-09-11"
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Tim Burns",
+     "party": "Nonpartisan",
+     "promises": [
+      {
+       "text": "Would support the motorcycle rally only as a self-sustaining private venture (rebranded 'Hollister Independence Motorcycle Rally 2.0'); says continuing to fund it with taxpayer dollars would be fiscally irresponsible",
+       "topic": "budget / events",
+       "topics": [
+        "budget",
+        "events"
+       ],
+       "url": "https://benitolink.com/2026-general-election-qa-hollister-mayor/",
+       "date": "2026-09-11"
+      },
+      {
+       "text": "Focus residential development on very low- and low-income housing projects as the priority",
+       "topic": "housing",
+       "topics": [
+        "housing"
+       ],
+       "url": "https://benitolink.com/2026-general-election-qa-hollister-mayor/",
+       "date": "2026-09-11"
+      },
+      {
+       "text": "Address and resolve wastewater treatment plant odors on the west side 'immediately'",
+       "topic": "infrastructure / wastewater",
+       "topics": [
+        "infrastructure",
+        "wastewater"
+       ],
+       "url": "https://benitolink.com/2026-general-election-qa-hollister-mayor/",
+       "date": "2026-09-11"
+      },
+      {
+       "text": "Create a proactive work plan to replace aging underground pipes before they break, bundled with annual road repair projects",
+       "topic": "infrastructure",
+       "topics": [
+        "infrastructure"
+       ],
+       "url": "https://benitolink.com/2026-general-election-qa-hollister-mayor/",
+       "date": "2026-09-11"
+      },
+      {
+       "text": "Proposed forming a committee with expert consultants on rally finances and looking at alternative locations where admission can be charged",
+       "topic": "budget / events",
+       "topics": [
+        "budget",
+        "events"
+       ],
+       "url": "https://benitolink.com/recalled-supervisor-defends-decision-to-run-again-at-benitolink-forum/",
+       "date": "2026-09-18"
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Tina Garza",
+     "party": "Nonpartisan",
+     "promises": [
+      {
+       "text": "City should stop carrying the financial/operational burden of the motorcycle rally; pursue partnerships with private promoters, sponsors and community groups",
+       "topic": "budget / events",
+       "topics": [
+        "budget",
+        "events"
+       ],
+       "url": "https://benitolink.com/2026-general-election-qa-hollister-mayor/",
+       "date": "2026-09-11"
+      },
+      {
+       "text": "Address wastewater system, alley and street capacity before approving significant additional growth; require developers to pay for infrastructure and amenities their projects need",
+       "topic": "housing / growth",
+       "topics": [
+        "housing",
+        "growth"
+       ],
+       "url": "https://benitolink.com/2026-general-election-qa-hollister-mayor/",
+       "date": "2026-09-11"
+      },
+      {
+       "text": "Pursue a new community center, indoor recreation space and more programs for youth, families, adults and seniors",
+       "topic": "parks / recreation",
+       "topics": [
+        "parks",
+        "recreation"
+       ],
+       "url": "https://benitolink.com/2026-general-election-qa-hollister-mayor/",
+       "date": "2026-09-11"
+      },
+      {
+       "text": "Make wastewater treatment a top priority with a preventive maintenance program and regular condition reports to the council",
+       "topic": "infrastructure / wastewater",
+       "topics": [
+        "infrastructure",
+        "wastewater"
+       ],
+       "url": "https://benitolink.com/2026-general-election-qa-hollister-mayor/",
+       "date": "2026-09-11"
+      },
+      {
+       "text": "Revitalize downtown with a 'vibrant downtown entertainment district' supporting restaurants and local businesses",
+       "topic": "economic development",
+       "topics": [
+        "economic development"
+       ],
+       "url": "https://benitolink.com/2026-general-election-qa-hollister-mayor/",
+       "date": "2026-09-11"
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ]
+  },
+  {
+   "race": "Hollister City Council District 2",
+   "level": "local",
+   "section": "local",
+   "note": "",
+   "candidates": [
+    {
+     "name": "Brian Chavez",
+     "party": "Nonpartisan",
+     "promises": [
+      {
+       "text": "Make the biker rally more transparent; have events managed by an event promoter with Parks & Rec collaboration and Hollister PD overseeing public safety",
+       "topic": "events / public safety",
+       "topics": [
+        "events",
+        "public safety"
+       ],
+       "url": "https://benitolink.com/2026-general-election-qa-hollister-city-council-district-2/",
+       "date": "2026-09-11"
+      },
+      {
+       "text": "Work together with the county on planning for state-required growth",
+       "topic": "housing / growth",
+       "topics": [
+        "housing",
+        "growth"
+       ],
+       "url": "https://benitolink.com/2026-general-election-qa-hollister-city-council-district-2/",
+       "date": "2026-09-11"
+      },
+      {
+       "text": "Prioritize preventive maintenance of infrastructure and develop a citywide vision to set priorities",
+       "topic": "infrastructure",
+       "topics": [
+        "infrastructure"
+       ],
+       "url": "https://benitolink.com/2026-general-election-qa-hollister-city-council-district-2/",
+       "date": "2026-09-11"
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Frida Benjamin",
+     "party": "Nonpartisan",
+     "promises": [
+      {
+       "text": "Support holding the motorcycle rally by partnering with a qualified promoter who assumes promotion fees",
+       "topic": "events",
+       "topics": [
+        "events"
+       ],
+       "url": "https://benitolink.com/2026-general-election-qa-hollister-city-council-district-2/",
+       "date": "2026-09-11"
+      },
+      {
+       "text": "Promote infill development instead of outward expansion to lower infrastructure costs",
+       "topic": "housing / growth",
+       "topics": [
+        "housing",
+        "growth"
+       ],
+       "url": "https://benitolink.com/2026-general-election-qa-hollister-city-council-district-2/",
+       "date": "2026-09-11"
+      },
+      {
+       "text": "Prioritize comprehensive modernization and wastewater system upgrades with a 'resident-first' growth strategy",
+       "topic": "infrastructure / wastewater",
+       "topics": [
+        "infrastructure",
+        "wastewater"
+       ],
+       "url": "https://benitolink.com/2026-general-election-qa-hollister-city-council-district-2/",
+       "date": "2026-09-11"
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ]
+  },
+  {
+   "race": "Hollister City Council District 3",
+   "level": "local",
+   "section": "local",
+   "note": "",
+   "candidates": [
+    {
+     "name": "Dolores Morales",
+     "party": "Nonpartisan",
+     "promises": [
+      {
+       "text": "Base her vote on the motorcycle rally on data, transparency and accountability (rally has not reached cost-neutral goal)",
+       "topic": "budget / events",
+       "topics": [
+        "budget",
+        "events"
+       ],
+       "url": "https://benitolink.com/2026-general-election-qa-hollister-city-council-district-3/",
+       "date": "2026-09-11"
+      },
+      {
+       "text": "Require new development to pay its fair share toward roads, public safety, water/wastewater and parks; growth cannot outpace infrastructure",
+       "topic": "housing / growth",
+       "topics": [
+        "housing",
+        "growth"
+       ],
+       "url": "https://benitolink.com/2026-general-election-qa-hollister-city-council-district-3/",
+       "date": "2026-09-11"
+      },
+      {
+       "text": "Prioritize pavement rehabilitation, intersection and signal upgrades, sidewalk repairs and safer pedestrian/bike connections",
+       "topic": "transportation",
+       "topics": [
+        "transportation"
+       ],
+       "url": "https://benitolink.com/2026-general-election-qa-hollister-city-council-district-3/",
+       "date": "2026-09-11"
+      },
+      {
+       "text": "Invest in storm drainage, creek maintenance and flood mitigation",
+       "topic": "infrastructure / flood control",
+       "topics": [
+        "infrastructure",
+        "flood control"
+       ],
+       "url": "https://benitolink.com/2026-general-election-qa-hollister-city-council-district-3/",
+       "date": "2026-09-11"
+      },
+      {
+       "text": "Maintain a long-term Capital Improvement Program and aggressively pursue state and federal grants",
+       "topic": "budget / infrastructure",
+       "topics": [
+        "budget",
+        "infrastructure"
+       ],
+       "url": "https://benitolink.com/2026-general-election-qa-hollister-city-council-district-3/",
+       "date": "2026-09-11"
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "William Avera",
+     "party": "Nonpartisan",
+     "promises": [
+      {
+       "text": "Would not continue to support the city-run Independence Rally, saying it doesn't make economic sense",
+       "topic": "budget / events",
+       "topics": [
+        "budget",
+        "events"
+       ],
+       "url": "https://benitolink.com/2026-general-election-qa-hollister-city-council-district-3/",
+       "date": "2026-09-11"
+      },
+      {
+       "text": "Support projects offering more affordable housing for young adults and families; develop a strategy to recruit higher-wage employers for jobs-housing balance",
+       "topic": "housing / jobs",
+       "topics": [
+        "housing",
+        "jobs"
+       ],
+       "url": "https://benitolink.com/2026-general-election-qa-hollister-city-council-district-3/",
+       "date": "2026-09-11"
+      },
+      {
+       "text": "Replace the wastewater plant's membrane bioreactor trains to increase capacity without enlarging the plant",
+       "topic": "infrastructure / wastewater",
+       "topics": [
+        "infrastructure",
+        "wastewater"
+       ],
+       "url": "https://benitolink.com/2026-general-election-qa-hollister-city-council-district-3/",
+       "date": "2026-09-11"
+      },
+      {
+       "text": "Add a new well on the north side of the city for redundancy and fire-flow; consider wellhead treatment for water quality if feasible",
+       "topic": "water",
+       "topics": [
+        "water"
+       ],
+       "url": "https://benitolink.com/2026-general-election-qa-hollister-city-council-district-3/",
+       "date": "2026-09-11"
+      },
+      {
+       "text": "Implement pavement management system recommendations to extend the life of residential streets",
+       "topic": "transportation",
+       "topics": [
+        "transportation"
+       ],
+       "url": "https://benitolink.com/2026-general-election-qa-hollister-city-council-district-3/",
+       "date": "2026-09-11"
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ]
+  },
+  {
+   "race": "Hollister City Treasurer",
+   "level": "local",
+   "section": "local",
+   "note": "Machado's only forward-looking commitment found was the quarterly budget review.",
+   "candidates": [
+    {
+     "name": "Gordon Machado",
+     "party": "Nonpartisan",
+     "promises": [
+      {
+       "text": "Supports a quarterly budget review by the City Council and all departments",
+       "topic": "budget / fiscal oversight",
+       "topics": [
+        "budget",
+        "fiscal oversight"
+       ],
+       "url": "https://benitolink.com/2026-general-election-qa-hollister-city-treasurer/",
+       "date": "2026-09-28"
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Jonathan Casey",
+     "party": "Nonpartisan",
+     "promises": [
+      {
+       "text": "Push for transparency so residents can easily understand the city's financial condition; temporary interfund transfers to be monitored with a clear repayment plan",
+       "topic": "budget / fiscal oversight",
+       "topics": [
+        "budget",
+        "fiscal oversight"
+       ],
+       "url": "https://benitolink.com/2026-general-election-qa-hollister-city-treasurer/",
+       "date": "2026-09-28"
+      },
+      {
+       "text": "Advocate maintaining appropriate reserves and protecting enterprise funds rather than relying on one-time fixes",
+       "topic": "budget / fiscal oversight",
+       "topics": [
+        "budget",
+        "fiscal oversight"
+       ],
+       "url": "https://benitolink.com/2026-general-election-qa-hollister-city-treasurer/",
+       "date": "2026-09-28"
+      },
+      {
+       "text": "Monitor and encourage aggressive pursuit of state/federal grants for water treatment, infrastructure, roads and public safety",
+       "topic": "budget / infrastructure",
+       "topics": [
+        "budget",
+        "infrastructure"
+       ],
+       "url": "https://benitolink.com/2026-general-election-qa-hollister-city-treasurer/",
+       "date": "2026-09-28"
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ]
+  },
+  {
+   "race": "Hollister School District Trustee Area 5",
+   "level": "local",
+   "section": "local",
+   "note": "",
+   "candidates": [
+    {
+     "name": "Alicia Parra",
+     "party": "Nonpartisan",
+     "promises": [
+      {
+       "text": "Support recruitment and retention of qualified staff with competitive wages and tools/resources",
+       "topic": "education / workforce",
+       "topics": [
+        "education",
+        "workforce"
+       ],
+       "url": "https://benitolink.com/2026-general-election-qa-hollister-school-district-trustee-area-5/",
+       "date": "2026-09-29"
+      },
+      {
+       "text": "Promote fiscal responsibility and keep board policies/administrative regulations current",
+       "topic": "education / budget",
+       "topics": [
+        "education",
+        "budget"
+       ],
+       "url": "https://benitolink.com/2026-general-election-qa-hollister-school-district-trustee-area-5/",
+       "date": "2026-09-29"
+      },
+      {
+       "text": "Expand student and family support including life skills, mental health resources and links to outside support networks",
+       "topic": "education / mental health",
+       "topics": [
+        "education",
+        "mental health"
+       ],
+       "url": "https://benitolink.com/2026-general-election-qa-hollister-school-district-trustee-area-5/",
+       "date": "2026-09-29"
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Jan Grist",
+     "party": "Nonpartisan",
+     "promises": [
+      {
+       "text": "Continue working with staff and parents to sustain academic growth (attendance, suspensions, English learner reclassification)",
+       "topic": "education",
+       "topics": [
+        "education"
+       ],
+       "url": "https://benitolink.com/2026-general-election-qa-hollister-school-district-trustee-area-5/",
+       "date": "2026-09-29"
+      },
+      {
+       "text": "Continue advocating the Accelerated Reading program and 20 minutes of daily reading",
+       "topic": "education",
+       "topics": [
+        "education"
+       ],
+       "url": "https://benitolink.com/2026-general-election-qa-hollister-school-district-trustee-area-5/",
+       "date": "2026-09-29"
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ]
+  },
+  {
+   "race": "San Benito Health Care District Zone 2",
+   "level": "local",
+   "section": "local",
+   "note": "",
+   "candidates": [
+    {
+     "name": "George W. Devon Pack",
+     "party": "Nonpartisan",
+     "promises": [
+      {
+       "text": "Expand partnerships with Gavilan College nursing and Hollister High CTE to develop Hazel Hawkins as a 'career starter hospital'",
+       "topic": "health care / workforce",
+       "topics": [
+        "health care",
+        "workforce"
+       ],
+       "url": "https://benitolink.com/2026-general-election-qa-san-benito-health-care-district-2/",
+       "date": "2026-09-16"
+      },
+      {
+       "text": "Pursue expanded cardiology/stroke, endocrinology and nephrology services and on-campus pharmacy, with aggressive grant applications",
+       "topic": "health care",
+       "topics": [
+        "health care"
+       ],
+       "url": "https://benitolink.com/2026-general-election-qa-san-benito-health-care-district-2/",
+       "date": "2026-09-16"
+      },
+      {
+       "text": "Hold a candid public dialogue on support for public bond revenue to fund priorities such as urgent care, dialysis or oncology",
+       "topic": "health care / taxes",
+       "topics": [
+        "health care",
+        "taxes"
+       ],
+       "url": "https://benitolink.com/2026-general-election-qa-san-benito-health-care-district-2/",
+       "date": "2026-09-16"
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Nazhat Parveen Sharma",
+     "party": "Nonpartisan",
+     "promises": [
+      {
+       "text": "Create paid CNA-to-RN, LVN-to-RN and medical assistant apprenticeship tracks with guaranteed interviews for local graduates; strengthen college/residency partnerships",
+       "topic": "health care / workforce",
+       "topics": [
+        "health care",
+        "workforce"
+       ],
+       "url": "https://benitolink.com/2026-general-election-qa-san-benito-health-care-district-2/",
+       "date": "2026-09-16"
+      },
+      {
+       "text": "Advocate loan repayment, workforce housing assistance, childcare support, retention bonuses and safe staffing ratios",
+       "topic": "health care / workforce",
+       "topics": [
+        "health care",
+        "workforce"
+       ],
+       "url": "https://benitolink.com/2026-general-election-qa-san-benito-health-care-district-2/",
+       "date": "2026-09-16"
+      },
+      {
+       "text": "Expand telehealth for specialty follow-ups and invest in scribes/workflow support",
+       "topic": "health care",
+       "topics": [
+        "health care"
+       ],
+       "url": "https://benitolink.com/2026-general-election-qa-san-benito-health-care-district-2/",
+       "date": "2026-09-16"
+      },
+      {
+       "text": "Strengthen senior-focused services (cardiology, orthopedics, etc.), protect Mabie Skilled Nursing Facilities, expand geriatric clinic hours",
+       "topic": "health care / seniors",
+       "topics": [
+        "health care",
+        "seniors"
+       ],
+       "url": "https://benitolink.com/2026-general-election-qa-san-benito-health-care-district-2/",
+       "date": "2026-09-16"
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ]
+  },
+  {
+   "race": "San Benito Health Care District Zone 4",
+   "level": "local",
+   "section": "local",
+   "note": "",
+   "candidates": [
+    {
+     "name": "Gregory Swett",
+     "party": "Nonpartisan",
+     "promises": [
+      {
+       "text": "Develop senior management that respects the workforce and focus on attracting highly qualified doctors",
+       "topic": "health care / workforce",
+       "topics": [
+        "health care",
+        "workforce"
+       ],
+       "url": "https://benitolink.com/2026-general-election-qa-san-benito-health-care-district-zone-4/",
+       "date": "2026-09-17"
+      },
+      {
+       "text": "Expand specialty groups and examine need for more skilled nursing, assisted living and memory care capacity, possibly via public/private partnership",
+       "topic": "health care / seniors",
+       "topics": [
+        "health care",
+        "seniors"
+       ],
+       "url": "https://benitolink.com/2026-general-election-qa-san-benito-health-care-district-zone-4/",
+       "date": "2026-09-17"
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Marni J. Friedman",
+     "party": "Nonpartisan",
+     "promises": [
+      {
+       "text": "Bring medical student/resident training to the hospital by exploring partnerships with University of California training programs",
+       "topic": "health care / workforce",
+       "topics": [
+        "health care",
+        "workforce"
+       ],
+       "url": "https://benitolink.com/2026-general-election-qa-san-benito-health-care-district-zone-4/",
+       "date": "2026-09-17"
+      },
+      {
+       "text": "Use Central California Alliance for Health grants to place new providers in existing practices; focus primary-care growth on geriatrics and bring specialists/infusion services locally",
+       "topic": "health care / seniors",
+       "topics": [
+        "health care",
+        "seniors"
+       ],
+       "url": "https://benitolink.com/2026-general-election-qa-san-benito-health-care-district-zone-4/",
+       "date": "2026-09-17"
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Michael C. McGinnis",
+     "party": "Nonpartisan",
+     "promises": [
+      {
+       "text": "Develop a long-term strategy to recruit and retain providers, including loan repayment and scholarship programs tied to local service",
+       "topic": "health care / workforce",
+       "topics": [
+        "health care",
+        "workforce"
+       ],
+       "url": "https://benitolink.com/2026-general-election-qa-san-benito-health-care-district-zone-4/",
+       "date": "2026-09-17"
+      },
+      {
+       "text": "Strengthen chronic disease, cardiology, orthopedics and behavioral health services for older adults",
+       "topic": "health care / seniors",
+       "topics": [
+        "health care",
+        "seniors"
+       ],
+       "url": "https://benitolink.com/2026-general-election-qa-san-benito-health-care-district-zone-4/",
+       "date": "2026-09-17"
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Paul W. Breen",
+     "party": "Nonpartisan",
+     "promises": [
+      {
+       "text": "Primary goal: ensure Hazel Hawkins Hospital survives; meet with administrators, unions and physicians and review finances before addressing workforce gap",
+       "topic": "health care",
+       "topics": [
+        "health care"
+       ],
+       "url": "https://benitolink.com/2026-general-election-qa-san-benito-health-care-district-zone-4/",
+       "date": "2026-09-17"
+      },
+      {
+       "text": "Supports establishing or expanding specialty care (cardiology, gastroenterology, pulmonology, elder care)",
+       "topic": "health care / seniors",
+       "topics": [
+        "health care",
+        "seniors"
+       ],
+       "url": "https://benitolink.com/2026-general-election-qa-san-benito-health-care-district-zone-4/",
+       "date": "2026-09-17"
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ]
+  }
+ ],
+ "races_without_promises": [
+  "San Benito High School District, Trustee Area 3 (Carla Torres De Luna, Betsey Lemay): neither has completed Ballotpedia's survey, and no BenitoLink or Free Lance Q&A or campaign site was found.",
+  "Sunnyslope County Water District, At-large special (Orlando Martinez, Alexis M. Perez-Kenny) and Division 5 (Dee Brown, Karen Enzensperger): no candidate Q&As or statements were found.",
+  "Gavilan Joint CCD Trustee Areas 5 and 7: Ballotpedia lists one candidate each (Jeanie Wallace; Irma Gonzalez). These races may be uncontested and may not appear on the ballot. Not researched.",
+  "Not researched (outside Hollister): San Juan Bautista City Council, South Monterey County Joint Union HSD, Cabrillo CCD Area 6, and Hartnell CCD Area 7. State ballot propositions and judicial retention races are also not covered."
+ ],
+ "stats": {
+  "candidate_promises": 140,
+  "races": 20,
+  "candidates": 44
+ }
+}
