@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>2026 Promise Tracker: Hollister &amp; California</title>
-<meta name="description" content="A nonpartisan, sourced list of campaign promises for the Nov. 3, 2026 election in Hollister, San Benito County and California, plus the status of the president's 2024 campaign promises.">
+<meta name="description" content="A nonpartisan, sourced list of campaign promises for California's Nov. 3, 2026 election, with Hollister and San Benito County local races by ZIP code, plus the status of the president's 2024 campaign promises.">
 <meta property="og:title" content="2026 Promise Tracker: Hollister & California">
 <meta property="og:description" content="Sourced campaign promises for the Nov. 3, 2026 election, plus the status of the president's 2024 promises.">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'><rect width='16' height='16' rx='3' fill='%23334155'/><path d='M4 8.5l2.5 2.5L12 5' stroke='white' stroke-width='2' fill='none'/></svg>">
@@ -15,7 +15,7 @@
 <header class="site-header">
   <div class="wrap">
     <h1>2026 Promise Tracker: Hollister &amp; California</h1>
-    <p class="lede">A nonpartisan list of what candidates on the <strong>Tuesday, Nov.&nbsp;3, 2026</strong> ballot in Hollister and San Benito County say they will do, with a link to the source for every promise. It also tracks the status of the current president's 2024 campaign promises. The site records promises as stated and does not endorse any candidate or judge whether a plan is feasible.</p>
+    <p class="lede">A nonpartisan list of what candidates on California's <strong>Tuesday, Nov.&nbsp;3, 2026</strong> ballot say they will do, with a link to the source for every promise. It covers the statewide races, U.S. House District 18 and Assembly District 29, and tracks the status of the current president's 2024 campaign promises. Enter your ZIP to see the races for your area, including Hollister and San Benito County local races. The site records promises as stated and does not endorse any candidate or judge whether a plan is feasible.</p>
     <p class="meta">Last updated <time datetime="2026-10-21" id="last-updated">Oct. 21, 2026</time> · <a href="#methodology">Methodology &amp; caveats</a></p>
   </div>
 </header>
@@ -27,6 +27,7 @@
       <input id="zip" name="zip" type="text" inputmode="numeric" autocomplete="postal-code" maxlength="5" placeholder="e.g. 95023" aria-describedby="zip-help zip-error">
       <button type="submit">Show my races</button>
     </div>
+    <p id="zip-hint" class="zip-hint" role="status"></p>
     <p id="zip-help" class="small">5-digit ZIP code. Your ZIP is saved only in this browser, so the site remembers it next time.</p>
     <p id="zip-error" class="zip-error" role="alert"></p>
   </form>
@@ -36,7 +37,6 @@
   <button role="tab" id="tab-zip" aria-controls="panel" data-tab="zip" hidden>Your ZIP</button>
   <button role="tab" id="tab-president" aria-controls="panel" data-tab="president">President's 2024 promises</button>
   <button role="tab" id="tab-state" aria-controls="panel" data-tab="state">California, Congress &amp; Assembly</button>
-  <button role="tab" id="tab-local" aria-controls="panel" data-tab="local">Hollister &amp; San Benito County</button>
 </nav>
 
 <main id="main" class="wrap">
@@ -55,6 +55,7 @@
   <div class="wrap">
     <h2>Methodology &amp; caveats</h2>
     <h3>2026 candidates</h3>
+    <p class="small">Local races (Hollister and San Benito County) have no tab of their own. They appear in the ZIP lookup for San Benito County ZIPs (95023, 95024, 95043, 95045, 95075), and each one says who votes in it.</p>
     <ul>
       <li><strong>What counts as a promise:</strong> a specific, forward-looking commitment the candidate made in their own words. Promises are paraphrased or quoted from the linked source. Candidates are listed alphabetically within each race. Party labels are as listed on the ballot. Local offices are nonpartisan.</li>
       <li><strong>Sources:</strong> candidate campaign websites, the California Official Voter Information Guide statements, candidate questionnaires (e.g., GrowSF), and news coverage and Q&amp;As (LA Times, Sacramento Bee, KCRA, ABC7, Daily News, BenitoLink, the Free Lance). Every promise links to its source.</li>

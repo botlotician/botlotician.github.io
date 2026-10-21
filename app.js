@@ -2,7 +2,8 @@
   "use strict";
   var DATA = null, ZIPS = null, zipPromise = null;
   var state = { tab: "president", q: "", topic: "", status: "", zip: "", zipView: null };
-  var TABS = ["zip", "president", "state", "local"];
+  var TABS = ["zip", "president", "state"];
+  var LOCAL_HINT = "Hollister and San Benito County local races are now shown by ZIP code. Enter your ZIP (for example 95023 for Hollister) to see the local races on your ballot.";
   var STORE_KEY = "promiseTracker.zip";
   var STATUS_DESC = { "Kept": "Promise kept", "Partially kept": "Compromise / partly kept", "In progress": "In the works", "Stalled": "No progress or blocked", "Broken": "Promise broken", "Not yet addressed": "No action yet" };
   var OFFICE = { cd: "U.S. House", ad: "State Assembly", sd: "State Senate", boe: "Board of Equalization" };
@@ -252,10 +253,8 @@
   }
 
   function renderSection(section) {
-    var intro = section === "state"
-      ? '<p class="muted small">California statewide offices, Board of Equalization District 2, U.S. House District 18 and State Assembly District 29, the districts that include Hollister. Candidates are listed alphabetically. <a href="#zip-form">Enter your ZIP</a> to see which apply to you.</p>'
-      : '<p class="muted small">City of Hollister, San Benito County, school and health care district races. Local offices are nonpartisan. Candidates are listed alphabetically. Many of these races cover only part of the county; the line under each race says who votes in it.</p>';
-    var res = raceBlocks(DATA.races.filter(function (r) { return r.section === section; }), { groups: section === "state", who: section === "local" });
+    var intro = '<p class="muted small">California statewide offices, Board of Equalization District 2, U.S. House District 18 and State Assembly District 29, the districts that include Hollister. Candidates are listed alphabetically. <a href="#zip-form">Enter your ZIP</a> to see which apply to you. Hollister and San Benito County local races appear in the results for San Benito County ZIPs.</p>';
+    var res = raceBlocks(DATA.races.filter(function (r) { return r.section === section; }), { groups: true });
     $("summary").textContent = "Showing " + res.shown + " of " + res.total + " promises.";
     return intro + (res.html || '<p class="empty">No promises match these filters.</p>');
   }
@@ -310,6 +309,7 @@
   function lookup(zip, opts) {
     opts = opts || {};
     $("zip-error").textContent = "";
+    $("zip-hint").textContent = "";
     if (!/^\d{5}$/.test(zip)) {
       $("zip-error").textContent = "Please enter a 5-digit ZIP code (numbers only), for example 95023.";
       $("zip").setAttribute("aria-invalid", "true");
@@ -339,11 +339,26 @@
       var el = document.getElementById(h);
       if (el) { el.scrollIntoView(); return; }
       var r = DATA.races.filter(function (x) { return "race-" + slug(x.race) === h; })[0];
+      if (r && r.section === "local") { localFallback(); return; }
       if (r) { switchTab(r.section, false); var e2 = document.getElementById(h); if (e2) e2.scrollIntoView(); }
       return;
     }
+    if (h === "local") { localFallback(); return; }
     if (h === "zip-form" || h === "methodology" || h === "main") return;
     if (TABS.indexOf(h) !== -1) switchTab(h, false);
+  }
+
+  // Old #local (and local #race-...) links: the local tab is gone, so send visitors to the ZIP box.
+  function localFallback() {
+    if (state.zipView && state.zipView.kind !== "non-ca") {
+      var applies = DATA.races.some(function (r) { return r.section === "local" && raceApplies(r, state.zipView); });
+      if (applies) { switchTab("zip", true); return; }
+    }
+    if (state.tab === "zip" || TABS.indexOf(state.tab) === -1) switchTab("president", false);
+    history.replaceState(null, "", "#zip-form");
+    $("zip-hint").textContent = LOCAL_HINT;
+    var f = $("zip-form"); f.scrollIntoView({ block: "start" });
+    try { $("zip").focus({ preventScroll: true }); } catch (e) { $("zip").focus(); }
   }
 
   function init(data) {
@@ -377,13 +392,19 @@
 
     var h = location.hash.slice(1), saved = load(STORE_KEY);
     if (/^zip=\d{5}$/.test(h)) { routeFromHash(); return; }
+    var wantsLocal = h === "local" || (/^race-/.test(h) && DATA.races.some(function (x) { return x.section === "local" && "race-" + slug(x.race) === h; }));
     switchTab(TABS.indexOf(h) !== -1 && h !== "zip" ? h : "president", false);
-    if (/^race-/.test(h)) routeFromHash();
+    if (/^race-/.test(h) && !wantsLocal) routeFromHash();
     if (saved && /^\d{5}$/.test(saved)) {
       $("zip").value = saved;
       // Returning visitor: reopen their ZIP unless the link asked for a specific tab.
-      lookup(saved, { switchTab: !h });
-    }
+      lookup(saved, { switchTab: !h || wantsLocal }).then(function () {
+        if (wantsLocal) {
+          localFallback();
+          if (state.tab === "zip" && /^race-/.test(h)) { var el = document.getElementById(h); if (el) el.scrollIntoView(); }
+        }
+      });
+    } else if (wantsLocal) localFallback();
   }
 
   fetch("data/promises.json", { cache: "no-cache" }).then(function (r) {

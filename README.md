@@ -6,6 +6,13 @@ This is a static site with no build step and no backend. `index.html`, `styles.c
 `data/promises.json`. The ZIP lookup loads `data/zips_ca.json` only when a visitor enters a ZIP.
 The last ZIP entered is kept in the visitor's browser (localStorage) and is never sent anywhere.
 
+## Page layout
+- **Tabs:** *President's 2024 promises* and *California, Congress & Assembly* (statewide races, BOE-2, CA-18, AD-29). A *Your ZIP* tab appears after a lookup.
+- **Local races** (rows with `level` = `local` in `promises_2026.csv`, currently Hollister and San Benito County) have **no tab of their own**.
+  They appear only in ZIP lookup results for ZIPs that overlap their county or city (see `races.csv`). Old `#local` links, and links to a
+  local race's `#race-...` anchor, go to the ZIP box with a hint to enter a ZIP. If the visitor already has a matching ZIP saved, they open that ZIP's results instead.
+- Search and the topic filter work on every tab, including ZIP results. The status filter appears on the President tab only.
+
 ## Data files (`data/`)
 | File | What it is | How it changes |
 |---|---|---|
