@@ -1,4 +1,6 @@
-# 2026 Promise Tracker: Hollister & California
+# Botlotician Promise Tracker
+
+2026 California elections and the President's 2024 promises.
 
 Live site: https://botlotician.github.io/
 

@@ -81,3 +81,4 @@ details.group>summary{cursor:pointer;font-weight:700;font-size:1.05rem;margin:18
 .btnlink{display:inline-block;background:var(--accent);color:#fff;text-decoration:none;font-weight:700;padding:9px 14px;border-radius:8px}
 .zip-hint{background:#fef9c3;border:1px solid #facc15;border-radius:8px;padding:8px 12px;font-weight:600}
 .zip-hint:empty{display:none}
+.subtitle{margin:-4px 0 10px;font-size:1.05rem;font-weight:600;opacity:.9}
