@@ -20,7 +20,20 @@
   </div>
 </header>
 
+<section class="zipbox" aria-labelledby="zip-label">
+  <form id="zip-form" class="wrap" novalidate>
+    <label id="zip-label" for="zip">Enter your ZIP to see which races are on your ballot</label>
+    <div class="zip-row">
+      <input id="zip" name="zip" type="text" inputmode="numeric" autocomplete="postal-code" maxlength="5" placeholder="e.g. 95023" aria-describedby="zip-help zip-error">
+      <button type="submit">Show my races</button>
+    </div>
+    <p id="zip-help" class="small">5-digit ZIP code. Your ZIP is saved only in this browser, so the site remembers it next time.</p>
+    <p id="zip-error" class="zip-error" role="alert"></p>
+  </form>
+</section>
+
 <nav class="tabs wrap" role="tablist" aria-label="Sections">
+  <button role="tab" id="tab-zip" aria-controls="panel" data-tab="zip" hidden>Your ZIP</button>
   <button role="tab" id="tab-president" aria-controls="panel" data-tab="president">President's 2024 promises</button>
   <button role="tab" id="tab-state" aria-controls="panel" data-tab="state">California, Congress &amp; Assembly</button>
   <button role="tab" id="tab-local" aria-controls="panel" data-tab="local">Hollister &amp; San Benito County</button>
@@ -49,6 +62,14 @@
       <li><strong>County elections site not checked:</strong> the San Benito County elections website returned "Access Denied" to automated requests, so local contests could not be checked against the county's own list. Check your sample ballot for the races you will see.</li>
       <li><strong>Not on the 2026 ballot:</strong> California has no U.S. Senate race in 2026. State Senate District 17 (Hollister) is not up this year, because only even-numbered Senate districts are.</li>
       <li>Voter's Edge (votersedge.org) has shut down and was not used as a source.</li>
+    </ul>
+    <h3>ZIP code lookup</h3>
+    <ul>
+      <li><strong>ZIP codes are approximate.</strong> The lookup uses the Census Bureau's 2020 ZIP Code Tabulation Areas (ZCTAs), which closely match but are not identical to USPS ZIP codes. One ZIP can cross city, county and district lines. When it does, every overlapping district is listed with its share of the ZIP's 2020 population. Your exact races depend on your street address, so always check your official sample ballot.</li>
+      <li><strong>Districts are the ones on the Nov. 3, 2026 ballot.</strong> U.S. House: the Prop. 50 (AB 604) map that voters approved on Nov. 4, 2025, which the Secretary of State says applies to 2026 ballots. The data comes from the Census Bureau's <a href="https://www2.census.gov/programs-surveys/decennial/rdo/mapping-files/2027/120-congressional-district-befs/" target="_blank" rel="noopener">120th Congress block equivalency file</a> (Oct. 2026), checked block by block against the <a href="https://statewidedatabase.org/pub/data/d25/AB604.zip" target="_blank" rel="noopener">AB 604 equivalency file</a>. The 2021 congressional map (119th Congress) is <em>not</em> used. State Assembly and State Senate: the Census Bureau's <a href="https://www2.census.gov/programs-surveys/decennial/rdo/mapping-files/2027/2026-state-legislative-bef/" target="_blank" rel="noopener">2026 state legislative block equivalency files</a> (the 2021 Citizens Redistricting Commission maps, which Prop. 50 did not change). Board of Equalization: the Commission's <a href="https://wedrawthelines.ca.gov/final-maps/" target="_blank" rel="noopener">final 2021 BOE equivalency file</a>.</li>
+      <li><strong>Places and population:</strong> Census 2020 <a href="https://www2.census.gov/geo/docs/maps-data/data/rel2020/zcta520/" target="_blank" rel="noopener">ZCTA-to-block relationship file</a>, 2020 P.L. 94-171 block populations, and the 2020 place block assignment file. "Hollister city" means inside the city limits. Unincorporated communities (CDPs) are listed when they make up part of a ZIP. County elections office links come from the <a href="https://www.sos.ca.gov/elections/voting-resources/county-elections-offices" target="_blank" rel="noopener">Secretary of State's county list</a>. ZIP data built Oct. 21, 2026.</li>
+      <li><strong>PO Box ZIPs</strong> have no Census area. 95024 (Hollister PO Boxes) is shown with the districts of 95023, the Hollister ZIP it sits inside. Other PO Box or business ZIPs show statewide races only.</li>
+      <li>State Senate: only even-numbered districts are on the 2026 ballot. No State Senate race is tracked yet.</li>
     </ul>
     <h3>Races and candidates with no sourced promises found</h3>
     <ul id="no-promises"></ul>

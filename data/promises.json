@@ -636,7 +636,13 @@
      "note": "",
      "sources": []
     }
-   ]
+   ],
+   "area": {
+    "type": "state",
+    "id": "CA",
+    "county": "",
+    "who_votes": "All California voters"
+   }
   },
   {
    "race": "Lieutenant Governor",
@@ -760,7 +766,13 @@
      "note": "",
      "sources": []
     }
-   ]
+   ],
+   "area": {
+    "type": "state",
+    "id": "CA",
+    "county": "",
+    "who_votes": "All California voters"
+   }
   },
   {
    "race": "Attorney General",
@@ -881,7 +893,13 @@
      "note": "",
      "sources": []
     }
-   ]
+   ],
+   "area": {
+    "type": "state",
+    "id": "CA",
+    "county": "",
+    "who_votes": "All California voters"
+   }
   },
   {
    "race": "Secretary of State",
@@ -962,7 +980,13 @@
      "note": "",
      "sources": []
     }
-   ]
+   ],
+   "area": {
+    "type": "state",
+    "id": "CA",
+    "county": "",
+    "who_votes": "All California voters"
+   }
   },
   {
    "race": "Treasurer",
@@ -1026,7 +1050,13 @@
      "note": "",
      "sources": []
     }
-   ]
+   ],
+   "area": {
+    "type": "state",
+    "id": "CA",
+    "county": "",
+    "who_votes": "All California voters"
+   }
   },
   {
    "race": "Controller",
@@ -1108,7 +1138,13 @@
      "note": "",
      "sources": []
     }
-   ]
+   ],
+   "area": {
+    "type": "state",
+    "id": "CA",
+    "county": "",
+    "who_votes": "All California voters"
+   }
   },
   {
    "race": "Insurance Commissioner",
@@ -1179,7 +1215,13 @@
      "note": "",
      "sources": []
     }
-   ]
+   ],
+   "area": {
+    "type": "state",
+    "id": "CA",
+    "county": "",
+    "who_votes": "All California voters"
+   }
   },
   {
    "race": "Superintendent of Public Instruction",
@@ -1251,7 +1293,13 @@
      "note": "",
      "sources": []
     }
-   ]
+   ],
+   "area": {
+    "type": "state",
+    "id": "CA",
+    "county": "",
+    "who_votes": "All California voters"
+   }
   },
   {
    "race": "Board of Equalization District 2",
@@ -1314,7 +1362,13 @@
      "note": "",
      "sources": []
     }
-   ]
+   ],
+   "area": {
+    "type": "boe",
+    "id": "2",
+    "county": "",
+    "who_votes": "Voters in Board of Equalization District 2"
+   }
   },
   {
    "race": "U.S. House CA District 18",
@@ -1385,7 +1439,13 @@
      "note": "",
      "sources": []
     }
-   ]
+   ],
+   "area": {
+    "type": "cd",
+    "id": "18",
+    "county": "",
+    "who_votes": "Voters in Congressional District 18 (2026 Prop. 50 map)"
+   }
   },
   {
    "race": "State Assembly District 29",
@@ -1468,7 +1528,13 @@
      "note": "",
      "sources": []
     }
-   ]
+   ],
+   "area": {
+    "type": "ad",
+    "id": "29",
+    "county": "",
+    "who_votes": "Voters in Assembly District 29"
+   }
   },
   {
    "race": "San Benito County Supervisor District 5 (special, remainder of term)",
@@ -1586,7 +1652,13 @@
      "note": "",
      "sources": []
     }
-   ]
+   ],
+   "area": {
+    "type": "county",
+    "id": "San Benito",
+    "county": "San Benito",
+    "who_votes": "Voters in Supervisor District 5 only"
+   }
   },
   {
    "race": "San Benito County Board of Education District 4",
@@ -1640,7 +1712,13 @@
       "https://sanbenito.com/meet-the-candidates-sbc-board-of-education-hollister-city-treasurer/"
      ]
     }
-   ]
+   ],
+   "area": {
+    "type": "county",
+    "id": "San Benito",
+    "county": "San Benito",
+    "who_votes": "Voters in County Board of Education Trustee Area 4 only"
+   }
   },
   {
    "race": "Hollister Mayor",
@@ -1797,7 +1875,13 @@
      "note": "",
      "sources": []
     }
-   ]
+   ],
+   "area": {
+    "type": "city",
+    "id": "Hollister",
+    "county": "San Benito",
+    "who_votes": "Voters who live inside Hollister city limits"
+   }
   },
   {
    "race": "Hollister City Council District 2",
@@ -1879,7 +1963,13 @@
      "note": "",
      "sources": []
     }
-   ]
+   ],
+   "area": {
+    "type": "city",
+    "id": "Hollister",
+    "county": "San Benito",
+    "who_votes": "Hollister voters in City Council District 2 only"
+   }
   },
   {
    "race": "Hollister City Council District 3",
@@ -2000,7 +2090,13 @@
      "note": "",
      "sources": []
     }
-   ]
+   ],
+   "area": {
+    "type": "city",
+    "id": "Hollister",
+    "county": "San Benito",
+    "who_votes": "Hollister voters in City Council District 3 only"
+   }
   },
   {
    "race": "Hollister City Treasurer",
@@ -2064,7 +2160,13 @@
      "note": "",
      "sources": []
     }
-   ]
+   ],
+   "area": {
+    "type": "city",
+    "id": "Hollister",
+    "county": "San Benito",
+    "who_votes": "Voters who live inside Hollister city limits"
+   }
   },
   {
    "race": "Hollister School District Trustee Area 5",
@@ -2136,7 +2238,13 @@
      "note": "",
      "sources": []
     }
-   ]
+   ],
+   "area": {
+    "type": "county",
+    "id": "San Benito",
+    "county": "San Benito",
+    "who_votes": "Voters in Hollister School District Trustee Area 5 only"
+   }
   },
   {
    "race": "San Benito Health Care District Zone 2",
@@ -2228,7 +2336,13 @@
      "note": "",
      "sources": []
     }
-   ]
+   ],
+   "area": {
+    "type": "county",
+    "id": "San Benito",
+    "county": "San Benito",
+    "who_votes": "Voters in San Benito Health Care District Zone 2 only"
+   }
   },
   {
    "race": "San Benito Health Care District Zone 4",
@@ -2347,7 +2461,13 @@
      "note": "",
      "sources": []
     }
-   ]
+   ],
+   "area": {
+    "type": "county",
+    "id": "San Benito",
+    "county": "San Benito",
+    "who_votes": "Voters in San Benito Health Care District Zone 4 only"
+   }
   }
  ],
  "races_without_promises": [
@@ -2356,6 +2476,26 @@
   "Gavilan Joint CCD Trustee Areas 5 and 7: Ballotpedia lists one candidate each (Jeanie Wallace; Irma Gonzalez). These races may be uncontested and may not appear on the ballot. Not researched.",
   "Not researched (outside Hollister): San Juan Bautista City Council, South Monterey County Joint Union HSD, Cabrillo CCD Area 6, and Hartnell CCD Area 7. State ballot propositions and judicial retention races are also not covered."
  ],
+ "coverage": {
+  "state": "CA",
+  "on_ballot_2026": {
+   "cd": "all",
+   "ad": "all",
+   "sd": "even",
+   "boe": "all"
+  },
+  "tracked_counties": [
+   "San Benito"
+  ],
+  "po_box_zips": {
+   "95024": {
+    "city": "Hollister",
+    "county": "San Benito",
+    "enclosing_zcta": "95023"
+   }
+  },
+  "repo": "botlotician/botlotician.github.io"
+ },
  "stats": {
   "candidate_promises": 140,
   "races": 20,

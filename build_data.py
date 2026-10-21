@@ -8,7 +8,10 @@ Usage:
 Inputs (in data/):
   promises_2026.csv   race,level,candidate,party,promise,topic,source_url,source_date
   president_2024.csv  promise,topic,made_where,made_date,source_url,status,status_note,status_source_url
-  notes.json          optional: last_updated, race notes, races/candidates with no promises
+  races.csv           race,area_type,area_id,county,who_votes  (who votes in each race; drives ZIP lookup)
+                      area_type: state (area_id CA) | cd | ad | sd | boe (area_id = district number)
+                                 | county (area_id = county name) | city (area_id = city name, county = its county)
+  notes.json          optional: last_updated, race notes, races/candidates with no promises, coverage config
 Output:
   data/promises.json  (loaded by index.html)
 """
@@ -22,6 +25,8 @@ CAND_COLS = ["race", "level", "candidate", "party", "promise", "topic", "source_
 PRES_COLS = ["promise", "topic", "made_where", "made_date", "source_url", "status", "status_note", "status_source_url"]
 STATUSES = ["Kept", "Partially kept", "In progress", "Stalled", "Broken", "Not yet addressed"]
 LEVELS = {"state", "federal", "local"}
+AREA_TYPES = {"state", "cd", "ad", "sd", "boe", "county", "city"}
+RACE_COLS = ["race", "area_type", "area_id", "county", "who_votes"]
 
 
 def read_csv(path, cols):
@@ -50,6 +55,13 @@ def main():
     cand = read_csv(DATA / "promises_2026.csv", CAND_COLS)
     pres = read_csv(DATA / "president_2024.csv", PRES_COLS)
     notes = json.loads((DATA / "notes.json").read_text()) if (DATA / "notes.json").exists() else {}
+    areas = {}
+    for i, r in enumerate(read_csv(DATA / "races.csv", RACE_COLS), 2):
+        if r["area_type"] not in AREA_TYPES: errors.append(f"races.csv line {i}: bad area_type {r['area_type']!r}")
+        if not r["area_id"]: errors.append(f"races.csv line {i}: missing area_id")
+        if r["area_type"] in ("cd", "ad", "sd", "boe") and not r["area_id"].isdigit(): errors.append(f"races.csv line {i}: district area_id must be a number")
+        if r["area_type"] == "city" and not r["county"]: errors.append(f"races.csv line {i}: city races need a county")
+        areas[r["race"]] = r
 
     for i, r in enumerate(cand, 2):
         if r["level"] not in LEVELS: errors.append(f"promises_2026.csv line {i}: bad level {r['level']!r}")
@@ -82,9 +94,16 @@ def main():
         rc["candidates"].setdefault(extra["candidate"], {"name": extra["candidate"], "party": extra.get("party", ""), "promises": [], "note": extra.get("note", ""), "sources": extra.get("sources", [])})
     race_list = []
     for rc in races.values():
+        ar = areas.get(rc["race"])
+        if not ar:
+            errors.append(f"race {rc['race']!r} has no row in races.csv (needed for ZIP lookup)")
+            continue
+        rc["area"] = {"type": ar["area_type"], "id": ar["area_id"], "county": ar["county"], "who_votes": ar["who_votes"]}
         rc["candidates"] = list(rc["candidates"].values())
         race_list.append(rc)
 
+    if errors:
+        sys.exit("Data errors:\n  " + "\n  ".join(errors))
     counts = Counter(r["status"] for r in pres)
     out = {
         "last_updated": notes.get("last_updated", ""),
@@ -93,6 +112,7 @@ def main():
                       "counts": {s: counts.get(s, 0) for s in STATUSES}, "total": len(pres)},
         "races": race_list,
         "races_without_promises": notes.get("races_without_promises", []),
+        "coverage": notes.get("coverage", {}),
         "stats": {"candidate_promises": len(cand), "races": len(race_list),
                   "candidates": sum(len(r["candidates"]) for r in race_list)},
     }

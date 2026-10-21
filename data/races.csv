@@ -1,0 +1,21 @@
+race,area_type,area_id,county,who_votes
+Governor,state,CA,,All California voters
+Lieutenant Governor,state,CA,,All California voters
+Attorney General,state,CA,,All California voters
+Secretary of State,state,CA,,All California voters
+Treasurer,state,CA,,All California voters
+Controller,state,CA,,All California voters
+Insurance Commissioner,state,CA,,All California voters
+Superintendent of Public Instruction,state,CA,,All California voters
+Board of Equalization District 2,boe,2,,Voters in Board of Equalization District 2
+U.S. House CA District 18,cd,18,,Voters in Congressional District 18 (2026 Prop. 50 map)
+State Assembly District 29,ad,29,,Voters in Assembly District 29
+"San Benito County Supervisor District 5 (special, remainder of term)",county,San Benito,San Benito,Voters in Supervisor District 5 only
+San Benito County Board of Education District 4,county,San Benito,San Benito,Voters in County Board of Education Trustee Area 4 only
+Hollister Mayor,city,Hollister,San Benito,Voters who live inside Hollister city limits
+Hollister City Council District 2,city,Hollister,San Benito,Hollister voters in City Council District 2 only
+Hollister City Council District 3,city,Hollister,San Benito,Hollister voters in City Council District 3 only
+Hollister City Treasurer,city,Hollister,San Benito,Voters who live inside Hollister city limits
+Hollister School District Trustee Area 5,county,San Benito,San Benito,Voters in Hollister School District Trustee Area 5 only
+San Benito Health Care District Zone 2,county,San Benito,San Benito,Voters in San Benito Health Care District Zone 2 only
+San Benito Health Care District Zone 4,county,San Benito,San Benito,Voters in San Benito Health Care District Zone 4 only

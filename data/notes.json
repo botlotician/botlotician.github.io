@@ -25,5 +25,25 @@
     "Sunnyslope County Water District, At-large special (Orlando Martinez, Alexis M. Perez-Kenny) and Division 5 (Dee Brown, Karen Enzensperger): no candidate Q&As or statements were found.",
     "Gavilan Joint CCD Trustee Areas 5 and 7: Ballotpedia lists one candidate each (Jeanie Wallace; Irma Gonzalez). These races may be uncontested and may not appear on the ballot. Not researched.",
     "Not researched (outside Hollister): San Juan Bautista City Council, South Monterey County Joint Union HSD, Cabrillo CCD Area 6, and Hartnell CCD Area 7. State ballot propositions and judicial retention races are also not covered."
-  ]
+  ],
+  "coverage": {
+    "state": "CA",
+    "on_ballot_2026": {
+      "cd": "all",
+      "ad": "all",
+      "sd": "even",
+      "boe": "all"
+    },
+    "tracked_counties": [
+      "San Benito"
+    ],
+    "po_box_zips": {
+      "95024": {
+        "city": "Hollister",
+        "county": "San Benito",
+        "enclosing_zcta": "95023"
+      }
+    },
+    "repo": "botlotician/botlotician.github.io"
+  }
 }
