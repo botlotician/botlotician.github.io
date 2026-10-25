@@ -8892,6 +8892,423 @@
     "county": "",
     "who_votes": "All VA voters"
    }
+  },
+  {
+   "race": "U.S. Senate, Alabama",
+   "level": "federal",
+   "section": "national",
+   "race_id": "US-SEN-AL",
+   "note": "",
+   "candidates": [
+    {
+     "name": "Barry Moore",
+     "party": "Republican",
+     "promises": [
+      {
+       "text": "Reduce federal spending to bring down inflation",
+       "topic": "budget",
+       "topics": [
+        "budget"
+       ],
+       "url": "https://abc3340.com/news/beyond-the-podium/moore-wess-outline-priorities-in-race-for-alabamas-open-us-senate-seat",
+       "date": "2026-10-22"
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Everett Wess",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "Pursue congressional war-powers action to get the U.S. out of the Iran war",
+       "topic": "foreign policy",
+       "topics": [
+        "foreign policy"
+       ],
+       "url": "https://abc3340.com/news/beyond-the-podium/moore-wess-outline-priorities-in-race-for-alabamas-open-us-senate-seat",
+       "date": "2026-10-22"
+      },
+      {
+       "text": "Explore combining rural health care with veterans' health services to expand access in rural Alabama",
+       "topic": "health care",
+       "topics": [
+        "health care"
+       ],
+       "url": "https://abc3340.com/news/beyond-the-podium/moore-wess-outline-priorities-in-race-for-alabamas-open-us-senate-seat",
+       "date": "2026-10-22"
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ],
+   "area": {
+    "type": "race",
+    "id": "US-SEN-AL",
+    "state": "AL",
+    "county": "",
+    "who_votes": "All AL voters"
+   }
+  },
+  {
+   "race": "U.S. Senate, Arkansas",
+   "level": "federal",
+   "section": "national",
+   "race_id": "US-SEN-AR",
+   "note": "",
+   "candidates": [
+    {
+     "name": "Hallie Shoffner",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "Pass a \"Food Bill\" that helps farmers diversify into fruits, vegetables and grains sold to their own communities",
+       "topic": "agriculture",
+       "topics": [
+        "agriculture"
+       ],
+       "url": "https://jonesbororightnow.com/news/268862-shoffner-wadlin-discuss-agricultural-healthcare-workforce-support-in-asu-tv-senate-debate/",
+       "date": "2026-10-22"
+      },
+      {
+       "text": "Pass legislation keeping Arkansas farmland in the hands of active farmers",
+       "topic": "agriculture",
+       "topics": [
+        "agriculture"
+       ],
+       "url": "https://jonesbororightnow.com/news/268862-shoffner-wadlin-discuss-agricultural-healthcare-workforce-support-in-asu-tv-senate-debate/",
+       "date": "2026-10-22"
+      },
+      {
+       "text": "Support extending postpartum Medicaid coverage to 12 months, and refuse her salary during any government shutdown",
+       "topic": "health care / ethics",
+       "topics": [
+        "health care",
+        "ethics"
+       ],
+       "url": "https://jonesbororightnow.com/news/268862-shoffner-wadlin-discuss-agricultural-healthcare-workforce-support-in-asu-tv-senate-debate/",
+       "date": "2026-10-22"
+      },
+      {
+       "text": "Support a constitutional amendment for anti-corruption and campaign finance reform, plus term limits and ethics rules for Supreme Court justices",
+       "topic": "ethics",
+       "topics": [
+        "ethics"
+       ],
+       "url": "https://jonesbororightnow.com/news/268862-shoffner-wadlin-discuss-agricultural-healthcare-workforce-support-in-asu-tv-senate-debate/",
+       "date": "2026-10-22"
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Jeff Wadlin",
+     "party": "Libertarian",
+     "promises": [
+      {
+       "text": "Push for a balanced budget and overhaul Social Security, adding children's investment accounts so payroll taxes can fall over time",
+       "topic": "budget / Social Security",
+       "topics": [
+        "budget",
+        "social security"
+       ],
+       "url": "https://jonesbororightnow.com/news/268862-shoffner-wadlin-discuss-agricultural-healthcare-workforce-support-in-asu-tv-senate-debate/",
+       "date": "2026-10-22"
+      },
+      {
+       "text": "Work to overturn Citizens United and require groups like AIPAC to register under FARA",
+       "topic": "ethics",
+       "topics": [
+        "ethics"
+       ],
+       "url": "https://jonesbororightnow.com/news/268862-shoffner-wadlin-discuss-agricultural-healthcare-workforce-support-in-asu-tv-senate-debate/",
+       "date": "2026-10-22"
+      },
+      {
+       "text": "End agricultural subsidy programs and support right-to-repair legislation for farmers",
+       "topic": "agriculture",
+       "topics": [
+        "agriculture"
+       ],
+       "url": "https://jonesbororightnow.com/news/268862-shoffner-wadlin-discuss-agricultural-healthcare-workforce-support-in-asu-tv-senate-debate/",
+       "date": "2026-10-22"
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ],
+   "area": {
+    "type": "race",
+    "id": "US-SEN-AR",
+    "state": "AR",
+    "county": "",
+    "who_votes": "All AR voters"
+   }
+  },
+  {
+   "race": "U.S. Senate, Mississippi",
+   "level": "federal",
+   "section": "national",
+   "race_id": "US-SEN-MS",
+   "note": "",
+   "candidates": [
+    {
+     "name": "Scott Colom",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "Raise the federal minimum wage and reverse the cuts to Affordable Care Act tax credits",
+       "topic": "wages / health care",
+       "topics": [
+        "wages",
+        "health care"
+       ],
+       "url": "https://www.sunherald.com/news/politics-government/election/article317654189.html",
+       "date": "2026-10-19"
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Cindy Hyde-Smith",
+     "party": "Republican",
+     "promises": [
+      {
+       "text": "Increase domestic energy production to lower fuel costs, and cut federal regulations on small businesses, farmers and industry",
+       "topic": "energy",
+       "topics": [
+        "energy"
+       ],
+       "url": "https://www.sunherald.com/news/politics-government/election/article317654189.html",
+       "date": "2026-10-19"
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ],
+   "area": {
+    "type": "race",
+    "id": "US-SEN-MS",
+    "state": "MS",
+    "county": "",
+    "who_votes": "All MS voters"
+   }
+  },
+  {
+   "race": "U.S. Senate, South Carolina",
+   "level": "federal",
+   "section": "national",
+   "race_id": "US-SEN-SC",
+   "note": "",
+   "candidates": [
+    {
+     "name": "Annie Andrews",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "Create a public health insurance option and curb the influence of insurers, drug companies and large hospital systems",
+       "topic": "health care",
+       "topics": [
+        "health care"
+       ],
+       "url": "https://www.wcnc.com/article/news/politics/elections/darline-graham-annie-andrews-south-carolinas-us-senate-race/275-4894669a-6c79-4350-9fbe-b0cd11423da9",
+       "date": "2026-10-15"
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ],
+   "area": {
+    "type": "race",
+    "id": "US-SEN-SC",
+    "state": "SC",
+    "county": "",
+    "who_votes": "All SC voters"
+   }
+  },
+  {
+   "race": "U.S. Senate, Louisiana",
+   "level": "federal",
+   "section": "national",
+   "race_id": "US-SEN-LA",
+   "note": "",
+   "candidates": [
+    {
+     "name": "Julia Letlow",
+     "party": "Republican",
+     "promises": [
+      {
+       "text": "Permanently extend the Trump tax cuts and make no tax on tips and no tax on overtime permanent",
+       "topic": "taxes",
+       "topics": [
+        "taxes"
+       ],
+       "url": "https://www.julialetlow.com/policyplan",
+       "date": "2026-10"
+      },
+      {
+       "text": "Finish the border wall, require E-Verify nationwide and end taxpayer-funded benefits for immigrants in the country illegally",
+       "topic": "immigration",
+       "topics": [
+        "immigration"
+       ],
+       "url": "https://www.julialetlow.com/policyplan",
+       "date": "2026-10"
+      },
+      {
+       "text": "Pass the SAVE America Act requiring proof of citizenship to vote in federal elections",
+       "topic": "elections",
+       "topics": [
+        "elections"
+       ],
+       "url": "https://www.julialetlow.com/policyplan",
+       "date": "2026-10"
+      },
+      {
+       "text": "Ban members of Congress from trading individual stocks",
+       "topic": "ethics",
+       "topics": [
+        "ethics"
+       ],
+       "url": "https://www.julialetlow.com/policyplan",
+       "date": "2026-10"
+      },
+      {
+       "text": "Reform the National Flood Insurance Program and roll back unfair premium increases",
+       "topic": "insurance",
+       "topics": [
+        "insurance"
+       ],
+       "url": "https://www.julialetlow.com/policyplan",
+       "date": "2026-10"
+      },
+      {
+       "text": "Ban Chinese ownership of American farmland and deliver a strong Farm Bill",
+       "topic": "agriculture",
+       "topics": [
+        "agriculture"
+       ],
+       "url": "https://www.julialetlow.com/policyplan",
+       "date": "2026-10"
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Jamie Davis",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "Push a federal moratorium on data centers and legislation banning tax breaks for data center developments",
+       "topic": "energy",
+       "topics": [
+        "energy"
+       ],
+       "url": "https://www.wwno.org/2026-10-19/nov-3-election-guide-meet-the-u-s-senate-candidates",
+       "date": "2026-10-19"
+      },
+      {
+       "text": "Fully fund Louisiana's Coastal Master Plan and restore terminated pre-disaster mitigation grants",
+       "topic": "environment / disasters",
+       "topics": [
+        "environment",
+        "disasters"
+       ],
+       "url": "https://www.wwno.org/2026-10-19/nov-3-election-guide-meet-the-u-s-senate-candidates",
+       "date": "2026-10-19"
+      },
+      {
+       "text": "Ban members of Congress and their immediate families from owning stock, and introduce a bill banning public officials from signing NDAs",
+       "topic": "ethics",
+       "topics": [
+        "ethics"
+       ],
+       "url": "https://www.wwno.org/2026-10-19/nov-3-election-guide-meet-the-u-s-senate-candidates",
+       "date": "2026-10-19"
+      },
+      {
+       "text": "Oppose eminent domain for carbon pipelines and repeal the 45Q carbon capture tax credit",
+       "topic": "energy / property rights",
+       "topics": [
+        "energy",
+        "property rights"
+       ],
+       "url": "https://www.wwno.org/2026-10-19/nov-3-election-guide-meet-the-u-s-senate-candidates",
+       "date": "2026-10-19"
+      },
+      {
+       "text": "End private-prison contracts for immigration detention and protect Dreamers with a durable path to citizenship",
+       "topic": "immigration",
+       "topics": [
+        "immigration"
+       ],
+       "url": "https://www.wwno.org/2026-10-19/nov-3-election-guide-meet-the-u-s-senate-candidates",
+       "date": "2026-10-19"
+      },
+      {
+       "text": "Pass a \"Farmer's Farm Bill\" that restores SNAP benefits and improves crop insurance",
+       "topic": "agriculture",
+       "topics": [
+        "agriculture"
+       ],
+       "url": "https://www.wwno.org/2026-10-19/nov-3-election-guide-meet-the-u-s-senate-candidates",
+       "date": "2026-10-19"
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ],
+   "area": {
+    "type": "race",
+    "id": "US-SEN-LA",
+    "state": "LA",
+    "county": "",
+    "who_votes": "All LA voters"
+   }
+  },
+  {
+   "race": "U.S. Senate, Tennessee",
+   "level": "federal",
+   "section": "national",
+   "race_id": "US-SEN-TN",
+   "note": "",
+   "candidates": [
+    {
+     "name": "Bill Hagerty",
+     "party": "Republican",
+     "promises": [
+      {
+       "text": "Pass federal election integrity measures and legislation to lower housing prices, and keep securing the southern border",
+       "topic": "elections / housing / immigration",
+       "topics": [
+        "elections",
+        "housing",
+        "immigration"
+       ],
+       "url": "https://www.herald-citizen.com/election/candidate-questions-u-s-senate/article_72453d18-ffb6-54a9-ac1a-cffef3abc98d.html",
+       "date": "2026-10-08"
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ],
+   "area": {
+    "type": "race",
+    "id": "US-SEN-TN",
+    "state": "TN",
+    "county": "",
+    "who_votes": "All TN voters"
+   }
   }
  ],
  "races_without_promises": [
@@ -8921,9 +9338,9 @@
   "repo": "botlotician/botlotician.github.io"
  },
  "stats": {
-  "candidate_promises": 624,
-  "national_promises": 484,
-  "races": 79,
-  "candidates": 168
+  "candidate_promises": 650,
+  "national_promises": 510,
+  "races": 85,
+  "candidates": 178
  }
 }
