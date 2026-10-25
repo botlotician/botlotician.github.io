@@ -7021,6 +7021,168 @@
     "county": "",
     "who_votes": "All TN voters"
    }
+  },
+  {
+   "race": "Governor, Texas",
+   "level": "statewide",
+   "section": "national",
+   "race_id": "GOV-TX",
+   "note": "",
+   "candidates": [
+    {
+     "name": "Greg Abbott",
+     "party": "Republican",
+     "promises": [
+      {
+       "text": "Let voters eliminate school district property taxes on homesteads through a constitutional amendment, cutting the average homestead tax bill by about half",
+       "topic": "taxes",
+       "topics": [
+        "taxes"
+       ],
+       "url": "https://www.gregabbott.com/policy/",
+       "date": "2026-10"
+      },
+      {
+       "text": "Require two-thirds voter approval for all local property tax increases, and let 15% of registered voters force a tax rollback election",
+       "topic": "taxes",
+       "topics": [
+        "taxes"
+       ],
+       "url": "https://www.gregabbott.com/governor-abbott-power-to-the-texas-taxpayer/",
+       "date": "2026-04-02"
+      },
+      {
+       "text": "Limit local government spending growth to population plus inflation or 3.5%, whichever is lower",
+       "topic": "taxes / budget",
+       "topics": [
+        "taxes",
+        "budget"
+       ],
+       "url": "https://www.gregabbott.com/governor-abbott-power-to-the-texas-taxpayer/",
+       "date": "2026-04-02"
+      },
+      {
+       "text": "Appraise property only once every five years and lower the annual appraisal cap from 10% to 3%, extended to all property",
+       "topic": "taxes / housing",
+       "topics": [
+        "taxes",
+        "housing"
+       ],
+       "url": "https://www.gregabbott.com/governor-abbott-power-to-the-texas-taxpayer/",
+       "date": "2026-04-02"
+      },
+      {
+       "text": "Cap monthly co-pays for inhalers and epinephrine at $25",
+       "topic": "health care",
+       "topics": [
+        "health care"
+       ],
+       "url": "https://www.gregabbott.com/policy/",
+       "date": "2026-10"
+      },
+      {
+       "text": "Open Austin's and San Antonio's city-owned electric utilities to retail competition so customers can choose their provider",
+       "topic": "energy",
+       "topics": [
+        "energy"
+       ],
+       "url": "https://www.gregabbott.com/policy/",
+       "date": "2026-10"
+      },
+      {
+       "text": "Deny bail to immigrants in the country illegally who are arrested for violent felonies",
+       "topic": "public safety / immigration",
+       "topics": [
+        "public safety",
+        "immigration"
+       ],
+       "url": "https://www.gregabbott.com/policy/",
+       "date": "2026-10"
+      },
+      {
+       "text": "Create a $400 million roof fortification program giving homeowners up to $10,000 for stronger roofs to lower insurance costs",
+       "topic": "insurance / housing",
+       "topics": [
+        "insurance",
+        "housing"
+       ],
+       "url": "https://www.gregabbott.com/policy/",
+       "date": "2026-10"
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Gina Hinojosa",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "Send a one-time $1,500 check to every Texas household from the Rainy Day Fund, keeping a $10 billion reserve",
+       "topic": "cost of living",
+       "topics": [
+        "cost of living"
+       ],
+       "url": "https://ginafortexas.com/2026/07/new-gina-hinojosa-launches-1500-corruption-tax-refund-checks-as-part-of-money-in-your-pocket-economic-agenda/",
+       "date": "2026-07"
+      },
+      {
+       "text": "Direct the Public Utility Commission to freeze residential electricity rates until data centers and other large users pay their own costs",
+       "topic": "energy",
+       "topics": [
+        "energy"
+       ],
+       "url": "https://ginafortexas.com/priority/an-affordable-texas-that-works-for-everyone/",
+       "date": "2026-10"
+      },
+      {
+       "text": "Stop private equity firms from buying up single-family homes",
+       "topic": "housing",
+       "topics": [
+        "housing"
+       ],
+       "url": "https://ginafortexas.com/priority/an-affordable-texas-that-works-for-everyone/",
+       "date": "2026-10"
+      },
+      {
+       "text": "End corporate subsidies and use the savings to cut property taxes, with the goal of eliminating residential property taxes",
+       "topic": "taxes",
+       "topics": [
+        "taxes"
+       ],
+       "url": "https://ginafortexas.com/priority/an-affordable-texas-that-works-for-everyone/",
+       "date": "2026-10"
+      },
+      {
+       "text": "Ban surveillance pricing on groceries",
+       "topic": "cost of living",
+       "topics": [
+        "cost of living"
+       ],
+       "url": "https://ginafortexas.com/priority/an-affordable-texas-that-works-for-everyone/",
+       "date": "2026-10"
+      },
+      {
+       "text": "Replace Education Commissioner Mike Morath on day one and pause the A-F school accountability system",
+       "topic": "education",
+       "topics": [
+        "education"
+       ],
+       "url": "https://texasstandard.org/stories/gina-hinojosa-greg-abbott-texas-governor-race-priorities-polls/",
+       "date": "2026-10"
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ],
+   "area": {
+    "type": "race",
+    "id": "GOV-TX",
+    "state": "TX",
+    "county": "",
+    "who_votes": "All TX voters"
+   }
   }
  ],
  "races_without_promises": [
@@ -7050,9 +7212,9 @@
   "repo": "botlotician/botlotician.github.io"
  },
  "stats": {
-  "candidate_promises": 494,
-  "national_promises": 354,
-  "races": 58,
-  "candidates": 125
+  "candidate_promises": 508,
+  "national_promises": 368,
+  "races": 59,
+  "candidates": 127
  }
 }
