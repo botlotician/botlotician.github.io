@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-10-21",
+ "last_updated": "2026-10-25",
  "election_date": "2026-11-03",
  "president": {
   "promises": [
@@ -642,7 +642,8 @@
     "id": "CA",
     "county": "",
     "who_votes": "All California voters"
-   }
+   },
+   "race_id": "GOV-CA"
   },
   {
    "race": "Lieutenant Governor",
@@ -1445,7 +1446,8 @@
     "id": "18",
     "county": "",
     "who_votes": "Voters in Congressional District 18 (2026 Prop. 50 map)"
-   }
+   },
+   "race_id": "US-HOUSE-CA-18"
   },
   {
    "race": "State Assembly District 29",
@@ -2468,6 +2470,4557 @@
     "county": "San Benito",
     "who_votes": "Voters in San Benito Health Care District Zone 4 only"
    }
+  },
+  {
+   "race": "U.S. Senate, Georgia",
+   "level": "federal",
+   "section": "national",
+   "race_id": "US-SEN-GA",
+   "note": "",
+   "candidates": [
+    {
+     "name": "Jon Ossoff",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "Repeal the Trump tariffs he blames for record grocery prices",
+       "topic": "trade / cost of living",
+       "topics": [
+        "trade",
+        "cost of living"
+       ],
+       "url": "https://www.gpb.org/news/2026/10/14/ossoff-and-collins-exchange-fire-in-heated-senate-campaign-debate",
+       "date": "2026-10-14"
+      },
+      {
+       "text": "Repeal the Medicaid cuts passed in the 2025 budget law (One Big Beautiful Bill Act)",
+       "topic": "health care",
+       "topics": [
+        "health care"
+       ],
+       "url": "https://www.gpb.org/news/2026/10/14/ossoff-and-collins-exchange-fire-in-heated-senate-campaign-debate",
+       "date": "2026-10-14"
+      },
+      {
+       "text": "Work to end the war with Iran if Democrats win the Senate majority",
+       "topic": "foreign policy",
+       "topics": [
+        "foreign policy"
+       ],
+       "url": "https://www.gpb.org/news/2026/10/14/ossoff-and-collins-exchange-fire-in-heated-senate-campaign-debate",
+       "date": "2026-10-14"
+      },
+      {
+       "text": "Pass legislation to stop health insurers from denying claims for needed care; ban corporate PACs and ban stock trading by members of Congress",
+       "topic": "health care / ethics",
+       "topics": [
+        "health care",
+        "ethics"
+       ],
+       "url": "https://ballotpedia.org/United_States_Senate_election_in_Georgia,_2026",
+       "date": ""
+      },
+      {
+       "text": "Serve a full six-year term if re-elected and not run for president in 2028",
+       "topic": "ethics / governance",
+       "topics": [
+        "ethics",
+        "governance"
+       ],
+       "url": "https://www.cbsnews.com/news/ossoff-collins-georgia-senate-debate-election-epstein-files-tariffs/",
+       "date": "2026-10-13"
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Mike Collins",
+     "party": "Republican",
+     "promises": [
+      {
+       "text": "Push to double the $218 million in federal rural-hospital funding Georgia received",
+       "topic": "health care",
+       "topics": [
+        "health care"
+       ],
+       "url": "https://www.41nbc.com/rep-mike-collins-outlines-healthcare-plan-during-monroe-county-visit-dodges-questions-on-son-in-law-and-ties-to-white-nationalism/",
+       "date": "2026-07-30"
+      },
+      {
+       "text": "Require health-care price transparency (no hidden fees) and expand Trump's \"most favored nation\" prescription drug pricing",
+       "topic": "health care",
+       "topics": [
+        "health care"
+       ],
+       "url": "https://georgiarecorder.com/voter-guides/contests/2026senate/",
+       "date": ""
+      },
+      {
+       "text": "Repeal the Affordable Care Act, hold insurers accountable for rising prices and curb \"frivolous\" lawsuits against doctors and hospitals",
+       "topic": "health care",
+       "topics": [
+        "health care"
+       ],
+       "url": "https://www.ajc.com/politics/2026/04/mike-collins-a-look-at-the-ajcs-coverage/",
+       "date": "2026-04-20"
+      },
+      {
+       "text": "Lower housing costs by streamlining permitting to increase supply; cut taxes and regulations and rein in the EPA to pursue energy independence",
+       "topic": "housing / economy / energy",
+       "topics": [
+        "housing",
+        "economy",
+        "energy"
+       ],
+       "url": "https://georgiarecorder.com/voter-guides/contests/2026senate/",
+       "date": ""
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ],
+   "area": {
+    "type": "race",
+    "id": "US-SEN-GA",
+    "state": "GA",
+    "county": "",
+    "who_votes": "All GA voters"
+   }
+  },
+  {
+   "race": "U.S. Senate, North Carolina",
+   "level": "federal",
+   "section": "national",
+   "race_id": "US-SEN-NC",
+   "note": "",
+   "candidates": [
+    {
+     "name": "Roy Cooper",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "Stop big corporations, investment funds and foreign companies from buying up single-family homes, and ban algorithm-driven rent-setting software (e.g., RealPage, Yardi)",
+       "topic": "housing",
+       "topics": [
+        "housing"
+       ],
+       "url": "https://roycooper.com/costless/housing/",
+       "date": ""
+      },
+      {
+       "text": "Reinstate expired Affordable Care Act tax credits, reverse Medicaid cuts, cap annual out-of-pocket prescription drug costs and broaden Medicare drug-price negotiations",
+       "topic": "health care",
+       "topics": [
+        "health care"
+       ],
+       "url": "https://roycooper.com/costless/health-care/",
+       "date": "2026-09-05"
+      },
+      {
+       "text": "Expand the Child and Dependent Care Tax Credit and create employer tax credits for on-site child care or employee child-care subsidies",
+       "topic": "child care",
+       "topics": [
+        "child care"
+       ],
+       "url": "https://roycooper.com/costless/child-care/",
+       "date": "2026-09-05"
+      },
+      {
+       "text": "Make data centers pay the full cost of the power they use and ban utilities from disconnecting power during dangerous heat and cold",
+       "topic": "energy",
+       "topics": [
+        "energy"
+       ],
+       "url": "https://roycooper.com/costless/energy/",
+       "date": "2026-09-05"
+      },
+      {
+       "text": "End tariffs driving up food prices, block anti-competitive grocery mergers and ban algorithmic grocery pricing targeting individual customers",
+       "topic": "cost of living / trade",
+       "topics": [
+        "cost of living",
+        "trade"
+       ],
+       "url": "https://roycooper.com/costless/groceries/",
+       "date": "2026-09-05"
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Michael Whatley",
+     "party": "Republican",
+     "promises": [
+      {
+       "text": "Cosponsor and vote for a constitutional amendment limiting House members to three terms and senators to two terms (signed U.S. Term Limits pledge)",
+       "topic": "ethics / governance",
+       "topics": [
+        "ethics",
+        "governance"
+       ],
+       "url": "https://www.carolinajournal.com/whatley-pledges-support-for-congressional-term-limits/",
+       "date": "2026-10-09"
+      },
+      {
+       "text": "Require members of Congress to divest individual stocks or place assets in qualified blind trusts",
+       "topic": "ethics",
+       "topics": [
+        "ethics"
+       ],
+       "url": "https://www.carolinajournal.com/whatley-pledges-support-for-congressional-term-limits/",
+       "date": "2026-10-09"
+      },
+      {
+       "text": "Back President Trump's border security agenda and deportation of \"criminal illegal aliens\"",
+       "topic": "immigration",
+       "topics": [
+        "immigration"
+       ],
+       "url": "https://michaelwhatley.com/issues/",
+       "date": ""
+      },
+      {
+       "text": "Roll back \"lenient\" criminal-justice policies such as cashless bail and expansive pretrial release and \"back the blue\"",
+       "topic": "public safety",
+       "topics": [
+        "public safety"
+       ],
+       "url": "https://michaelwhatley.com/issues/",
+       "date": ""
+      },
+      {
+       "text": "Oppose Social Security benefit cuts and any tax increases while seeking bipartisan action on solvency",
+       "topic": "social security / taxes",
+       "topics": [
+        "social security",
+        "taxes"
+       ],
+       "url": "https://www.wral.com/news/nccapitol/social-security-solvency-money-cut-payment-congress-us-senate-nc-cooper-whatley-stance/",
+       "date": "2026-10-04"
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ],
+   "area": {
+    "type": "race",
+    "id": "US-SEN-NC",
+    "state": "NC",
+    "county": "",
+    "who_votes": "All NC voters"
+   }
+  },
+  {
+   "race": "U.S. Senate, Maine",
+   "level": "federal",
+   "section": "national",
+   "race_id": "US-SEN-ME",
+   "note": "",
+   "candidates": [
+    {
+     "name": "Susan Collins",
+     "party": "Republican",
+     "promises": [
+      {
+       "text": "Lower health insurance premiums, expand affordable coverage choices and protect people with pre-existing conditions",
+       "topic": "health care",
+       "topics": [
+        "health care"
+       ],
+       "url": "https://mainemorningstar.com/voter-guides/contests/2026-u-s-senate-general-election/",
+       "date": ""
+      },
+      {
+       "text": "Support raising tax rates paid by the wealthiest while preserving the state and local tax (SALT) deduction and providing tax relief for working and retired Mainers",
+       "topic": "taxes",
+       "topics": [
+        "taxes"
+       ],
+       "url": "https://mainemorningstar.com/voter-guides/contests/2026-u-s-senate-general-election/",
+       "date": ""
+      },
+      {
+       "text": "Oppose broad-based tariffs, especially on Canadian goods, and back legislation to reclaim Congress's constitutional authority over tariffs",
+       "topic": "trade",
+       "topics": [
+        "trade"
+       ],
+       "url": "https://mainemorningstar.com/voter-guides/contests/2026-u-s-senate-general-election/",
+       "date": ""
+      },
+      {
+       "text": "Reject cuts to federal education programs such as Title I, IDEA state grants, TRIO and career and technical education",
+       "topic": "education",
+       "topics": [
+        "education"
+       ],
+       "url": "https://mainemorningstar.com/voter-guides/contests/2026-u-s-senate-general-election/",
+       "date": ""
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Troy Jackson",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "Vote for Medicare for All, negotiate lower drug prices and stop insurers from profiting by denying care",
+       "topic": "health care",
+       "topics": [
+        "health care"
+       ],
+       "url": "https://mainemorningstar.com/voter-guides/contests/2026-u-s-senate-general-election/",
+       "date": ""
+      },
+      {
+       "text": "Abolish ICE and comprehensively overhaul immigration enforcement to prevent racial profiling",
+       "topic": "immigration",
+       "topics": [
+        "immigration"
+       ],
+       "url": "https://mainemorningstar.com/voter-guides/contests/2026-u-s-senate-general-election/",
+       "date": ""
+      },
+      {
+       "text": "Cut taxes for lower- and middle-class Mainers and scrap the Social Security payroll-tax cap on income above $184,500",
+       "topic": "taxes / social security",
+       "topics": [
+        "taxes",
+        "social security"
+       ],
+       "url": "https://mainemorningstar.com/voter-guides/contests/2026-u-s-senate-general-election/",
+       "date": ""
+      },
+      {
+       "text": "Vote to end President Trump's blanket tariffs",
+       "topic": "trade",
+       "topics": [
+        "trade"
+       ],
+       "url": "https://mainemorningstar.com/voter-guides/contests/2026-u-s-senate-general-election/",
+       "date": ""
+      },
+      {
+       "text": "Push Congress to end the war in Iran and act as a check on presidential war-making",
+       "topic": "foreign policy",
+       "topics": [
+        "foreign policy"
+       ],
+       "url": "https://mainemorningstar.com/voter-guides/contests/2026-u-s-senate-general-election/",
+       "date": ""
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ],
+   "area": {
+    "type": "race",
+    "id": "US-SEN-ME",
+    "state": "ME",
+    "county": "",
+    "who_votes": "All ME voters"
+   }
+  },
+  {
+   "race": "U.S. Senate, Iowa",
+   "level": "federal",
+   "section": "national",
+   "race_id": "US-SEN-IA",
+   "note": "",
+   "candidates": [
+    {
+     "name": "Ashley Hinson",
+     "party": "Republican",
+     "promises": [
+      {
+       "text": "Let first-time homebuyers save tax-free for a down payment (First Home Savings Opportunity Act) and bar large institutional investors from buying up single-family homes",
+       "topic": "housing",
+       "topics": [
+        "housing"
+       ],
+       "url": "https://ballotpedia.org/Ashley_Hinson",
+       "date": ""
+      },
+      {
+       "text": "Lower prescription drug costs through price transparency and holding pharmacy benefit managers accountable; expand over-the-counter birth control access",
+       "topic": "health care",
+       "topics": [
+        "health care"
+       ],
+       "url": "https://ballotpedia.org/Ashley_Hinson",
+       "date": ""
+      },
+      {
+       "text": "Pass a Farm Bill, expand export markets, champion year-round E15 and fight policies like California's Proposition 12",
+       "topic": "agriculture / energy",
+       "topics": [
+        "agriculture",
+        "energy"
+       ],
+       "url": "https://ballotpedia.org/Ashley_Hinson",
+       "date": ""
+      },
+      {
+       "text": "Expand child-care tax relief for working families and encourage employers to invest in child-care solutions",
+       "topic": "child care",
+       "topics": [
+        "child care"
+       ],
+       "url": "https://ballotpedia.org/Ashley_Hinson",
+       "date": ""
+      },
+      {
+       "text": "Support Trump's agenda on border security and deporting undocumented immigrants, and stop transgender women from competing in women's sports",
+       "topic": "immigration / social policy",
+       "topics": [
+        "immigration",
+        "social policy"
+       ],
+       "url": "https://iowacapitaldispatch.com/voter-guides/contests/2026-u-s-senate-general/",
+       "date": ""
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Josh Turek",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "Enact a federal ban on food price gouging and ban private equity firms from buying single-family homes and farmland",
+       "topic": "cost of living / housing",
+       "topics": [
+        "cost of living",
+        "housing"
+       ],
+       "url": "https://iowacapitaldispatch.com/voter-guides/contests/2026-u-s-senate-general/",
+       "date": ""
+      },
+      {
+       "text": "Raise the minimum wage, tie wages to inflation and end 14(c) certificates allowing sub-minimum wages for workers with disabilities",
+       "topic": "labor / disability",
+       "topics": [
+        "labor",
+        "disability"
+       ],
+       "url": "https://iowacapitaldispatch.com/voter-guides/contests/2026-u-s-senate-general/",
+       "date": ""
+      },
+      {
+       "text": "Restore full Medicaid and SNAP funding cut by the 2025 tax-and-spending law, protect and expand the ACA, cap prescription drug costs and create a public option",
+       "topic": "health care",
+       "topics": [
+        "health care"
+       ],
+       "url": "https://iowacapitaldispatch.com/voter-guides/contests/2026-u-s-senate-general/",
+       "date": ""
+      },
+      {
+       "text": "Ban corporate PAC money, back a constitutional amendment overturning Citizens United, and enact term limits for Congress and Supreme Court justices",
+       "topic": "ethics / governance",
+       "topics": [
+        "ethics",
+        "governance"
+       ],
+       "url": "https://iowacapitaldispatch.com/voter-guides/contests/2026-u-s-senate-general/",
+       "date": ""
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ],
+   "area": {
+    "type": "race",
+    "id": "US-SEN-IA",
+    "state": "IA",
+    "county": "",
+    "who_votes": "All IA voters"
+   }
+  },
+  {
+   "race": "U.S. Senate, Nebraska",
+   "level": "federal",
+   "section": "national",
+   "race_id": "US-SEN-NE",
+   "note": "",
+   "candidates": [
+    {
+     "name": "Pete Ricketts",
+     "party": "Republican",
+     "promises": [
+      {
+       "text": "Keep fighting to pass the SAVE Act to require voter ID and proof of citizenship nationwide",
+       "topic": "elections",
+       "topics": [
+        "elections"
+       ],
+       "url": "https://nebraskaexaminer.com/voter-guides/contests/2026-general-u-s-senate/",
+       "date": ""
+      },
+      {
+       "text": "Pass the Birthright Citizenship Act to end automatic citizenship for children of temporary visa holders and immigrants in the U.S. illegally",
+       "topic": "immigration",
+       "topics": [
+        "immigration"
+       ],
+       "url": "https://nebraskaexaminer.com/voter-guides/contests/2026-general-u-s-senate/",
+       "date": ""
+      },
+      {
+       "text": "Advance bipartisan legislation to stop foreign adversaries such as the Chinese Communist Party from owning U.S. farmland and to increase foreign land-ownership reporting",
+       "topic": "national security / agriculture",
+       "topics": [
+        "national security",
+        "agriculture"
+       ],
+       "url": "https://nebraskaexaminer.com/voter-guides/contests/2026-general-u-s-senate/",
+       "date": ""
+      },
+      {
+       "text": "Keep the Senate filibuster and continue cutting housing red tape (ROAD to Housing Act, Streamlining Rural Housing Act) to lower housing costs",
+       "topic": "governance / housing",
+       "topics": [
+        "governance",
+        "housing"
+       ],
+       "url": "https://nebraskaexaminer.com/voter-guides/contests/2026-general-u-s-senate/",
+       "date": ""
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Dan Osborn",
+     "party": "Nonpartisan",
+     "promises": [
+      {
+       "text": "Remove the Social Security payroll tax cap so income above $176,100 is taxed, extending solvency without benefit cuts",
+       "topic": "social security / taxes",
+       "topics": [
+        "social security",
+        "taxes"
+       ],
+       "url": "https://nebraskaexaminer.com/voter-guides/contests/2026-general-u-s-senate/",
+       "date": ""
+      },
+      {
+       "text": "Pass the Break Up Big Medicine Act to bar one company from owning a patient's insurer, doctor and pharmacy",
+       "topic": "health care",
+       "topics": [
+        "health care"
+       ],
+       "url": "https://nebraskaexaminer.com/voter-guides/contests/2026-general-u-s-senate/",
+       "date": ""
+      },
+      {
+       "text": "Pass comprehensive immigration reform including mandatory E-Verify, ending catch-and-release, funding immigration courts and guest-worker programs",
+       "topic": "immigration",
+       "topics": [
+        "immigration"
+       ],
+       "url": "https://nebraskaexaminer.com/voter-guides/contests/2026-general-u-s-senate/",
+       "date": ""
+      },
+      {
+       "text": "Restore and expand the IRS Direct File free tax-filing program to every state",
+       "topic": "taxes",
+       "topics": [
+        "taxes"
+       ],
+       "url": "https://nebraskaexaminer.com/voter-guides/contests/2026-general-u-s-senate/",
+       "date": ""
+      },
+      {
+       "text": "Not caucus with either party; refuse corporate PAC money and push limits on dark money and lobbying",
+       "topic": "ethics / governance",
+       "topics": [
+        "ethics",
+        "governance"
+       ],
+       "url": "https://nebraskaexaminer.com/voter-guides/contests/2026-general-u-s-senate/",
+       "date": ""
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ],
+   "area": {
+    "type": "race",
+    "id": "US-SEN-NE",
+    "state": "NE",
+    "county": "",
+    "who_votes": "All NE voters"
+   }
+  },
+  {
+   "race": "U.S. Senate, Alaska",
+   "level": "federal",
+   "section": "national",
+   "race_id": "US-SEN-AK",
+   "note": "",
+   "candidates": [
+    {
+     "name": "Dan Sullivan",
+     "party": "Republican",
+     "promises": [
+      {
+       "text": "Pass his Bycatch Reduction Act to cut excess fish caught by large commercial trawlers",
+       "topic": "fisheries",
+       "topics": [
+        "fisheries"
+       ],
+       "url": "https://www.washingtonpost.com/politics/2026/10/16/takeaways-alaska-senate-debate-between-mary-peltola-dan-sullivan/",
+       "date": "2026-10-16"
+      },
+      {
+       "text": "Seek an end to the Iran war through a deal that reopens the Strait of Hormuz and prevents Iran from obtaining nuclear weapons",
+       "topic": "foreign policy",
+       "topics": [
+        "foreign policy"
+       ],
+       "url": "https://www.washingtonpost.com/politics/2026/10/16/takeaways-alaska-senate-debate-between-mary-peltola-dan-sullivan/",
+       "date": "2026-10-16"
+      },
+      {
+       "text": "Keep Social Security benefits at present levels for current recipients",
+       "topic": "social security",
+       "topics": [
+        "social security"
+       ],
+       "url": "https://alaskabeacon.com/2026/10/16/alaskas-final-u-s-senate-debate-devolves-into-mudslinging-between-peltola-sullivan/",
+       "date": "2026-10-16"
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Mary Peltola",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "Push for congressional term limits, a ban on congressional stock trading and getting dark money out of politics",
+       "topic": "ethics / governance",
+       "topics": [
+        "ethics",
+        "governance"
+       ],
+       "url": "https://alaskabeacon.com/voter-guides/contests/2026-u-s-senate/",
+       "date": ""
+      },
+      {
+       "text": "Support a war powers resolution to end U.S. involvement in the Iran war and withdraw troops",
+       "topic": "foreign policy",
+       "topics": [
+        "foreign policy"
+       ],
+       "url": "https://alaskabeacon.com/voter-guides/contests/2026-u-s-senate/",
+       "date": ""
+      },
+      {
+       "text": "Fight to eliminate federal taxes on Social Security benefits",
+       "topic": "social security / taxes",
+       "topics": [
+        "social security",
+        "taxes"
+       ],
+       "url": "https://alaskabeacon.com/2026/10/16/alaskas-final-u-s-senate-debate-devolves-into-mudslinging-between-peltola-sullivan/",
+       "date": "2026-10-16"
+      },
+      {
+       "text": "Ban commercial factory trawlers / curb bycatch to restore Alaska fisheries",
+       "topic": "fisheries",
+       "topics": [
+        "fisheries"
+       ],
+       "url": "https://www.washingtonpost.com/politics/2026/10/16/takeaways-alaska-senate-debate-between-mary-peltola-dan-sullivan/",
+       "date": "2026-10-16"
+      },
+      {
+       "text": "Increase congressional oversight and accountability for ICE and boost funding for local law enforcement in Alaska; restore NOAA funding",
+       "topic": "public safety / climate",
+       "topics": [
+        "public safety",
+        "climate"
+       ],
+       "url": "https://alaskabeacon.com/voter-guides/contests/2026-u-s-senate/",
+       "date": ""
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ],
+   "area": {
+    "type": "race",
+    "id": "US-SEN-AK",
+    "state": "AK",
+    "county": "",
+    "who_votes": "All AK voters"
+   }
+  },
+  {
+   "race": "U.S. Senate, Michigan",
+   "level": "federal",
+   "section": "national",
+   "race_id": "US-SEN-MI",
+   "note": "",
+   "candidates": [
+    {
+     "name": "Mike Rogers",
+     "party": "Republican",
+     "promises": [
+      {
+       "text": "Expand 529 savings plans to cover first-time home down payments (tax-free, open for any purpose) and help cover first-year property taxes",
+       "topic": "housing",
+       "topics": [
+        "housing"
+       ],
+       "url": "https://ballotpedia.org/Mike_Rogers_(Michigan)",
+       "date": ""
+      },
+      {
+       "text": "Create residential housing zones where 100% of new home construction is tax-free and roll back housing regulations",
+       "topic": "housing",
+       "topics": [
+        "housing"
+       ],
+       "url": "https://ballotpedia.org/Mike_Rogers_(Michigan)",
+       "date": ""
+      },
+      {
+       "text": "Let renters build credit for on-time rent payments and allow student-loan deferral while saving for a down payment",
+       "topic": "housing / finance",
+       "topics": [
+        "housing",
+        "finance"
+       ],
+       "url": "https://ballotpedia.org/Mike_Rogers_(Michigan)",
+       "date": ""
+      },
+      {
+       "text": "Support pausing the federal gas tax and push to end the tariff war with Canada",
+       "topic": "cost of living / trade",
+       "topics": [
+        "cost of living",
+        "trade"
+       ],
+       "url": "https://www.nbcnews.com/politics/2026-election/sparks-fly-abdul-el-sayed-mike-rogers-first-michigan-senate-debate-rcna599866",
+       "date": "2026-10-09"
+      },
+      {
+       "text": "Cut waste and fraud across federal agencies, including the Department of Defense, to address the debt",
+       "topic": "budget",
+       "topics": [
+        "budget"
+       ],
+       "url": "https://www.clickondetroit.com/news/local/2026/10/09/el-sayed-rogers-trade-barbs-over-iran-war-gas-prices-in-michigan-senate-debate/",
+       "date": "2026-10-09"
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Abdul El-Sayed",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "Sponsor legislation to enact Medicare for All and eliminate medical debt nationwide",
+       "topic": "health care",
+       "topics": [
+        "health care"
+       ],
+       "url": "https://ballotpedia.org/Abdul_El-Sayed",
+       "date": ""
+      },
+      {
+       "text": "Sponsor legislation banning corporate money in elections, back Supreme Court nominees who would overturn Citizens United, and require transparency for lobbying and dark money",
+       "topic": "ethics / campaign finance",
+       "topics": [
+        "ethics",
+        "campaign finance"
+       ],
+       "url": "https://ballotpedia.org/Abdul_El-Sayed",
+       "date": ""
+      },
+      {
+       "text": "Pass the PRO Act to protect workers' right to unionize and fight corporate tax breaks while enforcing antitrust laws",
+       "topic": "labor / economy",
+       "topics": [
+        "labor",
+        "economy"
+       ],
+       "url": "https://ballotpedia.org/Abdul_El-Sayed",
+       "date": ""
+      },
+      {
+       "text": "Tax billionaire wealth to fund education, health care and infrastructure",
+       "topic": "taxes",
+       "topics": [
+        "taxes"
+       ],
+       "url": "https://www.clickondetroit.com/news/local/2026/10/09/el-sayed-rogers-trade-barbs-over-iran-war-gas-prices-in-michigan-senate-debate/",
+       "date": "2026-10-09"
+      },
+      {
+       "text": "Support pausing the federal gas tax",
+       "topic": "cost of living",
+       "topics": [
+        "cost of living"
+       ],
+       "url": "https://www.nbcnews.com/politics/2026-election/sparks-fly-abdul-el-sayed-mike-rogers-first-michigan-senate-debate-rcna599866",
+       "date": "2026-10-09"
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ],
+   "area": {
+    "type": "race",
+    "id": "US-SEN-MI",
+    "state": "MI",
+    "county": "",
+    "who_votes": "All MI voters"
+   }
+  },
+  {
+   "race": "U.S. Senate, Texas",
+   "level": "federal",
+   "section": "national",
+   "race_id": "US-SEN-TX",
+   "note": "",
+   "candidates": [
+    {
+     "name": "Ken Paxton",
+     "party": "Republican",
+     "promises": [
+      {
+       "text": "Help President Trump finish construction of the border wall and deport \"criminal illegal aliens\"",
+       "topic": "immigration",
+       "topics": [
+        "immigration"
+       ],
+       "url": "https://ballotpedia.org/Ken_Paxton",
+       "date": ""
+      },
+      {
+       "text": "Champion Trump's legislative priorities, including cutting taxes and ending the \"weaponization of government\"",
+       "topic": "taxes / governance",
+       "topics": [
+        "taxes",
+        "governance"
+       ],
+       "url": "https://ballotpedia.org/Ken_Paxton",
+       "date": ""
+      },
+      {
+       "text": "Fight wasteful spending to address the $36 trillion+ national debt and remove regulations on energy companies",
+       "topic": "budget / energy",
+       "topics": [
+        "budget",
+        "energy"
+       ],
+       "url": "https://ballotpedia.org/Ken_Paxton",
+       "date": ""
+      },
+      {
+       "text": "Protect gun rights, oppose abortion, and keep transgender athletes out of girls' sports",
+       "topic": "social policy",
+       "topics": [
+        "social policy"
+       ],
+       "url": "https://ballotpedia.org/Ken_Paxton",
+       "date": ""
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "James Talarico",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "Pass a \"cost-of-living tax cut\" expanding the Child Tax Credit and EITC, restoring ACA tax credits and paying a tariff rebate, funded by closing loopholes and taxing the wealthiest and large corporations",
+       "topic": "taxes / cost of living",
+       "topics": [
+        "taxes",
+        "cost of living"
+       ],
+       "url": "https://ballotpedia.org/James_Talarico",
+       "date": ""
+      },
+      {
+       "text": "Prioritize legislation to cap campaign contributions, ban dark money groups and super PACs, and ban partisan gerrymandering",
+       "topic": "ethics / elections",
+       "topics": [
+        "ethics",
+        "elections"
+       ],
+       "url": "https://ballotpedia.org/James_Talarico",
+       "date": ""
+      },
+      {
+       "text": "Fight for universal early childhood education including free pre-K for every 3- and 4-year-old, and oppose a national private-school voucher program",
+       "topic": "education",
+       "topics": [
+        "education"
+       ],
+       "url": "https://ballotpedia.org/James_Talarico",
+       "date": ""
+      },
+      {
+       "text": "Cut red tape to speed construction of homes and new energy projects to lower housing and utility costs",
+       "topic": "housing / energy",
+       "topics": [
+        "housing",
+        "energy"
+       ],
+       "url": "https://ballotpedia.org/James_Talarico",
+       "date": ""
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ],
+   "area": {
+    "type": "race",
+    "id": "US-SEN-TX",
+    "state": "TX",
+    "county": "",
+    "who_votes": "All TX voters"
+   }
+  },
+  {
+   "race": "U.S. Senate, Ohio (special)",
+   "level": "federal",
+   "section": "national",
+   "race_id": "US-SEN-OH-SPECIAL",
+   "note": "",
+   "candidates": [
+    {
+     "name": "Jon Husted",
+     "party": "Republican",
+     "promises": [
+      {
+       "text": "Make it easier to build new power plants, pipelines and refineries and expand oil exploration to lower energy and fuel prices; lower input costs for farmers",
+       "topic": "energy / cost of living",
+       "topics": [
+        "energy",
+        "cost of living"
+       ],
+       "url": "https://www.wlwt.com/article/ohio-us-senate-race-sherrod-brown-jon-husted-election-day/74111437",
+       "date": "2026-10-12"
+      },
+      {
+       "text": "Pass legislation requiring data centers to pay for the energy infrastructure and added power they need, while keeping siting decisions local",
+       "topic": "energy",
+       "topics": [
+        "energy"
+       ],
+       "url": "https://www.daytondailynews.com/tncms/asset/editorial/3922febd-de5f-5524-8d85-affe5bdfd809",
+       "date": "2026-10-16"
+      },
+      {
+       "text": "Pass his Upward Mobility Act creating a pilot program to ease the public-benefits \"cliff\" as recipients' incomes rise",
+       "topic": "welfare / economy",
+       "topics": [
+        "welfare",
+        "economy"
+       ],
+       "url": "https://www.daytondailynews.com/tncms/asset/editorial/3922febd-de5f-5524-8d85-affe5bdfd809",
+       "date": "2026-10-16"
+      },
+      {
+       "text": "Protect earned Social Security benefits and support the $6,000 senior tax deduction; work with both parties on solvency",
+       "topic": "social security",
+       "topics": [
+        "social security"
+       ],
+       "url": "https://ohiocapitaljournal.com/2026/10/12/ohio-us-senate-candidates-discuss-how-to-fix-social-security/",
+       "date": "2026-10-12"
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Sherrod Brown",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "End the war with Iran as his first priority",
+       "topic": "foreign policy",
+       "topics": [
+        "foreign policy"
+       ],
+       "url": "https://www.wlwt.com/article/ohio-us-senate-race-sherrod-brown-jon-husted-election-day/74111437",
+       "date": "2026-10-12"
+      },
+      {
+       "text": "Bring back the expanded child tax credit",
+       "topic": "taxes / families",
+       "topics": [
+        "taxes",
+        "families"
+       ],
+       "url": "https://www.wlwt.com/article/ohio-us-senate-race-sherrod-brown-jon-husted-election-day/74111437",
+       "date": "2026-10-12"
+      },
+      {
+       "text": "End the tariffs adding costs for farmers and grocery shoppers",
+       "topic": "trade",
+       "topics": [
+        "trade"
+       ],
+       "url": "https://www.wlwt.com/article/ohio-us-senate-race-sherrod-brown-jon-husted-election-day/74111437",
+       "date": "2026-10-12"
+      },
+      {
+       "text": "Raise the Social Security payroll tax cap so high earners pay more, and oppose privatizing Social Security",
+       "topic": "social security",
+       "topics": [
+        "social security"
+       ],
+       "url": "https://ohiocapitaljournal.com/2026/10/12/ohio-us-senate-candidates-discuss-how-to-fix-social-security/",
+       "date": "2026-10-12"
+      },
+      {
+       "text": "Bar people with mental health issues released from prison from buying guns; deport immigrants who commit crimes while extending TPS for law-abiding Haitians",
+       "topic": "public safety / immigration",
+       "topics": [
+        "public safety",
+        "immigration"
+       ],
+       "url": "https://www.wlwt.com/article/ohio-us-senate-race-sherrod-brown-jon-husted-election-day/74111437",
+       "date": "2026-10-12"
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ],
+   "area": {
+    "type": "race",
+    "id": "US-SEN-OH-SPECIAL",
+    "state": "OH",
+    "county": "",
+    "who_votes": "All OH voters"
+   }
+  },
+  {
+   "race": "U.S. Senate, New Hampshire",
+   "level": "federal",
+   "section": "national",
+   "race_id": "US-SEN-NH",
+   "note": "",
+   "candidates": [
+    {
+     "name": "John E. Sununu",
+     "party": "Republican",
+     "promises": [
+      {
+       "text": "Fight for congressional reform starting with term limits for members of Congress",
+       "topic": "ethics / governance",
+       "topics": [
+        "ethics",
+        "governance"
+       ],
+       "url": "https://www.citizenscount.org/candidate/john-e-sununu",
+       "date": ""
+      },
+      {
+       "text": "Require ICE agents to stop wearing masks, wear body cameras and receive better training",
+       "topic": "immigration",
+       "topics": [
+        "immigration"
+       ],
+       "url": "https://www.citizenscount.org/candidate/john-e-sununu",
+       "date": ""
+      },
+      {
+       "text": "Have Congress act to restrict \"birth tourism\" if the Supreme Court does not",
+       "topic": "immigration",
+       "topics": [
+        "immigration"
+       ],
+       "url": "https://www.citizenscount.org/candidate/john-e-sununu",
+       "date": ""
+      },
+      {
+       "text": "Continue military support for Taiwan, diversify supply chains away from China and set tariffs at \"reasonable\" rates with a bigger role for Congress",
+       "topic": "foreign policy / trade",
+       "topics": [
+        "foreign policy",
+        "trade"
+       ],
+       "url": "https://www.citizenscount.org/candidate/john-e-sununu",
+       "date": ""
+      },
+      {
+       "text": "Keep taxes low and avoid new taxes and regulations on small businesses",
+       "topic": "taxes",
+       "topics": [
+        "taxes"
+       ],
+       "url": "https://www.citizenscount.org/candidate/john-e-sununu",
+       "date": ""
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Chris Pappas",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "Restore the enhanced ACA premium tax credits",
+       "topic": "health care",
+       "topics": [
+        "health care"
+       ],
+       "url": "https://ballotpedia.org/Chris_Pappas",
+       "date": ""
+      },
+      {
+       "text": "Restore the expanded Child Tax Credit",
+       "topic": "taxes / families",
+       "topics": [
+        "taxes",
+        "families"
+       ],
+       "url": "https://ballotpedia.org/Chris_Pappas",
+       "date": ""
+      },
+      {
+       "text": "Protect Granite Staters from Trump tariffs and reimburse small businesses for tariff costs they've paid",
+       "topic": "trade",
+       "topics": [
+        "trade"
+       ],
+       "url": "https://ballotpedia.org/Chris_Pappas",
+       "date": ""
+      },
+      {
+       "text": "Ban stock trading by members of Congress and close loopholes letting current and former officials profit from their positions",
+       "topic": "ethics",
+       "topics": [
+        "ethics"
+       ],
+       "url": "https://ballotpedia.org/Chris_Pappas",
+       "date": ""
+      },
+      {
+       "text": "Cut red tape so communities can build more homes and provide tax cuts for first-time homebuyers",
+       "topic": "housing",
+       "topics": [
+        "housing"
+       ],
+       "url": "https://ballotpedia.org/Chris_Pappas",
+       "date": ""
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ],
+   "area": {
+    "type": "race",
+    "id": "US-SEN-NH",
+    "state": "NH",
+    "county": "",
+    "who_votes": "All NH voters"
+   }
+  },
+  {
+   "race": "U.S. Senate, Montana",
+   "level": "federal",
+   "section": "national",
+   "race_id": "US-SEN-MT",
+   "note": "",
+   "candidates": [
+    {
+     "name": "Kurt Alme",
+     "party": "Republican",
+     "promises": [
+      {
+       "text": "Introduce, as his first bill, legislation stopping congressional pay if Congress fails to balance the budget",
+       "topic": "budget",
+       "topics": [
+        "budget"
+       ],
+       "url": "https://ballotpedia.org/Kurt_Alme",
+       "date": ""
+      },
+      {
+       "text": "End deficit spending and cut waste, fraud and abuse to bring down inflation",
+       "topic": "budget",
+       "topics": [
+        "budget"
+       ],
+       "url": "https://ballotpedia.org/Kurt_Alme",
+       "date": ""
+      },
+      {
+       "text": "Secure the border, support law enforcement and target drug-trafficking organizations up to the cartels, while expanding drug prevention and treatment",
+       "topic": "public safety / immigration",
+       "topics": [
+        "public safety",
+        "immigration"
+       ],
+       "url": "https://ballotpedia.org/Kurt_Alme",
+       "date": ""
+      },
+      {
+       "text": "Defend the 2nd Amendment, keep \"boys out of girls' sports,\" protect public lands and secure elections",
+       "topic": "social policy / public lands",
+       "topics": [
+        "social policy",
+        "public lands"
+       ],
+       "url": "https://ballotpedia.org/Kurt_Alme",
+       "date": ""
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Alani Bankhead",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "Ban private-equity firms from buying up Montana homes and raise the home-sale capital-gains exclusion from $250k to $500k (backing the More Homes on the Market Act)",
+       "topic": "housing",
+       "topics": [
+        "housing"
+       ],
+       "url": "https://ballotpedia.org/Alani_Bankhead",
+       "date": ""
+      },
+      {
+       "text": "Back the TRUST in Congress Act to ban members' individual stock trading and the DISCLOSE Act on dark money; refuse corporate PAC money",
+       "topic": "ethics",
+       "topics": [
+        "ethics"
+       ],
+       "url": "https://ballotpedia.org/Alani_Bankhead",
+       "date": ""
+      },
+      {
+       "text": "Hold on-the-record town halls in all 56 Montana counties and publish every vote with an explanation; support congressional term limits",
+       "topic": "ethics / governance",
+       "topics": [
+        "ethics",
+        "governance"
+       ],
+       "url": "https://ballotpedia.org/Alani_Bankhead",
+       "date": ""
+      },
+      {
+       "text": "Give tax breaks to builders who make at least 30% of units affordable and expand the Low-Income Housing Tax Credit",
+       "topic": "housing",
+       "topics": [
+        "housing"
+       ],
+       "url": "https://ballotpedia.org/Alani_Bankhead",
+       "date": ""
+      },
+      {
+       "text": "Fight to keep Montana's at-risk rural hospitals open and protect Medicare and Medicaid, paying for it by cutting federal waste",
+       "topic": "health care",
+       "topics": [
+        "health care"
+       ],
+       "url": "https://ballotpedia.org/Alani_Bankhead",
+       "date": ""
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Seth Bodnar",
+     "party": "Independent",
+     "promises": [
+      {
+       "text": "Not caucus with Democrats or Republicans",
+       "topic": "governance",
+       "topics": [
+        "governance"
+       ],
+       "url": "https://ballotpedia.org/Seth_Bodnar",
+       "date": "2026-07-16"
+      },
+      {
+       "text": "Fight to end the war in Iran and the trade wars driving up fuel, fertilizer and grocery costs",
+       "topic": "foreign policy / trade",
+       "topics": [
+        "foreign policy",
+        "trade"
+       ],
+       "url": "https://www.sethformontana.com/",
+       "date": ""
+      },
+      {
+       "text": "Restore expired health-care tax credits, protect Medicaid expansion and cap insulin at $35 a month for every Montanan",
+       "topic": "health care",
+       "topics": [
+        "health care"
+       ],
+       "url": "https://www.sethformontana.com/",
+       "date": ""
+      },
+      {
+       "text": "Ban stock trading by members of Congress, fight to overturn Citizens United and enforce antitrust laws against monopolies squeezing ranchers",
+       "topic": "ethics / economy",
+       "topics": [
+        "ethics",
+        "economy"
+       ],
+       "url": "https://www.sethformontana.com/",
+       "date": ""
+      },
+      {
+       "text": "Stop Wall Street from buying starter homes, cut red tape on new housing and ensure data centers never drive up power bills",
+       "topic": "housing / energy",
+       "topics": [
+        "housing",
+        "energy"
+       ],
+       "url": "https://www.sethformontana.com/",
+       "date": ""
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ],
+   "area": {
+    "type": "race",
+    "id": "US-SEN-MT",
+    "state": "MT",
+    "county": "",
+    "who_votes": "All MT voters"
+   }
+  },
+  {
+   "race": "U.S. Senate, Florida (special)",
+   "level": "federal",
+   "section": "national",
+   "race_id": "US-SEN-FL-SPECIAL",
+   "note": "",
+   "candidates": [
+    {
+     "name": "Ashley Moody",
+     "party": "Republican",
+     "promises": [
+      {
+       "text": "Pass her HELPER Act creating a federal mortgage assistance program for police, firefighters, other first responders and teachers to buy homes",
+       "topic": "housing",
+       "topics": [
+        "housing"
+       ],
+       "url": "https://folioweekly.com/2026/10/21/three-candidates-three-visions-floridas-us-senate-race-comes-home-to-northeast-florida/",
+       "date": "2026-10-21"
+      },
+      {
+       "text": "Expand expedited removal for immigrants convicted of certain crimes",
+       "topic": "immigration",
+       "topics": [
+        "immigration"
+       ],
+       "url": "https://www.wgcu.org/government-politics/2026-09-07/immigration-crime-and-economy-shape-ashley-moodys-senate-campaign",
+       "date": "2026-09-07"
+      },
+      {
+       "text": "Push tougher penalties and expanded capital punishment for severe violent crimes",
+       "topic": "public safety",
+       "topics": [
+        "public safety"
+       ],
+       "url": "https://www.wgcu.org/government-politics/2026-09-07/immigration-crime-and-economy-shape-ashley-moodys-senate-campaign",
+       "date": "2026-09-07"
+      },
+      {
+       "text": "Keep \"no tax on tips/overtime/Social Security\" tax cuts, reduce business regulation and restrain federal spending",
+       "topic": "taxes / economy",
+       "topics": [
+        "taxes",
+        "economy"
+       ],
+       "url": "https://folioweekly.com/2026/10/21/three-candidates-three-visions-floridas-us-senate-race-comes-home-to-northeast-florida/",
+       "date": "2026-10-21"
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Angela Nixon",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "Fight for Medicare for All with no premiums, deductibles or copays, plus capped prescription drug prices",
+       "topic": "health care",
+       "topics": [
+        "health care"
+       ],
+       "url": "https://ballotpedia.org/Angela_Nixon",
+       "date": ""
+      },
+      {
+       "text": "Cancel existing medical debt and back the Medical Debt Cancellation Act",
+       "topic": "health care",
+       "topics": [
+        "health care"
+       ],
+       "url": "https://ballotpedia.org/Angela_Nixon",
+       "date": ""
+      },
+      {
+       "text": "Enact a national rent freeze and moratorium on evictions",
+       "topic": "housing",
+       "topics": [
+        "housing"
+       ],
+       "url": "https://ballotpedia.org/Angela_Nixon",
+       "date": ""
+      },
+      {
+       "text": "Provide free child care and universal pre-K plus guaranteed paid family and sick leave",
+       "topic": "child care / labor",
+       "topics": [
+        "child care",
+        "labor"
+       ],
+       "url": "https://ballotpedia.org/Angela_Nixon",
+       "date": ""
+      },
+      {
+       "text": "Tax billionaires to pay for these programs and get big money out of politics",
+       "topic": "taxes",
+       "topics": [
+        "taxes"
+       ],
+       "url": "https://ballotpedia.org/Angela_Nixon",
+       "date": ""
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ],
+   "area": {
+    "type": "race",
+    "id": "US-SEN-FL-SPECIAL",
+    "state": "FL",
+    "county": "",
+    "who_votes": "All FL voters"
+   }
+  },
+  {
+   "race": "Governor, Arizona",
+   "level": "statewide",
+   "section": "national",
+   "race_id": "GOV-AZ",
+   "note": "",
+   "candidates": [
+    {
+     "name": "Andy Biggs",
+     "party": "Republican",
+     "promises": [
+      {
+       "text": "Phase out Arizona's state income tax incrementally",
+       "topic": "taxes",
+       "topics": [
+        "taxes"
+       ],
+       "url": "https://www.fox10phoenix.com/election/2026-election-debate-arizona-gubernatorial-candidates-face-off",
+       "date": "2026-10-06"
+      },
+      {
+       "text": "Launch a state Department of Government Efficiency program to root out waste, fraud and abuse, and tighten Medicaid eligibility for able-bodied single adults",
+       "topic": "budget / health care",
+       "topics": [
+        "budget",
+        "health care"
+       ],
+       "url": "https://www.fox10phoenix.com/election/2026-election-debate-arizona-gubernatorial-candidates-face-off",
+       "date": "2026-10-06"
+      },
+      {
+       "text": "Codify repeal of the Hobbs administration's groundwater-based restriction on new housing in the Phoenix area",
+       "topic": "water / housing",
+       "topics": [
+        "water",
+        "housing"
+       ],
+       "url": "https://azcapitoltimes.com/news/2026/10/01/arizonas-groundwater-future-hinges-on-2026-election/",
+       "date": "2026-10-01"
+      },
+      {
+       "text": "Expand water infrastructure, recycling and storage (e.g., at Bartlett Dam) and explore desalination",
+       "topic": "water",
+       "topics": [
+        "water"
+       ],
+       "url": "https://www.fox10phoenix.com/election/2026-election-debate-arizona-gubernatorial-candidates-face-off",
+       "date": "2026-10-06"
+      },
+      {
+       "text": "Pass a \"Florida-style election integrity bill\" requiring proof of U.S. citizenship to register to vote",
+       "topic": "elections",
+       "topics": [
+        "elections"
+       ],
+       "url": "https://azmirror.com/voter-guides/contests/governor/",
+       "date": ""
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Katie Hobbs",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "Impose a $250,000 household income cap on the universal Empowerment Scholarship Account (ESA) voucher program",
+       "topic": "education",
+       "topics": [
+        "education"
+       ],
+       "url": "https://azmirror.com/voter-guides/contests/governor/",
+       "date": ""
+      },
+      {
+       "text": "Prioritize passing a Rural Groundwater Management Act giving rural communities flexible tools to manage aquifers",
+       "topic": "water",
+       "topics": [
+        "water"
+       ],
+       "url": "https://azcapitoltimes.com/news/2026/10/01/arizonas-groundwater-future-hinges-on-2026-election/",
+       "date": "2026-10-01"
+      },
+      {
+       "text": "In a second term, protect Arizona's water supply, crack down on fraud and wasteful spending, and prioritize lowering everyday costs",
+       "topic": "water / budget",
+       "topics": [
+        "water",
+        "budget"
+       ],
+       "url": "https://katiehobbs.org/katie-hobbs-launches-new-tv-ad-forward-showcasing-her-continued-commitment-to-working-together-to-move-arizona-forward/",
+       "date": "2026-10-16"
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ],
+   "area": {
+    "type": "race",
+    "id": "GOV-AZ",
+    "state": "AZ",
+    "county": "",
+    "who_votes": "All AZ voters"
+   }
+  },
+  {
+   "race": "Governor, Georgia",
+   "level": "statewide",
+   "section": "national",
+   "race_id": "GOV-GA",
+   "note": "",
+   "candidates": [
+    {
+     "name": "Rick Jackson",
+     "party": "Republican",
+     "promises": [
+      {
+       "text": "Cut the state income tax in half over four years (or not seek re-election), and freeze then reduce property taxes",
+       "topic": "taxes",
+       "topics": [
+        "taxes"
+       ],
+       "url": "https://georgiarecorder.com/voter-guides/contests/2026-governor/",
+       "date": ""
+      },
+      {
+       "text": "Automatically suspend the state gas tax when prices spike",
+       "topic": "taxes / energy",
+       "topics": [
+        "taxes",
+        "energy"
+       ],
+       "url": "https://georgiarecorder.com/voter-guides/contests/2026-governor/",
+       "date": ""
+      },
+      {
+       "text": "Pursue \"intelligent\" Medicaid expansion, add 500 inpatient psychiatric beds and crack down on insurers that deny or delay care",
+       "topic": "health care",
+       "topics": [
+        "health care"
+       ],
+       "url": "https://georgiarecorder.com/voter-guides/contests/2026-governor/",
+       "date": ""
+      },
+      {
+       "text": "Ensure every child reads at grade level by third grade, raise teacher pay and expand career-education pathways",
+       "topic": "education",
+       "topics": [
+        "education"
+       ],
+       "url": "https://georgiarecorder.com/voter-guides/contests/2026-governor/",
+       "date": ""
+      },
+      {
+       "text": "Freeze tuition, room and board at Georgia's public colleges and technical schools",
+       "topic": "higher education",
+       "topics": [
+        "higher education"
+       ],
+       "url": "https://georgiarecorder.com/voter-guides/contests/2026-governor/",
+       "date": ""
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Keisha Lance Bottoms",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "Make full Medicaid expansion a top priority and scrap the Georgia Pathways program",
+       "topic": "health care",
+       "topics": [
+        "health care"
+       ],
+       "url": "https://georgiarecorder.com/voter-guides/contests/2026-governor/",
+       "date": ""
+      },
+      {
+       "text": "Expand free pre-K to every 4-year-old who wants a spot, funded by Lottery reserves and voter-approved casinos",
+       "topic": "education",
+       "topics": [
+        "education"
+       ],
+       "url": "https://georgiarecorder.com/voter-guides/contests/2026-governor/",
+       "date": ""
+      },
+      {
+       "text": "Eliminate the state income tax for Georgia educators",
+       "topic": "taxes / education",
+       "topics": [
+        "taxes",
+        "education"
+       ],
+       "url": "https://georgiarecorder.com/voter-guides/contests/2026-governor/",
+       "date": ""
+      },
+      {
+       "text": "Let local governments suspend sales taxes on groceries and essentials, raise the homestead exemption from $2,000 to $5,000 and cut the gas tax from 33.3 to 28 cents per gallon",
+       "topic": "taxes / cost of living",
+       "topics": [
+        "taxes",
+        "cost of living"
+       ],
+       "url": "https://georgiarecorder.com/voter-guides/contests/2026-governor/",
+       "date": ""
+      },
+      {
+       "text": "Pause new data center construction pending study and end data-center tax incentives",
+       "topic": "energy / environment",
+       "topics": [
+        "energy",
+        "environment"
+       ],
+       "url": "https://georgiarecorder.com/voter-guides/contests/2026-governor/",
+       "date": ""
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ],
+   "area": {
+    "type": "race",
+    "id": "GOV-GA",
+    "state": "GA",
+    "county": "",
+    "who_votes": "All GA voters"
+   }
+  },
+  {
+   "race": "Governor, Iowa",
+   "level": "statewide",
+   "section": "national",
+   "race_id": "GOV-IA",
+   "note": "",
+   "candidates": [
+    {
+     "name": "Zach Lahn",
+     "party": "Republican",
+     "promises": [
+      {
+       "text": "File antitrust suits against agricultural input companies that have formed monopolies",
+       "topic": "agriculture",
+       "topics": [
+        "agriculture"
+       ],
+       "url": "https://ballotpedia.org/Zach_Lahn",
+       "date": ""
+      },
+      {
+       "text": "Raise property tax rates on Wall Street institutional investors to lower Iowans' property taxes, and ban hedge funds from buying single-family homes",
+       "topic": "taxes / housing",
+       "topics": [
+        "taxes",
+        "housing"
+       ],
+       "url": "https://ballotpedia.org/Zach_Lahn",
+       "date": ""
+      },
+      {
+       "text": "Confiscate land illegally owned by China and sell it to young families and veterans; restrict foreign and out-of-state farmland ownership",
+       "topic": "agriculture / national security",
+       "topics": [
+        "agriculture",
+        "national security"
+       ],
+       "url": "https://ballotpedia.org/Zach_Lahn",
+       "date": ""
+      },
+      {
+       "text": "Ban state benefits for immigrants in the country illegally and stop H-1B hiring in state government and universities for jobs Iowans can do",
+       "topic": "immigration",
+       "topics": [
+        "immigration"
+       ],
+       "url": "https://ballotpedia.org/Zach_Lahn",
+       "date": ""
+      },
+      {
+       "text": "Order independent state safety testing of products and redirect University of Iowa research toward Iowa's cancer crisis; revoke teaching licenses for \"political indoctrination\"",
+       "topic": "health / education",
+       "topics": [
+        "health",
+        "education"
+       ],
+       "url": "https://ballotpedia.org/Zach_Lahn",
+       "date": ""
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Rob Sand",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "Reverse Iowa's Medicaid privatization by executive order",
+       "topic": "health care",
+       "topics": [
+        "health care"
+       ],
+       "url": "https://ballotpedia.org/Rob_Sand",
+       "date": ""
+      },
+      {
+       "text": "Fund universal all-day pre-K by ending voucher payments to wealthy families, and add oversight (annual audits) to the ESA voucher program",
+       "topic": "education",
+       "topics": [
+        "education"
+       ],
+       "url": "https://ballotpedia.org/Rob_Sand",
+       "date": ""
+      },
+      {
+       "text": "Ban stock trading by politicians, impose mandatory prison sentences for those who steal over $10,000 in taxpayer money, and enact term and age limits",
+       "topic": "ethics",
+       "topics": [
+        "ethics"
+       ],
+       "url": "https://iowacapitaldispatch.com/voter-guides/contests/2026-iowa-governor-general/",
+       "date": ""
+      },
+      {
+       "text": "Legalize and regulate adult-use cannabis and tax out-of-state landowners at a higher rate",
+       "topic": "taxes / cannabis",
+       "topics": [
+        "taxes",
+        "cannabis"
+       ],
+       "url": "https://ballotpedia.org/Rob_Sand",
+       "date": ""
+      },
+      {
+       "text": "Ban social media for children under 16 and restore the State Auditor's full oversight powers",
+       "topic": "technology / governance",
+       "topics": [
+        "technology",
+        "governance"
+       ],
+       "url": "https://iowacapitaldispatch.com/voter-guides/contests/2026-iowa-governor-general/",
+       "date": ""
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ],
+   "area": {
+    "type": "race",
+    "id": "GOV-IA",
+    "state": "IA",
+    "county": "",
+    "who_votes": "All IA voters"
+   }
+  },
+  {
+   "race": "Governor, Kansas",
+   "level": "statewide",
+   "section": "national",
+   "race_id": "GOV-KS",
+   "note": "",
+   "candidates": [
+    {
+     "name": "Ty Masterson",
+     "party": "Republican",
+     "promises": [
+      {
+       "text": "Keep cutting taxes until Kansas is one of the most affordable states to work, raise a family and start a business",
+       "topic": "taxes",
+       "topics": [
+        "taxes"
+       ],
+       "url": "https://ballotpedia.org/Ty_Masterson",
+       "date": "2026-08-18"
+      },
+      {
+       "text": "Raise pay for good teachers, give parents a say in their kids' education and hold education spending accountable for results",
+       "topic": "education",
+       "topics": [
+        "education"
+       ],
+       "url": "https://ballotpedia.org/Ty_Masterson",
+       "date": "2026-08-18"
+      },
+      {
+       "text": "Back tough-on-crime policies and ensure police are funded",
+       "topic": "public safety",
+       "topics": [
+        "public safety"
+       ],
+       "url": "https://ballotpedia.org/Ty_Masterson",
+       "date": "2026-08-18"
+      },
+      {
+       "text": "Reduce regulations to spur job growth",
+       "topic": "economy",
+       "topics": [
+        "economy"
+       ],
+       "url": "https://ballotpedia.org/Ty_Masterson",
+       "date": "2026-08-18"
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Cindy Holscher",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "Lower residential property tax assessment rates from 11.5% to 9.0% and add exemptions for seniors and disabled veterans",
+       "topic": "taxes",
+       "topics": [
+        "taxes"
+       ],
+       "url": "https://ballotpedia.org/Cindy_Holscher",
+       "date": ""
+      },
+      {
+       "text": "Raise the state minimum wage to $16 and let higher-cost cities and counties set higher minimums",
+       "topic": "labor",
+       "topics": [
+        "labor"
+       ],
+       "url": "https://ballotpedia.org/Cindy_Holscher",
+       "date": ""
+      },
+      {
+       "text": "Impose a moratorium on new large data centers until guardrails are in place",
+       "topic": "energy / environment",
+       "topics": [
+        "energy",
+        "environment"
+       ],
+       "url": "https://ballotpedia.org/Cindy_Holscher",
+       "date": ""
+      },
+      {
+       "text": "Expand Medicaid, provide free school lunch for every student and expand special education funding",
+       "topic": "health care / education",
+       "topics": [
+        "health care",
+        "education"
+       ],
+       "url": "https://ballotpedia.org/Cindy_Holscher",
+       "date": ""
+      },
+      {
+       "text": "Legalize recreational and medical cannabis and make diapers tax-free",
+       "topic": "cannabis / taxes",
+       "topics": [
+        "cannabis",
+        "taxes"
+       ],
+       "url": "https://ballotpedia.org/Cindy_Holscher",
+       "date": ""
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ],
+   "area": {
+    "type": "race",
+    "id": "GOV-KS",
+    "state": "KS",
+    "county": "",
+    "who_votes": "All KS voters"
+   }
+  },
+  {
+   "race": "Governor, Michigan",
+   "level": "statewide",
+   "section": "national",
+   "race_id": "GOV-MI",
+   "note": "",
+   "candidates": [
+    {
+     "name": "John James",
+     "party": "Republican",
+     "promises": [
+      {
+       "text": "Publicly disclose all personal finances and require the same of senior appointees; end the FOIA exemption for the governor's office, executive branch and Legislature",
+       "topic": "ethics / transparency",
+       "topics": [
+        "ethics",
+        "transparency"
+       ],
+       "url": "https://ballotpedia.org/John_James_(Michigan)",
+       "date": ""
+      },
+      {
+       "text": "Conduct a comprehensive audit of the past ten years of state spending (including MEDC, MDHHS and COVID-19 aid) and investigate the $8 billion unemployment fraud scandal",
+       "topic": "budget / ethics",
+       "topics": [
+        "budget",
+        "ethics"
+       ],
+       "url": "https://ballotpedia.org/John_James_(Michigan)",
+       "date": ""
+      },
+      {
+       "text": "Ban fundraising by state officials during legislative session and ban taxpayer-funded lobbying",
+       "topic": "ethics",
+       "topics": [
+        "ethics"
+       ],
+       "url": "https://ballotpedia.org/John_James_(Michigan)",
+       "date": ""
+      },
+      {
+       "text": "Conduct an independent audit of Michigan's voter rolls to remove non-citizens",
+       "topic": "elections",
+       "topics": [
+        "elections"
+       ],
+       "url": "https://ballotpedia.org/John_James_(Michigan)",
+       "date": ""
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Jocelyn Benson",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "Pass a $5,000 caregiver tax credit and increase transparency in medical billing to lower health costs",
+       "topic": "health care / taxes",
+       "topics": [
+        "health care",
+        "taxes"
+       ],
+       "url": "https://ballotpedia.org/Jocelyn_Benson",
+       "date": ""
+      },
+      {
+       "text": "Bring the Rx Kids cash-assistance program statewide and remove barriers for qualified child-care providers",
+       "topic": "child care / families",
+       "topics": [
+        "child care",
+        "families"
+       ],
+       "url": "https://ballotpedia.org/Jocelyn_Benson",
+       "date": ""
+      },
+      {
+       "text": "Streamline construction regulations, incentivize starter and affordable homes, and crack down on corporate investors buying up properties",
+       "topic": "housing",
+       "topics": [
+        "housing"
+       ],
+       "url": "https://ballotpedia.org/Jocelyn_Benson",
+       "date": ""
+      },
+      {
+       "text": "Ensure pharmaceutical companies cannot price-gouge Michigan families",
+       "topic": "health care",
+       "topics": [
+        "health care"
+       ],
+       "url": "https://ballotpedia.org/Jocelyn_Benson",
+       "date": ""
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ],
+   "area": {
+    "type": "race",
+    "id": "GOV-MI",
+    "state": "MI",
+    "county": "",
+    "who_votes": "All MI voters"
+   }
+  },
+  {
+   "race": "Governor, Nevada",
+   "level": "statewide",
+   "section": "national",
+   "race_id": "GOV-NV",
+   "note": "",
+   "candidates": [
+    {
+     "name": "Joe Lombardo",
+     "party": "Republican",
+     "promises": [
+      {
+       "text": "Expand down-payment assistance under the Nevada Housing Access and Attainability Act and release more federal land for attainable housing",
+       "topic": "housing",
+       "topics": [
+        "housing"
+       ],
+       "url": "https://lasvegassun.com/news/2026/sep/03/lombardo-unveils-second-term-agenda-targeting-hous/",
+       "date": "2026-09-03"
+      },
+      {
+       "text": "Raise per-pupil school funding, expand school choice and offer competitive teacher pay",
+       "topic": "education",
+       "topics": [
+        "education"
+       ],
+       "url": "https://lasvegassun.com/news/2026/sep/03/lombardo-unveils-second-term-agenda-targeting-hous/",
+       "date": "2026-09-03"
+      },
+      {
+       "text": "Continue a \"no new taxes\" pledge and push for an annual back-to-school sales tax holiday",
+       "topic": "taxes",
+       "topics": [
+        "taxes"
+       ],
+       "url": "https://lasvegassun.com/news/2026/sep/03/lombardo-unveils-second-term-agenda-targeting-hous/",
+       "date": "2026-09-03"
+      },
+      {
+       "text": "Ensure no power loss or rate hikes from data centers and direct data-center revenue to K-12 education",
+       "topic": "energy / education",
+       "topics": [
+        "energy",
+        "education"
+       ],
+       "url": "https://lasvegassun.com/news/2026/sep/03/lombardo-unveils-second-term-agenda-targeting-hous/",
+       "date": "2026-09-03"
+      },
+      {
+       "text": "Lower trafficking thresholds for fentanyl and other hard drugs and impose stricter sentences for violent and repeat offenders",
+       "topic": "public safety",
+       "topics": [
+        "public safety"
+       ],
+       "url": "https://lasvegassun.com/news/2026/sep/03/lombardo-unveils-second-term-agenda-targeting-hous/",
+       "date": "2026-09-03"
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Aaron Ford",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "Pause tax abatements for data centers and require them to pay their fair share for energy and conserve water",
+       "topic": "energy",
+       "topics": [
+        "energy"
+       ],
+       "url": "https://lasvegassun.com/news/2026/sep/03/lombardo-unveils-second-term-agenda-targeting-hous/",
+       "date": "2026-09-03"
+      },
+      {
+       "text": "Expand Nevada Promise and Silver State Opportunity grants to cover four-year universities",
+       "topic": "higher education",
+       "topics": [
+        "higher education"
+       ],
+       "url": "https://lasvegassun.com/news/2026/sep/03/lombardo-unveils-second-term-agenda-targeting-hous/",
+       "date": "2026-09-03"
+      },
+      {
+       "text": "Cap rental security deposits at one month's rent and crack down on Wall Street firms buying up homes",
+       "topic": "housing",
+       "topics": [
+        "housing"
+       ],
+       "url": "https://lasvegassun.com/news/2026/sep/03/lombardo-unveils-second-term-agenda-targeting-hous/",
+       "date": "2026-09-03"
+      },
+      {
+       "text": "Rein in pharmacy benefit managers and create a medical debt relief program",
+       "topic": "health care",
+       "topics": [
+        "health care"
+       ],
+       "url": "https://ballotpedia.org/Aaron_Ford_(Nevada)",
+       "date": ""
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ],
+   "area": {
+    "type": "race",
+    "id": "GOV-NV",
+    "state": "NV",
+    "county": "",
+    "who_votes": "All NV voters"
+   }
+  },
+  {
+   "race": "Governor, Ohio",
+   "level": "statewide",
+   "section": "national",
+   "race_id": "GOV-OH",
+   "note": "",
+   "candidates": [
+    {
+     "name": "Vivek Ramaswamy",
+     "party": "Republican",
+     "promises": [
+      {
+       "text": "Slash property taxes immediately and phase out the state income tax, starting with eliminating capital gains taxes",
+       "topic": "taxes",
+       "topics": [
+        "taxes"
+       ],
+       "url": "https://ballotpedia.org/Vivek_Ramaswamy",
+       "date": ""
+      },
+      {
+       "text": "Expand natural gas and new energy technologies and streamline energy project permits to cut electric bills",
+       "topic": "energy",
+       "topics": [
+        "energy"
+       ],
+       "url": "https://ballotpedia.org/Vivek_Ramaswamy",
+       "date": ""
+      },
+      {
+       "text": "Raise academic standards focused on 3rd-grade literacy, 8th-grade numeracy and 12th-grade civics, and pay the best teachers more",
+       "topic": "education",
+       "topics": [
+        "education"
+       ],
+       "url": "https://ballotpedia.org/Vivek_Ramaswamy",
+       "date": ""
+      },
+      {
+       "text": "Expand career-technical education and apprenticeships and promote healthy school meals and daily physical education",
+       "topic": "education",
+       "topics": [
+        "education"
+       ],
+       "url": "https://ballotpedia.org/Vivek_Ramaswamy",
+       "date": ""
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Amy Acton",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "Pass a \"Working Families Tax Cut\" including a state Earned Income Credit and a child tax credit of $1,000 (ages 0-6) and $500 (ages 7-18) for families earning up to $85,000",
+       "topic": "taxes / families",
+       "topics": [
+        "taxes",
+        "families"
+       ],
+       "url": "https://ballotpedia.org/Amy_Acton",
+       "date": ""
+      },
+      {
+       "text": "Issue day-one anti-corruption executive orders, including an Anti-Corruption Task Force reporting within 100 days",
+       "topic": "ethics",
+       "topics": [
+        "ethics"
+       ],
+       "url": "https://ballotpedia.org/Amy_Acton",
+       "date": ""
+      },
+      {
+       "text": "Bar lobbyists, lawyers and consultants tied to regulated organizations in the past three years from serving on the regulatory bodies overseeing them",
+       "topic": "ethics",
+       "topics": [
+        "ethics"
+       ],
+       "url": "https://ballotpedia.org/Amy_Acton",
+       "date": ""
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ],
+   "area": {
+    "type": "race",
+    "id": "GOV-OH",
+    "state": "OH",
+    "county": "",
+    "who_votes": "All OH voters"
+   }
+  },
+  {
+   "race": "Governor, Wisconsin",
+   "level": "statewide",
+   "section": "national",
+   "race_id": "GOV-WI",
+   "note": "",
+   "candidates": [
+    {
+     "name": "Tom Tiffany",
+     "party": "Republican",
+     "promises": [
+      {
+       "text": "Freeze property taxes and repeal Gov. Evers' \"400-year\" school revenue-limit increase",
+       "topic": "taxes",
+       "topics": [
+        "taxes"
+       ],
+       "url": "https://ballotpedia.org/Tom_Tiffany",
+       "date": ""
+      },
+      {
+       "text": "Ban sanctuary cities and end \"revolving door\" policies for repeat offenders",
+       "topic": "public safety / immigration",
+       "topics": [
+        "public safety",
+        "immigration"
+       ],
+       "url": "https://ballotpedia.org/Tom_Tiffany",
+       "date": ""
+      },
+      {
+       "text": "Extend the life of coal and natural gas plants, promote nuclear power and keep data centers, solar and wind farms off farmland",
+       "topic": "energy",
+       "topics": [
+        "energy"
+       ],
+       "url": "https://wisconsinexaminer.com/voter-guides/contests/2026-general-governor/",
+       "date": ""
+      },
+      {
+       "text": "Reduce utilities' guaranteed profit under state law and bar former PSC members from immediately working for utilities they regulated",
+       "topic": "energy / ethics",
+       "topics": [
+        "energy",
+        "ethics"
+       ],
+       "url": "https://wisconsinexaminer.com/voter-guides/contests/2026-general-governor/",
+       "date": ""
+      },
+      {
+       "text": "Require able-bodied adults without children to work to receive welfare benefits",
+       "topic": "welfare",
+       "topics": [
+        "welfare"
+       ],
+       "url": "https://ballotpedia.org/Tom_Tiffany",
+       "date": ""
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "David Crowley",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "Require data centers to use union labor and renewable power, bar nondisclosure agreements with local officials and keep costs off ratepayers",
+       "topic": "energy",
+       "topics": [
+        "energy"
+       ],
+       "url": "https://wisconsinexaminer.com/voter-guides/contests/2026-general-governor/",
+       "date": ""
+      },
+      {
+       "text": "Double funding for the home energy-efficiency assistance program and move Wisconsin to 100% clean energy by 2050",
+       "topic": "energy / climate",
+       "topics": [
+        "energy",
+        "climate"
+       ],
+       "url": "https://wisconsinexaminer.com/voter-guides/contests/2026-general-governor/",
+       "date": ""
+      },
+      {
+       "text": "Provide universal early childhood education and close the special education reimbursement gap",
+       "topic": "education",
+       "topics": [
+        "education"
+       ],
+       "url": "https://ballotpedia.org/David_Crowley_(Wisconsin)",
+       "date": ""
+      },
+      {
+       "text": "Take his Building Bridges storefront and jobs program statewide and close Wisconsin's broadband gap",
+       "topic": "economy / infrastructure",
+       "topics": [
+        "economy",
+        "infrastructure"
+       ],
+       "url": "https://ballotpedia.org/David_Crowley_(Wisconsin)",
+       "date": ""
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ],
+   "area": {
+    "type": "race",
+    "id": "GOV-WI",
+    "state": "WI",
+    "county": "",
+    "who_votes": "All WI voters"
+   }
+  },
+  {
+   "race": "Governor, Alaska",
+   "level": "statewide",
+   "section": "national",
+   "race_id": "GOV-AK",
+   "note": "",
+   "candidates": [
+    {
+     "name": "Dave Bronson",
+     "party": "Republican",
+     "promises": [
+      {
+       "text": "Pay the Permanent Fund Dividend using the statutory formula and oppose any new taxes",
+       "topic": "PFD / taxes",
+       "topics": [
+        "pfd",
+        "taxes"
+       ],
+       "url": "https://alaskabeacon.com/voter-guides/contests/2026-alaska-governor-2/",
+       "date": ""
+      },
+      {
+       "text": "Ban trawling within 3 miles of shore in state waters",
+       "topic": "fisheries",
+       "topics": [
+        "fisheries"
+       ],
+       "url": "https://alaskabeacon.com/voter-guides/contests/2026-alaska-governor-2/",
+       "date": ""
+      },
+      {
+       "text": "Order a day-one top-to-bottom review of every state department and shrink or end programs that cannot show results",
+       "topic": "budget",
+       "topics": [
+        "budget"
+       ],
+       "url": "https://alaskabeacon.com/voter-guides/contests/2026-alaska-governor-2/",
+       "date": ""
+      },
+      {
+       "text": "Support a constitutional amendment letting families use state education funding at private schools",
+       "topic": "education",
+       "topics": [
+        "education"
+       ],
+       "url": "https://alaskabeacon.com/voter-guides/contests/2026-alaska-governor-2/",
+       "date": ""
+      },
+      {
+       "text": "Set deadlines on energy permits and back oil, gas, hydro, nuclear and coal projects; cut red tape so more insurers enter Alaska's market",
+       "topic": "energy / health care",
+       "topics": [
+        "energy",
+        "health care"
+       ],
+       "url": "https://alaskabeacon.com/voter-guides/contests/2026-alaska-governor-2/",
+       "date": ""
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Treg Taylor",
+     "party": "Republican",
+     "promises": [
+      {
+       "text": "Support a sustainable constitutional framework for predictable Permanent Fund dividends; no new taxes",
+       "topic": "PFD / taxes",
+       "topics": [
+        "pfd",
+        "taxes"
+       ],
+       "url": "https://alaskabeacon.com/voter-guides/contests/2026-alaska-governor-2/",
+       "date": ""
+      },
+      {
+       "text": "Pursue an all-of-the-above energy strategy including more Southcentral gas production, the gas pipeline and major hydroelectric projects",
+       "topic": "energy",
+       "topics": [
+        "energy"
+       ],
+       "url": "https://alaskabeacon.com/voter-guides/contests/2026-alaska-governor-2/",
+       "date": ""
+      },
+      {
+       "text": "Use the Rural Healthcare Transformation Program to expand the health workforce and telemedicine",
+       "topic": "health care",
+       "topics": [
+        "health care"
+       ],
+       "url": "https://alaskabeacon.com/voter-guides/contests/2026-alaska-governor-2/",
+       "date": ""
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Jonathan Kreiss-Tomkins",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "Close the S-corporation loophole so privately held oil and gas companies such as Hilcorp pay corporate income tax, and join the Multistate Tax Compact",
+       "topic": "taxes",
+       "topics": [
+        "taxes"
+       ],
+       "url": "https://alaskabeacon.com/voter-guides/contests/2026-alaska-governor-2/",
+       "date": ""
+      },
+      {
+       "text": "Support a constitutional amendment to forward-fund K-12 education and constitutionally protect the Permanent Fund from overspending",
+       "topic": "education / PFD",
+       "topics": [
+        "education",
+        "pfd"
+       ],
+       "url": "https://alaskabeacon.com/voter-guides/contests/2026-alaska-governor-2/",
+       "date": ""
+      },
+      {
+       "text": "Restore a defined-benefit pension system for public employees",
+       "topic": "labor",
+       "topics": [
+        "labor"
+       ],
+       "url": "https://alaskabeacon.com/voter-guides/contests/2026-alaska-governor-2/",
+       "date": ""
+      },
+      {
+       "text": "Nominate North Pacific Fishery Management Council members who will advance Alaska's interests over Seattle-based trawl interests",
+       "topic": "fisheries",
+       "topics": [
+        "fisheries"
+       ],
+       "url": "https://alaskabeacon.com/voter-guides/contests/2026-alaska-governor-2/",
+       "date": ""
+      },
+      {
+       "text": "Offer targeted Cook Inlet royalty reductions to spur gas production and fast-track permitting for renewable power",
+       "topic": "energy",
+       "topics": [
+        "energy"
+       ],
+       "url": "https://alaskabeacon.com/voter-guides/contests/2026-alaska-governor-2/",
+       "date": ""
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ],
+   "area": {
+    "type": "race",
+    "id": "GOV-AK",
+    "state": "AK",
+    "county": "",
+    "who_votes": "All AK voters"
+   }
+  },
+  {
+   "race": "Governor, New Hampshire",
+   "level": "statewide",
+   "section": "national",
+   "race_id": "GOV-NH",
+   "note": "",
+   "candidates": [
+    {
+     "name": "Kelly Ayotte",
+     "party": "Republican",
+     "promises": [
+      {
+       "text": "Strengthen penalties for heroin and fentanyl dealers and end the bail \"revolving door\"",
+       "topic": "public safety",
+       "topics": [
+        "public safety"
+       ],
+       "url": "https://ballotpedia.org/Kelly_Ayotte",
+       "date": ""
+      },
+      {
+       "text": "Require businesses to use E-Verify, block driver's licenses for undocumented immigrants and enforce zero tolerance for sanctuary cities",
+       "topic": "immigration",
+       "topics": [
+        "immigration"
+       ],
+       "url": "https://ballotpedia.org/Kelly_Ayotte",
+       "date": ""
+      },
+      {
+       "text": "Provide additional resources to northern New Hampshire law enforcement for immigration enforcement",
+       "topic": "immigration",
+       "topics": [
+        "immigration"
+       ],
+       "url": "https://ballotpedia.org/Kelly_Ayotte",
+       "date": ""
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Cinde Warmington",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "Repeal the universal private school voucher program",
+       "topic": "education",
+       "topics": [
+        "education"
+       ],
+       "url": "https://ballotpedia.org/Cinde_Warmington",
+       "date": ""
+      },
+      {
+       "text": "Place a temporary day-one moratorium on large-scale data center permits while building a regulatory framework, including a legal definition and local control",
+       "topic": "energy / technology",
+       "topics": [
+        "energy",
+        "technology"
+       ],
+       "url": "https://ballotpedia.org/Cinde_Warmington",
+       "date": ""
+      },
+      {
+       "text": "Require data centers to cover grid-upgrade and energy costs, with utilities certifying grid capacity before any permit, and be built under project labor agreements at prevailing wages",
+       "topic": "energy",
+       "topics": [
+        "energy"
+       ],
+       "url": "https://ballotpedia.org/Cinde_Warmington",
+       "date": ""
+      },
+      {
+       "text": "Temporarily suspend the state gas tax",
+       "topic": "taxes / transportation",
+       "topics": [
+        "taxes",
+        "transportation"
+       ],
+       "url": "https://ballotpedia.org/Cinde_Warmington",
+       "date": ""
+      },
+      {
+       "text": "Keep New Hampshire free of a sales or income tax",
+       "topic": "taxes",
+       "topics": [
+        "taxes"
+       ],
+       "url": "https://ballotpedia.org/Cinde_Warmington",
+       "date": ""
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ],
+   "area": {
+    "type": "race",
+    "id": "GOV-NH",
+    "state": "NH",
+    "county": "",
+    "who_votes": "All NH voters"
+   }
+  },
+  {
+   "race": "Governor, Minnesota",
+   "level": "statewide",
+   "section": "national",
+   "race_id": "GOV-MN",
+   "note": "",
+   "candidates": [
+    {
+     "name": "Lisa Demuth",
+     "party": "Republican",
+     "promises": [
+      {
+       "text": "Cut income taxes by reducing the lowest two brackets and fully end state taxes on Social Security benefits",
+       "topic": "taxes",
+       "topics": [
+        "taxes"
+       ],
+       "url": "https://ballotpedia.org/Lisa_Demuth",
+       "date": ""
+      },
+      {
+       "text": "Roll back car tab fee increases and require state surpluses to be returned to taxpayers",
+       "topic": "taxes",
+       "topics": [
+        "taxes"
+       ],
+       "url": "https://ballotpedia.org/Lisa_Demuth",
+       "date": ""
+      },
+      {
+       "text": "Create a nonpartisan Office of Inspector General to root out fraud in state programs",
+       "topic": "government / fraud",
+       "topics": [
+        "government",
+        "fraud"
+       ],
+       "url": "https://ballotpedia.org/Lisa_Demuth",
+       "date": ""
+      },
+      {
+       "text": "Repeal Minnesota's ban on new nuclear power",
+       "topic": "energy",
+       "topics": [
+        "energy"
+       ],
+       "url": "https://ballotpedia.org/Lisa_Demuth",
+       "date": ""
+      },
+      {
+       "text": "Strengthen sentences for repeat offenders and invest in local public safety resources",
+       "topic": "public safety",
+       "topics": [
+        "public safety"
+       ],
+       "url": "https://ballotpedia.org/Lisa_Demuth",
+       "date": ""
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Amy Klobuchar",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "Work with the private sector to build 100,000 more homes and create a fast-track single application for down-payment assistance",
+       "topic": "housing",
+       "topics": [
+        "housing"
+       ],
+       "url": "https://www.amyklobuchar.com/priorities/get-results-and-make-government-accountable/",
+       "date": ""
+      },
+      {
+       "text": "Create a state \"Do Not Pay\" database blocking anyone convicted of fraud from state grants, contracts and payments, and permanently ban convicted fraudsters",
+       "topic": "government / fraud",
+       "topics": [
+        "government",
+        "fraud"
+       ],
+       "url": "https://www.amyklobuchar.com/priorities/get-results-and-make-government-accountable/",
+       "date": ""
+      },
+      {
+       "text": "Conduct a top-to-bottom audit of state agencies for fraud, waste and abuse and protect whistleblowers",
+       "topic": "government / fraud",
+       "topics": [
+        "government",
+        "fraud"
+       ],
+       "url": "https://www.amyklobuchar.com/priorities/get-results-and-make-government-accountable/",
+       "date": ""
+      },
+      {
+       "text": "Refund license and permit fees when the state misses its decision deadlines and launch a single Business One-Stop portal",
+       "topic": "government / business",
+       "topics": [
+        "government",
+        "business"
+       ],
+       "url": "https://www.amyklobuchar.com/priorities/get-results-and-make-government-accountable/",
+       "date": ""
+      },
+      {
+       "text": "Double apprenticeships and workforce training in the trades, health care, public safety and emerging industries",
+       "topic": "workforce",
+       "topics": [
+        "workforce"
+       ],
+       "url": "https://www.amyklobuchar.com/priorities/",
+       "date": ""
+      },
+      {
+       "text": "Use consolidated state purchasing power to negotiate lower prescription drug prices",
+       "topic": "health care",
+       "topics": [
+        "health care"
+       ],
+       "url": "https://www.amyklobuchar.com/priorities/get-results-and-make-government-accountable/",
+       "date": ""
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ],
+   "area": {
+    "type": "race",
+    "id": "GOV-MN",
+    "state": "MN",
+    "county": "",
+    "who_votes": "All MN voters"
+   }
+  },
+  {
+   "race": "Governor, Maine",
+   "level": "statewide",
+   "section": "national",
+   "race_id": "GOV-ME",
+   "note": "",
+   "candidates": [
+    {
+     "name": "Hannah Pingree",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "Invest $100 million a year to build and preserve affordable housing",
+       "topic": "housing",
+       "topics": [
+        "housing"
+       ],
+       "url": "https://ballotpedia.org/Hannah_Pingree",
+       "date": ""
+      },
+      {
+       "text": "Create a public health insurance option",
+       "topic": "health care",
+       "topics": [
+        "health care"
+       ],
+       "url": "https://ballotpedia.org/Hannah_Pingree",
+       "date": ""
+      },
+      {
+       "text": "Increase funding for the Child Care Affordability Program and end its waitlist",
+       "topic": "child care",
+       "topics": [
+        "child care"
+       ],
+       "url": "https://ballotpedia.org/Hannah_Pingree",
+       "date": ""
+      },
+      {
+       "text": "Keep Maine's universal free school meals program",
+       "topic": "education",
+       "topics": [
+        "education"
+       ],
+       "url": "https://ballotpedia.org/Hannah_Pingree",
+       "date": ""
+      },
+      {
+       "text": "Double the homestead property tax exemption and tax non-resident-owned second homes at a higher rate (via constitutional amendment)",
+       "topic": "taxes",
+       "topics": [
+        "taxes"
+       ],
+       "url": "https://mainemorningstar.com/2026/10/19/all-three-candidates-for-governor-promise-tax-relief-how-feasible-are-their-plans/",
+       "date": "2026-10-19"
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Bobby Charles",
+     "party": "Republican",
+     "promises": [
+      {
+       "text": "Raise the homestead exemption from $25,000 to $50,000 in his first budget and eventually $100,000, with 100% state reimbursement to towns",
+       "topic": "taxes",
+       "topics": [
+        "taxes"
+       ],
+       "url": "https://mainemorningstar.com/2026/10/19/all-three-candidates-for-governor-promise-tax-relief-how-feasible-are-their-plans/",
+       "date": "2026-10-19"
+      },
+      {
+       "text": "Eliminate about 100 mostly vacant state jobs (no layoffs) and audit the state health and education departments",
+       "topic": "budget",
+       "topics": [
+        "budget"
+       ],
+       "url": "https://mainemorningstar.com/2026/10/19/all-three-candidates-for-governor-promise-tax-relief-how-feasible-are-their-plans/",
+       "date": "2026-10-19"
+      },
+      {
+       "text": "Eliminate Maine's personal income tax over four years",
+       "topic": "taxes",
+       "topics": [
+        "taxes"
+       ],
+       "url": "https://www.pressherald.com/2026/07/01/heres-where-maines-candidates-for-governor-stand-on-key-issues/",
+       "date": "2026-07-01"
+      },
+      {
+       "text": "Offer tax incentives for prefabricated and low-cost housing construction",
+       "topic": "housing",
+       "topics": [
+        "housing"
+       ],
+       "url": "https://www.pressherald.com/2026/07/01/heres-where-maines-candidates-for-governor-stand-on-key-issues/",
+       "date": "2026-07-01"
+      },
+      {
+       "text": "Reform the Public Utilities Commission and embrace natural gas, hydro and nuclear energy",
+       "topic": "energy",
+       "topics": [
+        "energy"
+       ],
+       "url": "https://www.pressherald.com/2026/07/01/heres-where-maines-candidates-for-governor-stand-on-key-issues/",
+       "date": "2026-07-01"
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Rick Bennett",
+     "party": "Independent",
+     "promises": [
+      {
+       "text": "Raise the homestead exemption for homeowners 65+ to half the state median home value and apply the property tax fairness credit directly to tax bills",
+       "topic": "taxes",
+       "topics": [
+        "taxes"
+       ],
+       "url": "https://mainemorningstar.com/2026/10/19/all-three-candidates-for-governor-promise-tax-relief-how-feasible-are-their-plans/",
+       "date": "2026-10-19"
+      },
+      {
+       "text": "Create a down-payment program for first-time buyers and a shared-appreciation mortgage assistance program",
+       "topic": "housing",
+       "topics": [
+        "housing"
+       ],
+       "url": "https://www.pressherald.com/2026/07/01/heres-where-maines-candidates-for-governor-stand-on-key-issues/",
+       "date": "2026-07-01"
+      },
+      {
+       "text": "Issue an executive order establishing a state board to plan universal health care under Maine's 2021 law",
+       "topic": "health care",
+       "topics": [
+        "health care"
+       ],
+       "url": "https://www.pressherald.com/2026/07/01/heres-where-maines-candidates-for-governor-stand-on-key-issues/",
+       "date": "2026-07-01"
+      },
+      {
+       "text": "Launch a medical debt relief program modeled on other states",
+       "topic": "health care",
+       "topics": [
+        "health care"
+       ],
+       "url": "https://www.pressherald.com/2026/07/01/heres-where-maines-candidates-for-governor-stand-on-key-issues/",
+       "date": "2026-07-01"
+      },
+      {
+       "text": "Lower authorized returns for investor-owned utilities",
+       "topic": "energy",
+       "topics": [
+        "energy"
+       ],
+       "url": "https://www.pressherald.com/2026/07/01/heres-where-maines-candidates-for-governor-stand-on-key-issues/",
+       "date": "2026-07-01"
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ],
+   "area": {
+    "type": "race",
+    "id": "GOV-ME",
+    "state": "ME",
+    "county": "",
+    "who_votes": "All ME voters"
+   }
+  },
+  {
+   "race": "Governor, Pennsylvania",
+   "level": "statewide",
+   "section": "national",
+   "race_id": "GOV-PA",
+   "note": "",
+   "candidates": [
+    {
+     "name": "Josh Shapiro",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "Legalize and regulate adult-use recreational marijuana, using revenue for schools and law enforcement",
+       "topic": "cannabis",
+       "topics": [
+        "cannabis"
+       ],
+       "url": "https://penncapital-star.com/voter-guides/contests/2026-general-governor/",
+       "date": ""
+      },
+      {
+       "text": "Raise Pennsylvania's minimum wage",
+       "topic": "labor",
+       "topics": [
+        "labor"
+       ],
+       "url": "https://penncapital-star.com/voter-guides/contests/2026-general-governor/",
+       "date": ""
+      },
+      {
+       "text": "Require data centers seeking state permits to get local approval, pay the full cost of their own power and create at least 250 jobs",
+       "topic": "energy",
+       "topics": [
+        "energy"
+       ],
+       "url": "https://penncapital-star.com/voter-guides/contests/2026-general-governor/",
+       "date": ""
+      },
+      {
+       "text": "Lower utility costs, build more housing and cut more red tape",
+       "topic": "affordability",
+       "topics": [
+        "affordability"
+       ],
+       "url": "https://penncapital-star.com/voter-guides/contests/2026-general-governor/",
+       "date": ""
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Stacy Garrity",
+     "party": "Republican",
+     "promises": [
+      {
+       "text": "Restrict data centers to brownfields and old industrial sites, require them to bring their own water and energy, and deny them special tax breaks",
+       "topic": "energy / land use",
+       "topics": [
+        "energy",
+        "land use"
+       ],
+       "url": "https://penncapital-star.com/voter-guides/contests/2026-general-governor/",
+       "date": ""
+      },
+      {
+       "text": "Unleash Pennsylvania's natural gas industry to create more than 200,000 jobs, while lowering the tax and regulatory burden",
+       "topic": "energy / economy",
+       "topics": [
+        "energy",
+        "economy"
+       ],
+       "url": "https://penncapital-star.com/voter-guides/contests/2026-general-governor/",
+       "date": ""
+      },
+      {
+       "text": "Lower insurance premiums through five reforms, including cutting mandates, ending \"jury shopping\" and strengthening insurance-fraud penalties",
+       "topic": "health care",
+       "topics": [
+        "health care"
+       ],
+       "url": "https://penncapital-star.com/voter-guides/contests/2026-general-governor/",
+       "date": ""
+      },
+      {
+       "text": "Break the pharmacy benefit manager monopoly and create a state prescription drug pricing website for Medicaid and PACE",
+       "topic": "health care",
+       "topics": [
+        "health care"
+       ],
+       "url": "https://penncapital-star.com/voter-guides/contests/2026-general-governor/",
+       "date": ""
+      },
+      {
+       "text": "Offer student loan assistance to recruit and retain health professionals in underserved rural areas",
+       "topic": "health care",
+       "topics": [
+        "health care"
+       ],
+       "url": "https://penncapital-star.com/voter-guides/contests/2026-general-governor/",
+       "date": ""
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ],
+   "area": {
+    "type": "race",
+    "id": "GOV-PA",
+    "state": "PA",
+    "county": "",
+    "who_votes": "All PA voters"
+   }
+  },
+  {
+   "race": "Governor, New Mexico",
+   "level": "statewide",
+   "section": "national",
+   "race_id": "GOV-NM",
+   "note": "",
+   "candidates": [
+    {
+     "name": "Deb Haaland",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "Continue and expand capacity of New Mexico's universal child care program",
+       "topic": "child care",
+       "topics": [
+        "child care"
+       ],
+       "url": "https://sourcenm.com/voter-guides/contests/governor/",
+       "date": ""
+      },
+      {
+       "text": "Overhaul CYFD by hiring a qualified secretary and creating a commission to set policy",
+       "topic": "child welfare",
+       "topics": [
+        "child welfare"
+       ],
+       "url": "https://sourcenm.com/voter-guides/contests/governor/",
+       "date": ""
+      },
+      {
+       "text": "Create a public health insurance option so no New Mexican is uninsured",
+       "topic": "health care",
+       "topics": [
+        "health care"
+       ],
+       "url": "https://sourcenm.com/voter-guides/contests/governor/",
+       "date": ""
+      },
+      {
+       "text": "Put reading coaches in schools and launch an \"Every Child Outdoor Initiative\"",
+       "topic": "education",
+       "topics": [
+        "education"
+       ],
+       "url": "https://sourcenm.com/voter-guides/contests/governor/",
+       "date": ""
+      },
+      {
+       "text": "Pursue child tax credits and working-family tax credits",
+       "topic": "taxes",
+       "topics": [
+        "taxes"
+       ],
+       "url": "https://sourcenm.com/voter-guides/contests/governor/",
+       "date": ""
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Gregg Hull",
+     "party": "Republican",
+     "promises": [
+      {
+       "text": "Begin phasing out the personal income tax with a zero-tax band on the first $25,000 (individuals) / $50,000 (couples) of taxable income, subject to fiscal tests",
+       "topic": "taxes",
+       "topics": [
+        "taxes"
+       ],
+       "url": "https://ballotpedia.org/Gregg_Hull",
+       "date": ""
+      },
+      {
+       "text": "Reform CYFD with caseload limits, licensed professionals leading investigations and subpoena power for the Office of the Child Advocate",
+       "topic": "child welfare",
+       "topics": [
+        "child welfare"
+       ],
+       "url": "https://ballotpedia.org/Gregg_Hull",
+       "date": ""
+      },
+      {
+       "text": "End the practice of children sleeping in state office buildings and meet Kevin S. settlement targets",
+       "topic": "child welfare",
+       "topics": [
+        "child welfare"
+       ],
+       "url": "https://ballotpedia.org/Gregg_Hull",
+       "date": ""
+      },
+      {
+       "text": "Add income-based co-pays for higher earners in the universal child care program to help more daycares qualify",
+       "topic": "child care",
+       "topics": [
+        "child care"
+       ],
+       "url": "https://sourcenm.com/voter-guides/contests/governor/",
+       "date": ""
+      },
+      {
+       "text": "Expand career and technical education and focus on K-3 literacy",
+       "topic": "education",
+       "topics": [
+        "education"
+       ],
+       "url": "https://ballotpedia.org/Gregg_Hull",
+       "date": ""
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ],
+   "area": {
+    "type": "race",
+    "id": "GOV-NM",
+    "state": "NM",
+    "county": "",
+    "who_votes": "All NM voters"
+   }
+  },
+  {
+   "race": "Governor, New York",
+   "level": "statewide",
+   "section": "national",
+   "race_id": "GOV-NY",
+   "note": "",
+   "candidates": [
+    {
+     "name": "Bruce Blakeman",
+     "party": "Republican",
+     "promises": [
+      {
+       "text": "Eliminate state income taxes for individuals earning under $50,000 and married couples under $100,000",
+       "topic": "taxes",
+       "topics": [
+        "taxes"
+       ],
+       "url": "https://nysfocus.com/2026/10/14/new-york-governors-race-hochul-blakeman",
+       "date": "2026-10-14"
+      },
+      {
+       "text": "Enact an across-the-board 10% income tax cut for incomes below $250,000",
+       "topic": "taxes",
+       "topics": [
+        "taxes"
+       ],
+       "url": "https://nysfocus.com/2026/10/14/new-york-governors-race-hochul-blakeman",
+       "date": "2026-10-14"
+      },
+      {
+       "text": "Cut electric bills in half by rolling back clean-energy surcharges and ending restrictions on natural gas production",
+       "topic": "energy",
+       "topics": [
+        "energy"
+       ],
+       "url": "https://abc7ny.com/post/ny-governors-race-hochul-blakeman-duel-affordability/19961815/",
+       "date": "2026-10-21"
+      },
+      {
+       "text": "Lift the state moratorium on data centers and allow large-scale natural gas fracking",
+       "topic": "energy",
+       "topics": [
+        "energy"
+       ],
+       "url": "https://gothamist.com/news/ny-gov-kathy-hochul-bruce-blakeman-spar-over-immigration-cost-of-living-in-debate",
+       "date": "2026-10-13"
+      },
+      {
+       "text": "Support working parents' child care through tax credits rather than universal child care",
+       "topic": "child care",
+       "topics": [
+        "child care"
+       ],
+       "url": "https://abc7ny.com/post/2026-ny-governor-race-hochul-blakeman-clash-crime-child-care/19956451/",
+       "date": "2026-10-19"
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Kathy Hochul",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "Keep funding New York City's free 2-K expansion beyond current commitments until child care is universal",
+       "topic": "child care",
+       "topics": [
+        "child care"
+       ],
+       "url": "https://www.amny.com/politics/free-2-k-coming-to-all-of-staten-island-bronx-mamdani-expansion/",
+       "date": "2026-10-19"
+      },
+      {
+       "text": "Expand free child care for young children statewide, beyond New York City",
+       "topic": "child care",
+       "topics": [
+        "child care"
+       ],
+       "url": "https://abc7ny.com/post/2026-ny-governor-race-hochul-blakeman-clash-crime-child-care/19956451/",
+       "date": "2026-10-19"
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ],
+   "area": {
+    "type": "race",
+    "id": "GOV-NY",
+    "state": "NY",
+    "county": "",
+    "who_votes": "All NY voters"
+   }
+  },
+  {
+   "race": "Governor, Colorado",
+   "level": "statewide",
+   "section": "national",
+   "race_id": "GOV-CO",
+   "note": "",
+   "candidates": [
+    {
+     "name": "Phil Weiser",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "Build 40,000 new attainable homes statewide, streamline permitting and ban rent-setting algorithms",
+       "topic": "housing",
+       "topics": [
+        "housing"
+       ],
+       "url": "https://coloradonewsline.com/voter-guides/contests/2026-general-colorado-governor/",
+       "date": ""
+      },
+      {
+       "text": "Launch a \"primary care for all\" system providing universal access to routine and preventive care",
+       "topic": "health care",
+       "topics": [
+        "health care"
+       ],
+       "url": "https://coloradonewsline.com/voter-guides/contests/2026-general-colorado-governor/",
+       "date": ""
+      },
+      {
+       "text": "Continue efforts to reach net-zero carbon emissions by 2050",
+       "topic": "climate",
+       "topics": [
+        "climate"
+       ],
+       "url": "https://coloradonewsline.com/voter-guides/contests/2026-general-colorado-governor/",
+       "date": ""
+      },
+      {
+       "text": "Launch a grassroots effort to reform TABOR's constitutional revenue limits",
+       "topic": "budget / taxes",
+       "topics": [
+        "budget",
+        "taxes"
+       ],
+       "url": "https://coloradonewsline.com/voter-guides/contests/2026-general-colorado-governor/",
+       "date": ""
+      },
+      {
+       "text": "Let communities reject data centers and require data centers to pay for their power and report water and electricity use",
+       "topic": "energy",
+       "topics": [
+        "energy"
+       ],
+       "url": "https://coloradonewsline.com/voter-guides/contests/2026-general-colorado-governor/",
+       "date": ""
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Victor Marx",
+     "party": "Republican",
+     "promises": [
+      {
+       "text": "Pursue a phased reduction of the state income tax rate and end fees and enterprises he calls TABOR loopholes",
+       "topic": "taxes",
+       "topics": [
+        "taxes"
+       ],
+       "url": "https://coloradonewsline.com/voter-guides/contests/2026-general-colorado-governor/",
+       "date": ""
+      },
+      {
+       "text": "Require additional audits and performance reports for state agencies",
+       "topic": "budget",
+       "topics": [
+        "budget"
+       ],
+       "url": "https://coloradonewsline.com/voter-guides/contests/2026-general-colorado-governor/",
+       "date": ""
+      },
+      {
+       "text": "Seek to repeal Colorado's constitutional right to abortion",
+       "topic": "abortion",
+       "topics": [
+        "abortion"
+       ],
+       "url": "https://coloradonewsline.com/voter-guides/contests/2026-general-colorado-governor/",
+       "date": ""
+      },
+      {
+       "text": "Pardon former Mesa County clerk Tina Peters",
+       "topic": "justice",
+       "topics": [
+        "justice"
+       ],
+       "url": "https://coloradonewsline.com/voter-guides/contests/2026-general-colorado-governor/",
+       "date": ""
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Greg Lopez",
+     "party": "Independent",
+     "promises": [
+      {
+       "text": "Build 25,000 starter homes in his first four years, prioritizing modest two-bedroom units, and lower water and sewer tap fees",
+       "topic": "housing",
+       "topics": [
+        "housing"
+       ],
+       "url": "https://coloradonewsline.com/voter-guides/contests/2026-general-colorado-governor/",
+       "date": ""
+      },
+      {
+       "text": "Create a Colorado Department of Government Efficiency to review every agency and program",
+       "topic": "budget",
+       "topics": [
+        "budget"
+       ],
+       "url": "https://coloradonewsline.com/voter-guides/contests/2026-general-colorado-governor/",
+       "date": ""
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ],
+   "area": {
+    "type": "race",
+    "id": "GOV-CO",
+    "state": "CO",
+    "county": "",
+    "who_votes": "All CO voters"
+   }
+  },
+  {
+   "race": "U.S. Senate, Colorado",
+   "level": "federal",
+   "section": "national",
+   "race_id": "US-SEN-CO",
+   "note": "",
+   "candidates": [
+    {
+     "name": "John Hickenlooper",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "Completely overhaul or shut down Immigration and Customs Enforcement and oppose mass deportations",
+       "topic": "immigration",
+       "topics": [
+        "immigration"
+       ],
+       "url": "https://coloradonewsline.com/voter-guides/contests/2026-general-u-s-senate/",
+       "date": ""
+      },
+      {
+       "text": "Pass comprehensive immigration reform with modernized border security and expanded pathways to citizenship",
+       "topic": "immigration",
+       "topics": [
+        "immigration"
+       ],
+       "url": "https://coloradonewsline.com/voter-guides/contests/2026-general-u-s-senate/",
+       "date": ""
+      },
+      {
+       "text": "End the war with Iran and Trump's tariffs that raise gas and grocery prices",
+       "topic": "foreign policy / trade",
+       "topics": [
+        "foreign policy",
+        "trade"
+       ],
+       "url": "https://coloradonewsline.com/voter-guides/contests/2026-general-u-s-senate/",
+       "date": ""
+      },
+      {
+       "text": "Fix the health care system and reduce the cost of housing",
+       "topic": "health care / housing",
+       "topics": [
+        "health care",
+        "housing"
+       ],
+       "url": "https://coloradonewsline.com/voter-guides/contests/2026-general-u-s-senate/",
+       "date": ""
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Mark Baisley",
+     "party": "Republican",
+     "promises": [
+      {
+       "text": "Cut federal taxes and roll back regulations to restore American energy dominance",
+       "topic": "taxes / energy",
+       "topics": [
+        "taxes",
+        "energy"
+       ],
+       "url": "https://coloradonewsline.com/voter-guides/contests/2026-general-u-s-senate/",
+       "date": ""
+      },
+      {
+       "text": "Require U.S. universities to help pay down student debt from their endowments",
+       "topic": "higher education",
+       "topics": [
+        "higher education"
+       ],
+       "url": "https://coloradonewsline.com/voter-guides/contests/2026-general-u-s-senate/",
+       "date": ""
+      },
+      {
+       "text": "Partner with the Trump administration's agenda in the Senate",
+       "topic": "governance",
+       "topics": [
+        "governance"
+       ],
+       "url": "https://coloradonewsline.com/voter-guides/contests/2026-general-u-s-senate/",
+       "date": ""
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ],
+   "area": {
+    "type": "race",
+    "id": "US-SEN-CO",
+    "state": "CO",
+    "county": "",
+    "who_votes": "All CO voters"
+   }
+  },
+  {
+   "race": "Governor, Oregon",
+   "level": "statewide",
+   "section": "national",
+   "race_id": "GOV-OR",
+   "note": "",
+   "candidates": [
+    {
+     "name": "Tina Kotek",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "Achieve universal preschool statewide by the end of a second term",
+       "topic": "early education",
+       "topics": [
+        "early education"
+       ],
+       "url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-general-governor/",
+       "date": ""
+      },
+      {
+       "text": "Support a moratorium on new data center development until utility customers are protected",
+       "topic": "energy",
+       "topics": [
+        "energy"
+       ],
+       "url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-general-governor/",
+       "date": ""
+      },
+      {
+       "text": "Meet the national average for instructional time by the end of a second term and strengthen graduation requirements",
+       "topic": "education",
+       "topics": [
+        "education"
+       ],
+       "url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-general-governor/",
+       "date": ""
+      },
+      {
+       "text": "Create a more strategic Oregon Department of Commerce to support businesses statewide",
+       "topic": "economy",
+       "topics": [
+        "economy"
+       ],
+       "url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-general-governor/",
+       "date": ""
+      },
+      {
+       "text": "Expand development of starter homes and keep cutting red tape to speed housing construction",
+       "topic": "housing",
+       "topics": [
+        "housing"
+       ],
+       "url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-general-governor/",
+       "date": ""
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Christine Drazan",
+     "party": "Republican",
+     "promises": [
+      {
+       "text": "Veto any new or higher taxes and fees passed by the Legislature",
+       "topic": "taxes",
+       "topics": [
+        "taxes"
+       ],
+       "url": "https://www.kgw.com/article/news/politics/elections/christine-drazan-plan-policy-oregon-governor-election-tina-kotek/283-cb8c0361-8e6c-44a9-8683-bb7cb9fa2813",
+       "date": "2026-08-25"
+      },
+      {
+       "text": "Issue an executive order directing state agencies to identify rules, fees and mandates that raise the cost of living",
+       "topic": "regulation",
+       "topics": [
+        "regulation"
+       ],
+       "url": "https://www.kgw.com/article/news/politics/elections/christine-drazan-plan-policy-oregon-governor-election-tina-kotek/283-cb8c0361-8e6c-44a9-8683-bb7cb9fa2813",
+       "date": "2026-08-25"
+      },
+      {
+       "text": "Repeal the state's Climate Protection Program",
+       "topic": "energy / climate",
+       "topics": [
+        "energy",
+        "climate"
+       ],
+       "url": "https://www.kgw.com/article/news/politics/elections/christine-drazan-plan-policy-oregon-governor-election-tina-kotek/283-cb8c0361-8e6c-44a9-8683-bb7cb9fa2813",
+       "date": "2026-08-25"
+      },
+      {
+       "text": "Give vehicles with Oregon plates free day-use access to state parks and restore the Disabled Veteran Camping Benefit",
+       "topic": "parks / veterans",
+       "topics": [
+        "parks",
+        "veterans"
+       ],
+       "url": "https://www.kgw.com/article/news/politics/elections/christine-drazan-plan-policy-oregon-governor-election-tina-kotek/283-cb8c0361-8e6c-44a9-8683-bb7cb9fa2813",
+       "date": "2026-08-25"
+      },
+      {
+       "text": "Increase the Oregon standard deduction and lower property taxes for veterans, disabled veterans and seniors",
+       "topic": "taxes",
+       "topics": [
+        "taxes"
+       ],
+       "url": "https://www.kgw.com/article/news/politics/elections/christine-drazan-plan-policy-oregon-governor-election-tina-kotek/283-cb8c0361-8e6c-44a9-8683-bb7cb9fa2813",
+       "date": "2026-08-25"
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ],
+   "area": {
+    "type": "race",
+    "id": "GOV-OR",
+    "state": "OR",
+    "county": "",
+    "who_votes": "All OR voters"
+   }
+  },
+  {
+   "race": "U.S. Senate, Oregon",
+   "level": "federal",
+   "section": "national",
+   "race_id": "US-SEN-OR",
+   "note": "",
+   "candidates": [
+    {
+     "name": "Jeff Merkley",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "Strip down and rebuild ICE: end masked agents, racial profiling and warrantless entries, and guarantee detainees access to attorneys and family",
+       "topic": "immigration",
+       "topics": [
+        "immigration"
+       ],
+       "url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-general-u-s-senate/",
+       "date": ""
+      },
+      {
+       "text": "Pass comprehensive immigration reform with timely asylum decisions and a path to citizenship for Dreamers and long-time contributors",
+       "topic": "immigration",
+       "topics": [
+        "immigration"
+       ],
+       "url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-general-u-s-senate/",
+       "date": ""
+      },
+      {
+       "text": "Require hedge funds to sell their single-family home inventories, preferably to first-time buyers",
+       "topic": "housing",
+       "topics": [
+        "housing"
+       ],
+       "url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-general-u-s-senate/",
+       "date": ""
+      },
+      {
+       "text": "Block any sale of federal public lands and increase investment in forest thinning and prescribed burns",
+       "topic": "public lands",
+       "topics": [
+        "public lands"
+       ],
+       "url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-general-u-s-senate/",
+       "date": ""
+      },
+      {
+       "text": "End the Iran war and Trump's tariffs to lower fuel, fertilizer and consumer costs",
+       "topic": "foreign policy / trade",
+       "topics": [
+        "foreign policy",
+        "trade"
+       ],
+       "url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-general-u-s-senate/",
+       "date": ""
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "David Brock Smith",
+     "party": "Republican",
+     "promises": [
+      {
+       "text": "Champion active forest management, including thinning, fuel reduction and sustainable timber harvests to cut wildfire risk",
+       "topic": "forests / wildfire",
+       "topics": [
+        "forests",
+        "wildfire"
+       ],
+       "url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-general-u-s-senate/",
+       "date": ""
+      },
+      {
+       "text": "Establish a national carbon market that rewards states for carbon sequestration on forests, farms and other working lands",
+       "topic": "climate",
+       "topics": [
+        "climate"
+       ],
+       "url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-general-u-s-senate/",
+       "date": ""
+      },
+      {
+       "text": "Expand addiction treatment and recovery services while strengthening enforcement against drug traffickers",
+       "topic": "addiction / public safety",
+       "topics": [
+        "addiction",
+        "public safety"
+       ],
+       "url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-general-u-s-senate/",
+       "date": ""
+      },
+      {
+       "text": "Require greater price transparency from insurance companies and limit anti-competitive practices",
+       "topic": "health care",
+       "topics": [
+        "health care"
+       ],
+       "url": "https://oregoncapitalchronicle.com/voter-guides/contests/2026-general-u-s-senate/",
+       "date": ""
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ],
+   "area": {
+    "type": "race",
+    "id": "US-SEN-OR",
+    "state": "OR",
+    "county": "",
+    "who_votes": "All OR voters"
+   }
+  },
+  {
+   "race": "U.S. Senate, New Mexico",
+   "level": "federal",
+   "section": "national",
+   "race_id": "US-SEN-NM",
+   "note": "",
+   "candidates": [
+    {
+     "name": "Ben Ray Luján",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "Prioritize legislation to support middle-class families paying for home health care for relatives",
+       "topic": "health care / caregiving",
+       "topics": [
+        "health care",
+        "caregiving"
+       ],
+       "url": "https://sourcenm.com/voter-guides/contests/u-s-senate/",
+       "date": ""
+      },
+      {
+       "text": "Pass a bipartisan farm bill with more support for food programs, farmers and ranchers",
+       "topic": "agriculture",
+       "topics": [
+        "agriculture"
+       ],
+       "url": "https://sourcenm.com/voter-guides/contests/u-s-senate/",
+       "date": ""
+      },
+      {
+       "text": "Push for 100% inbound and outbound screening at the southern border",
+       "topic": "border security",
+       "topics": [
+        "border security"
+       ],
+       "url": "https://sourcenm.com/voter-guides/contests/u-s-senate/",
+       "date": ""
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Larry Marker",
+     "party": "Republican",
+     "promises": [
+      {
+       "text": "Prioritize a plan to stabilize Social Security",
+       "topic": "Social Security",
+       "topics": [
+        "social security"
+       ],
+       "url": "https://sourcenm.com/voter-guides/contests/u-s-senate/",
+       "date": ""
+      },
+      {
+       "text": "Support a strongly secure border alongside a simpler, inexpensive legal immigration path",
+       "topic": "immigration",
+       "topics": [
+        "immigration"
+       ],
+       "url": "https://sourcenm.com/voter-guides/contests/u-s-senate/",
+       "date": ""
+      },
+      {
+       "text": "Keep data centers away from towns and off shallow or vulnerable water tables",
+       "topic": "energy / water",
+       "topics": [
+        "energy",
+        "water"
+       ],
+       "url": "https://sourcenm.com/voter-guides/contests/u-s-senate/",
+       "date": ""
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ],
+   "area": {
+    "type": "race",
+    "id": "US-SEN-NM",
+    "state": "NM",
+    "county": "",
+    "who_votes": "All NM voters"
+   }
+  },
+  {
+   "race": "Governor, Rhode Island",
+   "level": "statewide",
+   "section": "national",
+   "race_id": "GOV-RI",
+   "note": "",
+   "candidates": [
+    {
+     "name": "Helena Foulkes",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "Create 20,000 affordable homes and apartments through a \"Rhode Home\" program funded by a millionaire's tax",
+       "topic": "housing",
+       "topics": [
+        "housing"
+       ],
+       "url": "https://rhodeislandcurrent.com/voter-guides/contests/2026-general-governor/",
+       "date": ""
+      },
+      {
+       "text": "Raise Medicaid reimbursement rates and stop leaving federal health money on the table",
+       "topic": "health care",
+       "topics": [
+        "health care"
+       ],
+       "url": "https://rhodeislandcurrent.com/voter-guides/contests/2026-general-governor/",
+       "date": ""
+      },
+      {
+       "text": "Invest $100 million in classroom-to-career programs",
+       "topic": "workforce / education",
+       "topics": [
+        "workforce",
+        "education"
+       ],
+       "url": "https://rhodeislandcurrent.com/voter-guides/contests/2026-general-governor/",
+       "date": ""
+      },
+      {
+       "text": "Lower energy costs while expanding renewable energy and keeping state climate goals",
+       "topic": "energy / climate",
+       "topics": [
+        "energy",
+        "climate"
+       ],
+       "url": "https://rhodeislandcurrent.com/voter-guides/contests/2026-general-governor/",
+       "date": ""
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Aaron Guckian",
+     "party": "Republican",
+     "promises": [
+      {
+       "text": "Reduce unnecessary taxes and fees to make Rhode Island more affordable",
+       "topic": "taxes",
+       "topics": [
+        "taxes"
+       ],
+       "url": "https://rhodeislandcurrent.com/voter-guides/contests/2026-general-governor/",
+       "date": ""
+      },
+      {
+       "text": "Launch a \"Rhode Island Works Smarter\" initiative to eliminate waste and modernize state government",
+       "topic": "government efficiency",
+       "topics": [
+        "government efficiency"
+       ],
+       "url": "https://rhodeislandcurrent.com/voter-guides/contests/2026-general-governor/",
+       "date": ""
+      },
+      {
+       "text": "Streamline housing permitting and create a Turnkey Housing Initiative for veterans",
+       "topic": "housing",
+       "topics": [
+        "housing"
+       ],
+       "url": "https://rhodeislandcurrent.com/voter-guides/contests/2026-general-governor/",
+       "date": ""
+      },
+      {
+       "text": "Review climate mandates and fees that raise utility costs and encourage offshore, geothermal and advanced wind technology",
+       "topic": "energy",
+       "topics": [
+        "energy"
+       ],
+       "url": "https://rhodeislandcurrent.com/voter-guides/contests/2026-general-governor/",
+       "date": ""
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Ken Block",
+     "party": "Independent",
+     "promises": [
+      {
+       "text": "Install new leadership at the Department of Transportation and bring transparency to the Washington Bridge failure",
+       "topic": "transportation",
+       "topics": [
+        "transportation"
+       ],
+       "url": "https://rhodeislandcurrent.com/voter-guides/contests/2026-general-governor/",
+       "date": ""
+      },
+      {
+       "text": "Delay the state's 2030 green-energy transition goal and cut the state's 4% gross receipts tax on energy bills",
+       "topic": "energy / taxes",
+       "topics": [
+        "energy",
+        "taxes"
+       ],
+       "url": "https://rhodeislandcurrent.com/voter-guides/contests/2026-general-governor/",
+       "date": ""
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ],
+   "area": {
+    "type": "race",
+    "id": "GOV-RI",
+    "state": "RI",
+    "county": "",
+    "who_votes": "All RI voters"
+   }
+  },
+  {
+   "race": "U.S. Senate, Idaho",
+   "level": "federal",
+   "section": "national",
+   "race_id": "US-SEN-ID",
+   "note": "",
+   "candidates": [
+    {
+     "name": "Jim Risch",
+     "party": "Republican",
+     "promises": [
+      {
+       "text": "Oppose any sale of Idaho's federal public lands",
+       "topic": "public lands",
+       "topics": [
+        "public lands"
+       ],
+       "url": "https://idahocapitalsun.com/voter-guides/contests/2026-general-u-s-senate/",
+       "date": ""
+      },
+      {
+       "text": "Not support any legislation cutting Social Security benefits for current and near retirees, and oppose raising payroll taxes",
+       "topic": "Social Security",
+       "topics": [
+        "social security"
+       ],
+       "url": "https://idahocapitalsun.com/voter-guides/contests/2026-general-u-s-senate/",
+       "date": ""
+      },
+      {
+       "text": "Support the SAVE Act requiring proof of citizenship to register to vote",
+       "topic": "elections",
+       "topics": [
+        "elections"
+       ],
+       "url": "https://idahocapitalsun.com/voter-guides/contests/2026-general-u-s-senate/",
+       "date": ""
+      },
+      {
+       "text": "Expand health savings accounts, direct primary care and enforce price transparency requirements",
+       "topic": "health care",
+       "topics": [
+        "health care"
+       ],
+       "url": "https://idahocapitalsun.com/voter-guides/contests/2026-general-u-s-senate/",
+       "date": ""
+      },
+      {
+       "text": "Lead legislation expanding nuclear energy development",
+       "topic": "energy",
+       "topics": [
+        "energy"
+       ],
+       "url": "https://idahocapitalsun.com/voter-guides/contests/2026-general-u-s-senate/",
+       "date": ""
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Todd Achilles",
+     "party": "Independent",
+     "promises": [
+      {
+       "text": "Oppose any sale of Idaho's public lands, restore staffing at land agencies and protect Idaho's Roadless Rule",
+       "topic": "public lands",
+       "topics": [
+        "public lands"
+       ],
+       "url": "https://idahocapitalsun.com/voter-guides/contests/2026-general-u-s-senate/",
+       "date": ""
+      },
+      {
+       "text": "Eliminate the Social Security payroll-tax cap with no benefit cuts or retirement-age increase, and strengthen minimum and survivor benefits",
+       "topic": "Social Security",
+       "topics": [
+        "social security"
+       ],
+       "url": "https://idahocapitalsun.com/voter-guides/contests/2026-general-u-s-senate/",
+       "date": ""
+      },
+      {
+       "text": "Require upfront health care pricing, enforce antitrust laws against consolidation, and support a public option",
+       "topic": "health care",
+       "topics": [
+        "health care"
+       ],
+       "url": "https://idahocapitalsun.com/voter-guides/contests/2026-general-u-s-senate/",
+       "date": ""
+      },
+      {
+       "text": "Require ICE agents to wear body cameras and clear credentials rather than masks",
+       "topic": "immigration",
+       "topics": [
+        "immigration"
+       ],
+       "url": "https://idahocapitalsun.com/voter-guides/contests/2026-general-u-s-senate/",
+       "date": ""
+      },
+      {
+       "text": "Support a Nuclear Lifecycle Innovation Campus only if it protects Idaho's water and environment",
+       "topic": "energy / nuclear waste",
+       "topics": [
+        "energy",
+        "nuclear waste"
+       ],
+       "url": "https://idahocapitalsun.com/voter-guides/contests/2026-general-u-s-senate/",
+       "date": ""
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ],
+   "area": {
+    "type": "race",
+    "id": "US-SEN-ID",
+    "state": "ID",
+    "county": "",
+    "who_votes": "All ID voters"
+   }
+  },
+  {
+   "race": "U.S. Senate, Rhode Island",
+   "level": "federal",
+   "section": "national",
+   "race_id": "US-SEN-RI",
+   "note": "",
+   "candidates": [
+    {
+     "name": "Jack Reed",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "Reinstate the enhanced Affordable Care Act tax credits and reverse Medicaid and SNAP cuts in the One Big Beautiful Bill Act",
+       "topic": "health care",
+       "topics": [
+        "health care"
+       ],
+       "url": "https://rhodeislandcurrent.com/voter-guides/contests/2026-general-u-s-senate/",
+       "date": ""
+      },
+      {
+       "text": "Expand affordable housing through the Housing Trust Fund, HOME and the Capital Magnet Fund",
+       "topic": "housing",
+       "topics": [
+        "housing"
+       ],
+       "url": "https://rhodeislandcurrent.com/voter-guides/contests/2026-general-u-s-senate/",
+       "date": ""
+      },
+      {
+       "text": "End the unauthorized war in Iran and Trump's tariffs",
+       "topic": "foreign policy / trade",
+       "topics": [
+        "foreign policy",
+        "trade"
+       ],
+       "url": "https://rhodeislandcurrent.com/voter-guides/contests/2026-general-u-s-senate/",
+       "date": ""
+      },
+      {
+       "text": "Increase the number of primary care professionals in Rhode Island",
+       "topic": "health care",
+       "topics": [
+        "health care"
+       ],
+       "url": "https://rhodeislandcurrent.com/voter-guides/contests/2026-general-u-s-senate/",
+       "date": ""
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Raymond McKay",
+     "party": "Republican",
+     "promises": [
+      {
+       "text": "Curb runaway federal spending to ease inflation",
+       "topic": "budget",
+       "topics": [
+        "budget"
+       ],
+       "url": "https://ballotpedia.org/Raymond_McKay",
+       "date": ""
+      },
+      {
+       "text": "Strengthen Social Security and Medicare",
+       "topic": "Social Security / Medicare",
+       "topics": [
+        "social security",
+        "medicare"
+       ],
+       "url": "https://ballotpedia.org/Raymond_McKay",
+       "date": ""
+      },
+      {
+       "text": "Secure the border and support energy independence without government subsidies",
+       "topic": "immigration / energy",
+       "topics": [
+        "immigration",
+        "energy"
+       ],
+       "url": "https://ballotpedia.org/Raymond_McKay",
+       "date": ""
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ],
+   "area": {
+    "type": "race",
+    "id": "US-SEN-RI",
+    "state": "RI",
+    "county": "",
+    "who_votes": "All RI voters"
+   }
+  },
+  {
+   "race": "Governor, Nebraska",
+   "level": "statewide",
+   "section": "national",
+   "race_id": "GOV-NE",
+   "note": "",
+   "candidates": [
+    {
+     "name": "Jim Pillen",
+     "party": "Republican",
+     "promises": [
+      {
+       "text": "Impose hard caps on local government spending and limit runaway property valuation growth to cut property taxes",
+       "topic": "taxes",
+       "topics": [
+        "taxes"
+       ],
+       "url": "https://nebraskaexaminer.com/voter-guides/contests/2026-general-nebraska-governor/",
+       "date": ""
+      },
+      {
+       "text": "Eliminate tax incentives for Big Tech data centers and other tax carveouts",
+       "topic": "taxes / energy",
+       "topics": [
+        "taxes",
+        "energy"
+       ],
+       "url": "https://nebraskaexaminer.com/voter-guides/contests/2026-general-nebraska-governor/",
+       "date": ""
+      },
+      {
+       "text": "Stop hedge funds from buying up Nebraska homes",
+       "topic": "housing",
+       "topics": [
+        "housing"
+       ],
+       "url": "https://nebraskaexaminer.com/voter-guides/contests/2026-general-nebraska-governor/",
+       "date": ""
+      },
+      {
+       "text": "Eliminate state taxpayer benefits for people in the country illegally",
+       "topic": "immigration",
+       "topics": [
+        "immigration"
+       ],
+       "url": "https://nebraskaexaminer.com/voter-guides/contests/2026-general-nebraska-governor/",
+       "date": ""
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Lynne Walz",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "Expand the homestead exemption and target property tax relief to Nebraska residents rather than out-of-state corporations",
+       "topic": "taxes",
+       "topics": [
+        "taxes"
+       ],
+       "url": "https://nebraskaexaminer.com/voter-guides/contests/2026-general-nebraska-governor/",
+       "date": ""
+      },
+      {
+       "text": "End no-bid state contracts and hire an independent auditor to cut waste, fraud and abuse",
+       "topic": "budget / ethics",
+       "topics": [
+        "budget",
+        "ethics"
+       ],
+       "url": "https://nebraskaexaminer.com/voter-guides/contests/2026-general-nebraska-governor/",
+       "date": ""
+      },
+      {
+       "text": "Cut property taxes without raising sales taxes on working families",
+       "topic": "taxes",
+       "topics": [
+        "taxes"
+       ],
+       "url": "https://nebraskaexaminer.com/voter-guides/contests/2026-general-nebraska-governor/",
+       "date": ""
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ],
+   "area": {
+    "type": "race",
+    "id": "GOV-NE",
+    "state": "NE",
+    "county": "",
+    "who_votes": "All NE voters"
+   }
+  },
+  {
+   "race": "Governor, Alabama",
+   "level": "statewide",
+   "section": "national",
+   "race_id": "GOV-AL",
+   "note": "",
+   "candidates": [
+    {
+     "name": "Tommy Tuberville",
+     "party": "Republican",
+     "promises": [
+      {
+       "text": "Eliminate the state grocery tax and work to lower other taxes",
+       "topic": "taxes",
+       "topics": [
+        "taxes"
+       ],
+       "url": "https://alabamareflector.com/voter-guides/contests/algov/",
+       "date": ""
+      },
+      {
+       "text": "Work with President Trump to bring manufacturing jobs to Alabama",
+       "topic": "economy",
+       "topics": [
+        "economy"
+       ],
+       "url": "https://alabamareflector.com/voter-guides/contests/algov/",
+       "date": ""
+      },
+      {
+       "text": "Let communities accept or reject data centers, tax them at the highest property tax class (30% of fair market value) and require them to pay for infrastructure",
+       "topic": "energy / taxes",
+       "topics": [
+        "energy",
+        "taxes"
+       ],
+       "url": "https://alabamareflector.com/voter-guides/contests/algov/",
+       "date": ""
+      },
+      {
+       "text": "Support the CHOOSE Act tax credits for private school and homeschool expenses",
+       "topic": "education",
+       "topics": [
+        "education"
+       ],
+       "url": "https://alabamareflector.com/voter-guides/contests/algov/",
+       "date": ""
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Doug Jones",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "Eliminate the state grocery tax and suspend the 31-cent gas tax when fuel prices spike",
+       "topic": "taxes",
+       "topics": [
+        "taxes"
+       ],
+       "url": "https://alabamareflector.com/voter-guides/contests/algov/",
+       "date": ""
+      },
+      {
+       "text": "Expand Medicaid and use the funds to keep rural hospitals open and fund mental health and addiction services",
+       "topic": "health care",
+       "topics": [
+        "health care"
+       ],
+       "url": "https://alabamareflector.com/voter-guides/contests/algov/",
+       "date": ""
+      },
+      {
+       "text": "Create a state Earned Income Tax Credit and a state minimum wage",
+       "topic": "taxes / labor",
+       "topics": [
+        "taxes",
+        "labor"
+       ],
+       "url": "https://alabamareflector.com/voter-guides/contests/algov/",
+       "date": ""
+      },
+      {
+       "text": "Provide free community college and expand apprenticeships",
+       "topic": "education",
+       "topics": [
+        "education"
+       ],
+       "url": "https://alabamareflector.com/voter-guides/contests/algov/",
+       "date": ""
+      },
+      {
+       "text": "Impose a one-year moratorium on new data center construction and ban nondisclosure agreements with local governments",
+       "topic": "energy",
+       "topics": [
+        "energy"
+       ],
+       "url": "https://alabamareflector.com/voter-guides/contests/algov/",
+       "date": ""
+      },
+      {
+       "text": "Ban individual stock trading by elected officials and create early voting",
+       "topic": "ethics / elections",
+       "topics": [
+        "ethics",
+        "elections"
+       ],
+       "url": "https://alabamareflector.com/voter-guides/contests/algov/",
+       "date": ""
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ],
+   "area": {
+    "type": "race",
+    "id": "GOV-AL",
+    "state": "AL",
+    "county": "",
+    "who_votes": "All AL voters"
+   }
+  },
+  {
+   "race": "Governor, Tennessee",
+   "level": "statewide",
+   "section": "national",
+   "race_id": "GOV-TN",
+   "note": "",
+   "candidates": [
+    {
+     "name": "Marsha Blackburn",
+     "party": "Republican",
+     "promises": [
+      {
+       "text": "Put the state on a \"Government Lessening Plan\" — a Tennessee version of DOGE — cutting millions in wasteful spending",
+       "topic": "budget",
+       "topics": [
+        "budget"
+       ],
+       "url": "https://mainstreetmediatn.com/articles/cheathamcountyexchange/main-street-medias-qa-with-blackburn-green/",
+       "date": "2026-10-16"
+      },
+      {
+       "text": "Expand the Education Freedom Scholarship voucher program until no parent has to win a lottery for a seat",
+       "topic": "education",
+       "topics": [
+        "education"
+       ],
+       "url": "https://mainstreetmediatn.com/articles/cheathamcountyexchange/main-street-medias-qa-with-blackburn-green/",
+       "date": "2026-10-16"
+      },
+      {
+       "text": "Expand workforce housing public-private partnerships for earners at 80–120% of area median income and cut zoning and permitting barriers",
+       "topic": "housing",
+       "topics": [
+        "housing"
+       ],
+       "url": "https://mainstreetmediatn.com/articles/cheathamcountyexchange/main-street-medias-qa-with-blackburn-green/",
+       "date": "2026-10-16"
+      },
+      {
+       "text": "Replicate free-standing rural emergency room models and expand rural emergency and maternity care",
+       "topic": "health care",
+       "topics": [
+        "health care"
+       ],
+       "url": "https://mainstreetmediatn.com/articles/cheathamcountyexchange/main-street-medias-qa-with-blackburn-green/",
+       "date": "2026-10-16"
+      },
+      {
+       "text": "Require license-plate-reader technology be used only to investigate crimes, with felony penalties for misuse",
+       "topic": "privacy / public safety",
+       "topics": [
+        "privacy",
+        "public safety"
+       ],
+       "url": "https://mainstreetmediatn.com/articles/cheathamcountyexchange/main-street-medias-qa-with-blackburn-green/",
+       "date": "2026-10-16"
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Jerri Green",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "Use TANF funds to waive security deposits for 100,000+ families and erase medical debt for 100,000+ Tennesseans",
+       "topic": "housing / health care",
+       "topics": [
+        "housing",
+        "health care"
+       ],
+       "url": "https://mainstreetmediatn.com/articles/cheathamcountyexchange/main-street-medias-qa-with-blackburn-green/",
+       "date": "2026-10-16"
+      },
+      {
+       "text": "Invest $50 million to eliminate the child care waitlist and protect reproductive freedom by executive order",
+       "topic": "child care / abortion",
+       "topics": [
+        "child care",
+        "abortion"
+       ],
+       "url": "https://mainstreetmediatn.com/articles/cheathamcountyexchange/main-street-medias-qa-with-blackburn-green/",
+       "date": "2026-10-16"
+      },
+      {
+       "text": "Defund the school voucher program in her first budget and redirect money to public schools",
+       "topic": "education",
+       "topics": [
+        "education"
+       ],
+       "url": "https://mainstreetmediatn.com/articles/cheathamcountyexchange/main-street-medias-qa-with-blackburn-green/",
+       "date": "2026-10-16"
+      },
+      {
+       "text": "Accept federal Medicaid expansion funds",
+       "topic": "health care",
+       "topics": [
+        "health care"
+       ],
+       "url": "https://mainstreetmediatn.com/articles/cheathamcountyexchange/main-street-medias-qa-with-blackburn-green/",
+       "date": "2026-10-16"
+      },
+      {
+       "text": "End 287(g) immigration enforcement agreements with state law enforcement on day one, and eliminate the grocery tax",
+       "topic": "immigration / taxes",
+       "topics": [
+        "immigration",
+        "taxes"
+       ],
+       "url": "https://mainstreetmediatn.com/articles/cheathamcountyexchange/main-street-medias-qa-with-blackburn-green/",
+       "date": "2026-10-16"
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ],
+   "area": {
+    "type": "race",
+    "id": "GOV-TN",
+    "state": "TN",
+    "county": "",
+    "who_votes": "All TN voters"
+   }
   }
  ],
  "races_without_promises": [
@@ -2497,8 +7050,9 @@
   "repo": "botlotician/botlotician.github.io"
  },
  "stats": {
-  "candidate_promises": 140,
-  "races": 20,
-  "candidates": 44
+  "candidate_promises": 494,
+  "national_promises": 354,
+  "races": 58,
+  "candidates": 125
  }
 }
