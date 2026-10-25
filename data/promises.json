@@ -9309,6 +9309,386 @@
     "county": "",
     "who_votes": "All TN voters"
    }
+  },
+  {
+   "race": "U.S. Senate, Kansas",
+   "level": "federal",
+   "section": "national",
+   "race_id": "US-SEN-KS",
+   "note": "",
+   "candidates": [
+    {
+     "name": "Roger Marshall",
+     "party": "Republican",
+     "promises": [
+      {
+       "text": "Serve in the Senate and rule out accepting any Trump administration appointment for at least the next two to three years",
+       "topic": "ethics / service",
+       "topics": [
+        "ethics",
+        "service"
+       ],
+       "url": "https://kansasreflector.com/2026/06/29/u-s-sen-roger-marshall-of-kansas-promises-to-refuse-trump-administration-appointment/",
+       "date": "2026-06-29"
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Adam Hamilton",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "Not vote for Chuck Schumer as Senate majority leader if Democrats win the Senate",
+       "topic": "Senate leadership",
+       "topics": [
+        "senate leadership"
+       ],
+       "url": "https://www.cbsnews.com/news/kansas-senate-debate-roger-marshall-adam-hamilton-2026/",
+       "date": "2026-10-22"
+      },
+      {
+       "text": "Try to force an end to the war in Iran",
+       "topic": "foreign policy",
+       "topics": [
+        "foreign policy"
+       ],
+       "url": "https://www.cbsnews.com/news/kansas-senate-debate-roger-marshall-adam-hamilton-2026/",
+       "date": "2026-10-22"
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ],
+   "area": {
+    "type": "race",
+    "id": "US-SEN-KS",
+    "state": "KS",
+    "county": "",
+    "who_votes": "All KS voters"
+   }
+  },
+  {
+   "race": "U.S. Senate, West Virginia",
+   "level": "federal",
+   "section": "national",
+   "race_id": "US-SEN-WV",
+   "note": "",
+   "candidates": [
+    {
+     "name": "Shelley Moore Capito",
+     "party": "Republican",
+     "promises": [
+      {
+       "text": "Pass her permitting reform bill to expand domestic energy production and infrastructure and lower energy bills",
+       "topic": "energy",
+       "topics": [
+        "energy"
+       ],
+       "url": "https://www.wvva.com/2026/10/21/capito-fetty-anderson-speak-iran-tax-cuts-more-ahead-senate-election/",
+       "date": "2026-10-21"
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Rachel Fetty Anderson",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "Eliminate the \"Buy, Borrow, Die\" tax loophole and raise the marginal tax rate on earners over $500,000 a year",
+       "topic": "taxes",
+       "topics": [
+        "taxes"
+       ],
+       "url": "https://www.fettyandersonforsenate.com/issues",
+       "date": "2026-10"
+      },
+      {
+       "text": "Fight for a moratorium on hyperscale data center development and restore local control over standards, zoning and taxes",
+       "topic": "energy / local control",
+       "topics": [
+        "energy",
+        "local control"
+       ],
+       "url": "https://www.fettyandersonforsenate.com/issues",
+       "date": "2026-10"
+      },
+      {
+       "text": "End the cap on Social Security taxes above $184,500, with moderated higher payments to higher earners",
+       "topic": "Social Security",
+       "topics": [
+        "social security"
+       ],
+       "url": "https://www.fettyandersonforsenate.com/issues",
+       "date": "2026-10"
+      },
+      {
+       "text": "Target West Virginia cleanup funds at community-ready water projects and hold polluters accountable for damages",
+       "topic": "environment / water",
+       "topics": [
+        "environment",
+        "water"
+       ],
+       "url": "https://www.fettyandersonforsenate.com/issues",
+       "date": "2026-10"
+      },
+      {
+       "text": "Not accept campaign money from foreign governments or corporations",
+       "topic": "campaign finance",
+       "topics": [
+        "campaign finance"
+       ],
+       "url": "https://www.fettyandersonforsenate.com/issues",
+       "date": "2026-10"
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ],
+   "area": {
+    "type": "race",
+    "id": "US-SEN-WV",
+    "state": "WV",
+    "county": "",
+    "who_votes": "All WV voters"
+   }
+  },
+  {
+   "race": "U.S. Senate, Wyoming",
+   "level": "federal",
+   "section": "national",
+   "race_id": "US-SEN-WY",
+   "note": "",
+   "candidates": [
+    {
+     "name": "Harriet Hageman",
+     "party": "Republican",
+     "promises": [
+      {
+       "text": "Keep working to protect oil, gas, coal and uranium production and seek a seat on the Senate Judiciary Committee",
+       "topic": "energy / judiciary",
+       "topics": [
+        "energy",
+        "judiciary"
+       ],
+       "url": "https://www.wyomingpublicmedia.org/open-spaces/2026-10-02/senate-candidates-talk-public-lands-healthcare-and-energy",
+       "date": "2026-10-02"
+      },
+      {
+       "text": "Write laws with clearer definitions and more sunset clauses to rein in the power of federal agencies",
+       "topic": "government reform",
+       "topics": [
+        "government reform"
+       ],
+       "url": "https://www.wyomingpublicmedia.org/open-spaces/2026-10-02/senate-candidates-talk-public-lands-healthcare-and-energy",
+       "date": "2026-10-02"
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "James Byrd",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "Never support selling federal public land for housing",
+       "topic": "public lands",
+       "topics": [
+        "public lands"
+       ],
+       "url": "https://www.wyomingpublicmedia.org/open-spaces/2026-10-02/senate-candidates-talk-public-lands-healthcare-and-energy",
+       "date": "2026-10-02"
+      },
+      {
+       "text": "End tariffs and work across the aisle to reclaim Congress's constitutional powers from the executive",
+       "topic": "economy / government reform",
+       "topics": [
+        "economy",
+        "government reform"
+       ],
+       "url": "https://www.wyomingpublicmedia.org/open-spaces/2026-10-02/senate-candidates-talk-public-lands-healthcare-and-energy",
+       "date": "2026-10-02"
+      },
+      {
+       "text": "Support term limits for the House, Senate and Supreme Court",
+       "topic": "government reform",
+       "topics": [
+        "government reform"
+       ],
+       "url": "https://www.wyomingpublicmedia.org/open-spaces/2026-10-02/senate-candidates-talk-public-lands-healthcare-and-energy",
+       "date": "2026-10-02"
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ],
+   "area": {
+    "type": "race",
+    "id": "US-SEN-WY",
+    "state": "WY",
+    "county": "",
+    "who_votes": "All WY voters"
+   }
+  },
+  {
+   "race": "U.S. Senate, South Dakota",
+   "level": "federal",
+   "section": "national",
+   "race_id": "US-SEN-SD",
+   "note": "",
+   "candidates": [
+    {
+     "name": "Brian Bengs",
+     "party": "Independent",
+     "promises": [
+      {
+       "text": "Create a Medicare buy-in public option to compete with private insurers",
+       "topic": "health care",
+       "topics": [
+        "health care"
+       ],
+       "url": "https://www.sdpb.org/podcast/sdpb-news/2026-09-15/sdpb-senate-debate-recap-rapid-city-mayoral-shakeup-sept-15",
+       "date": "2026-09-15"
+      },
+      {
+       "text": "Empower Medicare to negotiate prices directly on all prescription drugs",
+       "topic": "health care",
+       "topics": [
+        "health care"
+       ],
+       "url": "https://www.sdpb.org/podcast/sdpb-news/2026-09-15/sdpb-senate-debate-recap-rapid-city-mayoral-shakeup-sept-15",
+       "date": "2026-09-15"
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ],
+   "area": {
+    "type": "race",
+    "id": "US-SEN-SD",
+    "state": "SD",
+    "county": "",
+    "who_votes": "All SD voters"
+   }
+  },
+  {
+   "race": "U.S. Senate, Delaware",
+   "level": "federal",
+   "section": "national",
+   "race_id": "US-SEN-DE",
+   "note": "",
+   "candidates": [
+    {
+     "name": "Chris Coons",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "Spend as much time in Delaware as in Washington and fight for storm repair at Sussex County beaches, health care investment and the chicken industry",
+       "topic": "constituent services",
+       "topics": [
+        "constituent services"
+       ],
+       "url": "https://whyy.org/articles/election-2026-delaware-senate-voter-guide/",
+       "date": "2026-10-15"
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Mike Katz",
+     "party": "Republican",
+     "promises": [
+      {
+       "text": "Make pro-growth tax cuts permanent and cut federal programs he sees as job killing",
+       "topic": "taxes / spending",
+       "topics": [
+        "taxes",
+        "spending"
+       ],
+       "url": "https://whyy.org/articles/election-2026-delaware-senate-voter-guide/",
+       "date": "2026-10-15"
+      },
+      {
+       "text": "Withhold federal funding from sanctuary jurisdictions and enforce stricter immigration laws",
+       "topic": "immigration",
+       "topics": [
+        "immigration"
+       ],
+       "url": "https://whyy.org/articles/election-2026-delaware-senate-voter-guide/",
+       "date": "2026-10-15"
+      },
+      {
+       "text": "Fix the health care system by focusing on population and community health and more competition among providers",
+       "topic": "health care",
+       "topics": [
+        "health care"
+       ],
+       "url": "https://whyy.org/articles/election-2026-delaware-senate-voter-guide/",
+       "date": "2026-10-15"
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ],
+   "area": {
+    "type": "race",
+    "id": "US-SEN-DE",
+    "state": "DE",
+    "county": "",
+    "who_votes": "All DE voters"
+   }
+  },
+  {
+   "race": "U.S. Senate, Oklahoma",
+   "level": "federal",
+   "section": "national",
+   "race_id": "US-SEN-OK",
+   "note": "",
+   "candidates": [
+    {
+     "name": "N'Kiyla Jasmine Thomas",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "Codify civil rights in federal law",
+       "topic": "civil rights",
+       "topics": [
+        "civil rights"
+       ],
+       "url": "https://oklahomavoice.com/2026/07/31/democrat-jasmine-thomas-hopes-lived-experience-will-propel-her-to-oklahoma-senate-seat/",
+       "date": "2026-07-31"
+      },
+      {
+       "text": "Push to fund hospitals and medical research such as cancer and autism research",
+       "topic": "health care",
+       "topics": [
+        "health care"
+       ],
+       "url": "https://oklahomavoice.com/2026/07/31/democrat-jasmine-thomas-hopes-lived-experience-will-propel-her-to-oklahoma-senate-seat/",
+       "date": "2026-07-31"
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ],
+   "area": {
+    "type": "race",
+    "id": "US-SEN-OK",
+    "state": "OK",
+    "county": "",
+    "who_votes": "All OK voters"
+   }
   }
  ],
  "races_without_promises": [
@@ -9338,9 +9718,9 @@
   "repo": "botlotician/botlotician.github.io"
  },
  "stats": {
-  "candidate_promises": 650,
-  "national_promises": 510,
-  "races": 85,
-  "candidates": 178
+  "candidate_promises": 672,
+  "national_promises": 532,
+  "races": 91,
+  "candidates": 188
  }
 }
