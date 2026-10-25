@@ -9689,6 +9689,383 @@
     "county": "",
     "who_votes": "All OK voters"
    }
+  },
+  {
+   "race": "U.S. House, CA-22",
+   "level": "federal",
+   "section": "national",
+   "race_id": "US-HOUSE-CA-22",
+   "note": "",
+   "candidates": [
+    {
+     "name": "David G. Valadao",
+     "party": "Republican",
+     "promises": [
+      {
+       "text": "Support suspending the federal gas tax and push for more oil refining to lower fuel prices",
+       "topic": "energy / gas prices",
+       "topics": [
+        "energy",
+        "gas prices"
+       ],
+       "url": "https://www.sacbee.com/news/politics-government/capitol-alert/article317506737.html",
+       "date": "2026-10-06"
+      },
+      {
+       "text": "Back a negotiated end to the Iran war that bars Iran from a nuclear weapon and reopens the Strait of Hormuz",
+       "topic": "foreign policy",
+       "topics": [
+        "foreign policy"
+       ],
+       "url": "https://www.sacbee.com/news/politics-government/capitol-alert/article317506737.html",
+       "date": "2026-10-06"
+      },
+      {
+       "text": "Keep supporting military aid to Israel",
+       "topic": "foreign policy",
+       "topics": [
+        "foreign policy"
+       ],
+       "url": "https://gvwire.com/2026/10/09/villegas-and-valadao-offer-ca-22-voters-distinctly-different-agendas/",
+       "date": "2026-10-09"
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Randy Villegas",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "Support suspending the federal gas tax",
+       "topic": "energy / gas prices",
+       "topics": [
+        "energy",
+        "gas prices"
+       ],
+       "url": "https://www.sacbee.com/news/politics-government/capitol-alert/article317506737.html",
+       "date": "2026-10-06"
+      },
+      {
+       "text": "Push for Medicare for All, paid for by taxing wealthy donors",
+       "topic": "health care",
+       "topics": [
+        "health care"
+       ],
+       "url": "https://www.sacbee.com/news/politics-government/capitol-alert/article317506737.html",
+       "date": "2026-10-06"
+      },
+      {
+       "text": "Oppose further military funding for Israel and the war in Iran and redirect money to working families",
+       "topic": "foreign policy",
+       "topics": [
+        "foreign policy"
+       ],
+       "url": "https://gvwire.com/2026/10/09/villegas-and-valadao-offer-ca-22-voters-distinctly-different-agendas/",
+       "date": "2026-10-09"
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ],
+   "area": {
+    "type": "race",
+    "id": "US-HOUSE-CA-22",
+    "state": "CA",
+    "county": "",
+    "who_votes": "Voters in U.S. House"
+   }
+  },
+  {
+   "race": "U.S. House, FL-22",
+   "level": "federal",
+   "section": "national",
+   "race_id": "US-HOUSE-FL-22",
+   "note": "",
+   "candidates": [
+    {
+     "name": "Pia Dandiya",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "Push to end tariffs starting on her first day in office",
+       "topic": "trade",
+       "topics": [
+        "trade"
+       ],
+       "url": "https://www.wpbf.com/article/candidates-issues-florida-congress-district-22/74218424",
+       "date": "2026-10-23"
+      },
+      {
+       "text": "Create federal incentives for builders of middle-income housing",
+       "topic": "housing",
+       "topics": [
+        "housing"
+       ],
+       "url": "https://www.wpbf.com/article/candidates-issues-florida-congress-district-22/74218424",
+       "date": "2026-10-23"
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Casey Askar",
+     "party": "Republican",
+     "promises": [
+      {
+       "text": "Work alongside President Trump to fix the economy and end the Affordable Care Act",
+       "topic": "economy / health care",
+       "topics": [
+        "economy",
+        "health care"
+       ],
+       "url": "https://www.wpbf.com/article/candidates-issues-florida-congress-district-22/74218424",
+       "date": "2026-10-23"
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ],
+   "area": {
+    "type": "race",
+    "id": "US-HOUSE-FL-22",
+    "state": "FL",
+    "county": "",
+    "who_votes": "Voters in U.S. House"
+   }
+  },
+  {
+   "race": "U.S. House, IA-2",
+   "level": "federal",
+   "section": "national",
+   "race_id": "US-HOUSE-IA-2",
+   "note": "",
+   "candidates": [
+    {
+     "name": "Lindsay James",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "Remove the cap on income subject to Social Security taxes so high earners pay more and the program stays solvent",
+       "topic": "Social Security",
+       "topics": [
+        "social security"
+       ],
+       "url": "https://cbs2iowa.com/news/local/iowas-2nd-congressional-district-debate-draws-focus-to-social-security-ai-and-education-joe-mitchell-lindsay-james",
+       "date": "2026-10-09"
+      },
+      {
+       "text": "Support federal action to raise teacher pay",
+       "topic": "education",
+       "topics": [
+        "education"
+       ],
+       "url": "https://cbs2iowa.com/news/local/iowas-2nd-congressional-district-debate-draws-focus-to-social-security-ai-and-education-joe-mitchell-lindsay-james",
+       "date": "2026-10-09"
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Joe Mitchell",
+     "party": "Republican",
+     "promises": [
+      {
+       "text": "Push to discuss a ban on social media for people under 16",
+       "topic": "technology",
+       "topics": [
+        "technology"
+       ],
+       "url": "https://cbs2iowa.com/news/local/iowas-2nd-congressional-district-debate-draws-focus-to-social-security-ai-and-education-joe-mitchell-lindsay-james",
+       "date": "2026-10-09"
+      },
+      {
+       "text": "Back shrinking the U.S. Department of Education and more oversight of how colleges spend taxpayer money",
+       "topic": "education",
+       "topics": [
+        "education"
+       ],
+       "url": "https://cbs2iowa.com/news/local/iowas-2nd-congressional-district-debate-draws-focus-to-social-security-ai-and-education-joe-mitchell-lindsay-james",
+       "date": "2026-10-09"
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ],
+   "area": {
+    "type": "race",
+    "id": "US-HOUSE-IA-2",
+    "state": "IA",
+    "county": "",
+    "who_votes": "Voters in U.S. House"
+   }
+  },
+  {
+   "race": "U.S. House, KY-6",
+   "level": "federal",
+   "section": "national",
+   "race_id": "US-HOUSE-KY-6",
+   "note": "",
+   "candidates": [
+    {
+     "name": "Zach Dembo",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "Expand VA-style home loan programs to first responders, teachers and others serving their communities",
+       "topic": "housing",
+       "topics": [
+        "housing"
+       ],
+       "url": "https://www.wkyt.com/2026/10/22/alvarado-dembo-spar-over-grocery-prices-housing-government-benefits-data-centers-debate/",
+       "date": "2026-10-22"
+      },
+      {
+       "text": "Support suspending the federal gas tax and push to end the war in Iran",
+       "topic": "energy / foreign policy",
+       "topics": [
+        "energy",
+        "foreign policy"
+       ],
+       "url": "https://www.wkyt.com/2026/10/22/alvarado-dembo-spar-over-grocery-prices-housing-government-benefits-data-centers-debate/",
+       "date": "2026-10-22"
+      },
+      {
+       "text": "Make sure no ratepayer pays more when a data center is built",
+       "topic": "energy / utilities",
+       "topics": [
+        "energy",
+        "utilities"
+       ],
+       "url": "https://www.wkyt.com/2026/10/22/alvarado-dembo-spar-over-grocery-prices-housing-government-benefits-data-centers-debate/",
+       "date": "2026-10-22"
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Ralph Alvarado",
+     "party": "Republican",
+     "promises": [
+      {
+       "text": "Require data centers to cover their own power and water costs and post a bond to restore land if decommissioned",
+       "topic": "energy / utilities",
+       "topics": [
+        "energy",
+        "utilities"
+       ],
+       "url": "https://www.wkyt.com/2026/10/22/alvarado-dembo-spar-over-grocery-prices-housing-government-benefits-data-centers-debate/",
+       "date": "2026-10-22"
+      },
+      {
+       "text": "Keep taxes low and support increasing SNAP benefits for families in need",
+       "topic": "taxes / food assistance",
+       "topics": [
+        "taxes",
+        "food assistance"
+       ],
+       "url": "https://www.wkyt.com/2026/10/22/alvarado-dembo-spar-over-grocery-prices-housing-government-benefits-data-centers-debate/",
+       "date": "2026-10-22"
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ],
+   "area": {
+    "type": "race",
+    "id": "US-HOUSE-KY-6",
+    "state": "KY",
+    "county": "",
+    "who_votes": "Voters in U.S. House"
+   }
+  },
+  {
+   "race": "U.S. House, MI-4",
+   "level": "federal",
+   "section": "national",
+   "race_id": "US-HOUSE-MI-4",
+   "note": "",
+   "candidates": [
+    {
+     "name": "Sean McCann",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "Expand Medicaid, extend the ACA tax credits and fight for lower prescription costs",
+       "topic": "health care",
+       "topics": [
+        "health care"
+       ],
+       "url": "https://www.mlive.com/news/kalamazoo/2026/09/who-should-represent-southwest-michigan-in-congress-candidates-make-their-case.html",
+       "date": "2026-09-30"
+      },
+      {
+       "text": "Cut taxes for middle-class families, raise the federal minimum wage and stop private equity from buying up housing",
+       "topic": "economy / housing",
+       "topics": [
+        "economy",
+        "housing"
+       ],
+       "url": "https://www.mlive.com/news/kalamazoo/2026/09/who-should-represent-southwest-michigan-in-congress-candidates-make-their-case.html",
+       "date": "2026-09-30"
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Bill Huizenga",
+     "party": "Republican",
+     "promises": [
+      {
+       "text": "Suspend state and federal gas taxes to cut prices by roughly 71 cents a gallon",
+       "topic": "energy / gas prices",
+       "topics": [
+        "energy",
+        "gas prices"
+       ],
+       "url": "https://www.mlive.com/news/kalamazoo/2026/09/who-should-represent-southwest-michigan-in-congress-candidates-make-their-case.html",
+       "date": "2026-09-30"
+      },
+      {
+       "text": "Make data centers pay for the extra power, water and infrastructure they need and give local communities a say",
+       "topic": "energy / utilities",
+       "topics": [
+        "energy",
+        "utilities"
+       ],
+       "url": "https://www.mlive.com/news/kalamazoo/2026/09/who-should-represent-southwest-michigan-in-congress-candidates-make-their-case.html",
+       "date": "2026-09-30"
+      },
+      {
+       "text": "Keep lowering prescription and insurance costs and expand telehealth and HSAs",
+       "topic": "health care",
+       "topics": [
+        "health care"
+       ],
+       "url": "https://www.mlive.com/news/kalamazoo/2026/09/who-should-represent-southwest-michigan-in-congress-candidates-make-their-case.html",
+       "date": "2026-09-30"
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ],
+   "area": {
+    "type": "race",
+    "id": "US-HOUSE-MI-4",
+    "state": "MI",
+    "county": "",
+    "who_votes": "Voters in U.S. House"
+   }
   }
  ],
  "races_without_promises": [
@@ -9718,9 +10095,9 @@
   "repo": "botlotician/botlotician.github.io"
  },
  "stats": {
-  "candidate_promises": 672,
-  "national_promises": 532,
-  "races": 91,
-  "candidates": 188
+  "candidate_promises": 695,
+  "national_promises": 555,
+  "races": 96,
+  "candidates": 198
  }
 }
