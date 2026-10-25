@@ -7183,6 +7183,524 @@
     "county": "",
     "who_votes": "All TX voters"
    }
+  },
+  {
+   "race": "Governor, Florida",
+   "level": "statewide",
+   "section": "national",
+   "race_id": "GOV-FL",
+   "note": "",
+   "candidates": [
+    {
+     "name": "Byron Donalds",
+     "party": "Republican",
+     "promises": [
+      {
+       "text": "Use the 2027 Taxation and Budget Reform Commission for a full review of taxes and fees, with the goal of repealing homestead property taxes (or targeting relief to seniors and working families if the math doesn't work)",
+       "topic": "taxes",
+       "topics": [
+        "taxes"
+       ],
+       "url": "https://www.wusf.org/politics-issues/2026-09-01/byron-donalds-doubles-down-cutting-eliminating-property-taxes",
+       "date": "2026-09-01"
+      },
+      {
+       "text": "If Amendment 3 passes, set a state funding formula (about $350-400 million a year) for Florida's 29 fiscally constrained counties instead of discretionary grants",
+       "topic": "taxes / local government",
+       "topics": [
+        "taxes",
+        "local government"
+       ],
+       "url": "https://floridapolitics.com/archives/811052-byron-donalds-says-governor-shouldnt-pick-and-choose-local-projects-to-fund-if-property-tax-amendment-passes/",
+       "date": "2026-09"
+      },
+      {
+       "text": "Create an online scorecard comparing insurance companies on price, claim-payment speed and denial rates, paid for by the insurance industry",
+       "topic": "insurance",
+       "topics": [
+        "insurance"
+       ],
+       "url": "https://byrondonalds.com/issues/affordability/",
+       "date": "2026-10"
+      },
+      {
+       "text": "Keep Citizens Property Insurance small and reform My Safe Florida Home to fund storm-hardening upgrades that cut premiums most",
+       "topic": "insurance",
+       "topics": [
+        "insurance"
+       ],
+       "url": "https://byrondonalds.com/issues/affordability/",
+       "date": "2026-10"
+      },
+      {
+       "text": "Remove ultra-processed food from school lunchrooms and offer an optional personal career plan for every public school student from sixth grade",
+       "topic": "education",
+       "topics": [
+        "education"
+       ],
+       "url": "https://www.miamiherald.com/news/politics-government/article316857030.html",
+       "date": "2026-10"
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "David Jolly",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "Create a state catastrophe fund that takes natural-disaster risk out of the private market to lower property and car insurance rates",
+       "topic": "insurance",
+       "topics": [
+        "insurance"
+       ],
+       "url": "https://davidjolly.com/issues/",
+       "date": "2026-10"
+      },
+      {
+       "text": "Offer condominium associations and owners a no-interest, state-backed loan program for required repairs",
+       "topic": "housing",
+       "topics": [
+        "housing"
+       ],
+       "url": "https://davidjolly.com/issues/",
+       "date": "2026-10"
+      },
+      {
+       "text": "Expand Medicaid and run a five-year pilot to expand community health centers in every Florida county",
+       "topic": "health care",
+       "topics": [
+        "health care"
+       ],
+       "url": "https://davidjolly.com/issues/health-care/",
+       "date": "2026-10"
+      },
+      {
+       "text": "Issue a day-one moratorium on building hyperscale data centers until their environmental impact is studied",
+       "topic": "energy / environment",
+       "topics": [
+        "energy",
+        "environment"
+       ],
+       "url": "https://davidjolly.com/issues/",
+       "date": "2026-10"
+      },
+      {
+       "text": "Means-test the private school voucher program and require voucher schools to meet public-school standards and not charge extra tuition",
+       "topic": "education",
+       "topics": [
+        "education"
+       ],
+       "url": "https://davidjolly.com/issues/",
+       "date": "2026-10"
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ],
+   "area": {
+    "type": "race",
+    "id": "GOV-FL",
+    "state": "FL",
+    "county": "",
+    "who_votes": "All FL voters"
+   }
+  },
+  {
+   "race": "Governor, Illinois",
+   "level": "statewide",
+   "section": "national",
+   "race_id": "GOV-IL",
+   "note": "",
+   "candidates": [
+    {
+     "name": "JB Pritzker",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "Bring universal preschool to full implementation, which he expects by 2027 or 2028",
+       "topic": "education",
+       "topics": [
+        "education"
+       ],
+       "url": "https://capitolnewsillinois.com/news/pritzker-says-so-much-more-to-do-in-illinois-as-he-seeks-rare-3rd-term/",
+       "date": "2026-10"
+      },
+      {
+       "text": "Push lawmakers to pass the POWER Act in the November veto session, requiring data centers to supply their own power",
+       "topic": "energy",
+       "topics": [
+        "energy"
+       ],
+       "url": "https://www.illinoistimes.com/news/drinks-and-interruptions-pritzker-bailey-meet-in-only-governor-debate-of-election-cycle/",
+       "date": "2026-10"
+      },
+      {
+       "text": "In a third term, lower housing costs, reduce pension liabilities, reduce the number of units of local government and expand guardrails on AI",
+       "topic": "housing / budget",
+       "topics": [
+        "housing",
+        "budget"
+       ],
+       "url": "https://chicago.suntimes.com/elections/2026/graphics/voter-guide-midterm-election-illinois/candidates/jb-pritzker/",
+       "date": "2026-10"
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Darren Bailey",
+     "party": "Republican",
+     "promises": [
+      {
+       "text": "Repeal the SAFE-T Act and restore cash bail",
+       "topic": "public safety",
+       "topics": [
+        "public safety"
+       ],
+       "url": "https://news.wttw.com/2026/10/13/pritzker-bailey-square-contentious-discussion-over-taxes-trump-and-bears",
+       "date": "2026-10-13"
+      },
+      {
+       "text": "Pause all data center projects on day one and review them, putting local control and taxpayer relief first",
+       "topic": "energy",
+       "topics": [
+        "energy"
+       ],
+       "url": "https://www.ksdk.com/article/news/local/ill-pause-everything-darren-baileys-interview-in-full/63-58982220-36ea-43c0-b6c5-89fbb872509d",
+       "date": "2026-10"
+      },
+      {
+       "text": "Create an 'Illinois DOGE' commission, led by his running mate, to audit state spending and consolidate duplicative boards and services",
+       "topic": "budget",
+       "topics": [
+        "budget"
+       ],
+       "url": "https://www.nprillinois.org/government-politics/2026-01-08/bailey-proposes-illinois-doge-as-republican-governors-race-focuses-on-spending",
+       "date": "2026-01-08"
+      },
+      {
+       "text": "Repeal the 2021 Climate and Equitable Jobs Act, require independent audits of major utility contracts, and cap annual property tax rates so they don't exceed a homeowner's mortgage rate",
+       "topic": "energy / taxes",
+       "topics": [
+        "energy",
+        "taxes"
+       ],
+       "url": "https://www.nprillinois.org/government-politics/2026-01-08/bailey-proposes-illinois-doge-as-republican-governors-race-focuses-on-spending",
+       "date": "2026-01-08"
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ],
+   "area": {
+    "type": "race",
+    "id": "GOV-IL",
+    "state": "IL",
+    "county": "",
+    "who_votes": "All IL voters"
+   }
+  },
+  {
+   "race": "Governor, Massachusetts",
+   "level": "statewide",
+   "section": "national",
+   "race_id": "GOV-MA",
+   "note": "",
+   "candidates": [
+    {
+     "name": "Maura Healey",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "Suspend the state gas tax for two months",
+       "topic": "cost of living",
+       "topics": [
+        "cost of living"
+       ],
+       "url": "https://www.berkshireeagle.com/localnews/five-takeaways-from-an-interview-with-gov-maura-healey/4701101",
+       "date": "2026-10"
+      },
+      {
+       "text": "Double the 100,000 homes built, permitted or in development during her first term",
+       "topic": "housing",
+       "topics": [
+        "housing"
+       ],
+       "url": "https://www.wgbh.org/news/politics/2026-10-16/affordability-and-accountability-dominate-healey-minogue-finale",
+       "date": "2026-10-16"
+      },
+      {
+       "text": "Seek an audit of utility companies' profits and rate increases, and push the Legislature to pass her energy cost bill",
+       "topic": "energy",
+       "topics": [
+        "energy"
+       ],
+       "url": "https://www.wgbh.org/news/politics/2026-10-16/affordability-and-accountability-dominate-healey-minogue-finale",
+       "date": "2026-10-16"
+      },
+      {
+       "text": "Expand primary care and mental health services",
+       "topic": "health care",
+       "topics": [
+        "health care"
+       ],
+       "url": "https://www.wgbh.org/news/politics/2026-10-16/affordability-and-accountability-dominate-healey-minogue-finale",
+       "date": "2026-10-16"
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Michael Minogue",
+     "party": "Republican",
+     "promises": [
+      {
+       "text": "Audit the state Legislature and the entire state budget with an outside auditor",
+       "topic": "governance",
+       "topics": [
+        "governance"
+       ],
+       "url": "https://minogueforma.com/blueprint-for-a-better-future/",
+       "date": "2026-09"
+      },
+      {
+       "text": "Cut state-mandated utility fees on day one",
+       "topic": "energy",
+       "topics": [
+        "energy"
+       ],
+       "url": "https://minogueforma.com/blueprint-for-a-better-future/",
+       "date": "2026-09"
+      },
+      {
+       "text": "Enact a gas tax holiday when gas tops $4 a gallon, working toward eliminating the state gas tax",
+       "topic": "taxes",
+       "topics": [
+        "taxes"
+       ],
+       "url": "https://minogueforma.com/blueprint-for-a-better-future/",
+       "date": "2026-09"
+      },
+      {
+       "text": "Cancel the Net Zero emissions mandate",
+       "topic": "energy / environment",
+       "topics": [
+        "energy",
+        "environment"
+       ],
+       "url": "https://minogueforma.com/blueprint-for-a-better-future/",
+       "date": "2026-09"
+      },
+      {
+       "text": "Stop enforcing the MBTA Communities Act and give legal support to towns that don't accept its terms",
+       "topic": "housing",
+       "topics": [
+        "housing"
+       ],
+       "url": "https://minogueforma.com/blueprint-for-a-better-future/",
+       "date": "2026-09"
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ],
+   "area": {
+    "type": "race",
+    "id": "GOV-MA",
+    "state": "MA",
+    "county": "",
+    "who_votes": "All MA voters"
+   }
+  },
+  {
+   "race": "Governor, Maryland",
+   "level": "statewide",
+   "section": "national",
+   "race_id": "GOV-MD",
+   "note": "",
+   "candidates": [
+    {
+     "name": "Dan Cox",
+     "party": "Republican",
+     "promises": [
+      {
+       "text": "Eliminate property taxes for homeowners 65 and older and cap increases in homes' taxable value",
+       "topic": "taxes",
+       "topics": [
+        "taxes"
+       ],
+       "url": "https://www.cbsnews.com/baltimore/news/dan-cox-plans-maryland-governor-gubernatorial-affordable-wes-moore/",
+       "date": "2026-10-19"
+      },
+      {
+       "text": "Issue a day-one moratorium on new data center development",
+       "topic": "energy",
+       "topics": [
+        "energy"
+       ],
+       "url": "https://www.cbsnews.com/baltimore/news/dan-cox-plans-maryland-governor-gubernatorial-affordable-wes-moore/",
+       "date": "2026-10-19"
+      },
+      {
+       "text": "Lower vehicle registration fees and temporarily suspend the state gas tax",
+       "topic": "cost of living",
+       "topics": [
+        "cost of living"
+       ],
+       "url": "https://www.cbsnews.com/baltimore/news/dan-cox-plans-maryland-governor-gubernatorial-affordable-wes-moore/",
+       "date": "2026-10-19"
+      },
+      {
+       "text": "Restructure the Blueprint for Maryland's Future while protecting teacher salaries and expanding tutoring",
+       "topic": "education",
+       "topics": [
+        "education"
+       ],
+       "url": "https://www.cbsnews.com/baltimore/news/dan-cox-plans-maryland-governor-gubernatorial-affordable-wes-moore/",
+       "date": "2026-10-19"
+      },
+      {
+       "text": "Speed up the Francis Scott Key Bridge rebuild by easing permitting restrictions",
+       "topic": "transportation",
+       "topics": [
+        "transportation"
+       ],
+       "url": "https://www.cbsnews.com/baltimore/news/dan-cox-plans-maryland-governor-gubernatorial-affordable-wes-moore/",
+       "date": "2026-10-19"
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Wes Moore",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "Make Maryland's public schools the best in America and end childhood poverty",
+       "topic": "education / poverty",
+       "topics": [
+        "education",
+        "poverty"
+       ],
+       "url": "https://wesmoore.com/governor-wes-moore-launches-2026-reelection-campaign-pledging-to-keep-building-a-state-where-we-leave-no-one-behind/",
+       "date": "2025-09-09"
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ],
+   "area": {
+    "type": "race",
+    "id": "GOV-MD",
+    "state": "MD",
+    "county": "",
+    "who_votes": "All MD voters"
+   }
+  },
+  {
+   "race": "Governor, South Carolina",
+   "level": "statewide",
+   "section": "national",
+   "race_id": "GOV-SC",
+   "note": "",
+   "candidates": [
+    {
+     "name": "Alan Wilson",
+     "party": "Republican",
+     "promises": [
+      {
+       "text": "Move South Carolina to a 0% income tax for everyone",
+       "topic": "taxes",
+       "topics": [
+        "taxes"
+       ],
+       "url": "https://www.southcarolinapublicradio.org/sc-news/2026-10-07/what-scs-gop-and-dem-gov-candidates-said-about-data-centers-taxes-in-first-and-likely-one-debate",
+       "date": "2026-10-07"
+      },
+      {
+       "text": "Require new data centers to bring their own energy, without a statewide moratorium",
+       "topic": "energy",
+       "topics": [
+        "energy"
+       ],
+       "url": "https://www.southcarolinapublicradio.org/sc-news/2026-10-07/what-scs-gop-and-dem-gov-candidates-said-about-data-centers-taxes-in-first-and-likely-one-debate",
+       "date": "2026-10-07"
+      },
+      {
+       "text": "Support an extra 5 to 10 years of sentencing for crimes committed out of hate",
+       "topic": "public safety",
+       "topics": [
+        "public safety"
+       ],
+       "url": "https://www.southcarolinapublicradio.org/sc-news/2026-10-07/what-scs-gop-and-dem-gov-candidates-said-about-data-centers-taxes-in-first-and-likely-one-debate",
+       "date": "2026-10-07"
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Jermaine Johnson",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "Repeal the 2026 income tax law and fund relief with revenue from legalized cannabis",
+       "topic": "taxes",
+       "topics": [
+        "taxes"
+       ],
+       "url": "https://www.southcarolinapublicradio.org/sc-news/2026-10-07/what-scs-gop-and-dem-gov-candidates-said-about-data-centers-taxes-in-first-and-likely-one-debate",
+       "date": "2026-10-07"
+      },
+      {
+       "text": "Support a statewide moratorium on new data centers while guardrails are set",
+       "topic": "energy",
+       "topics": [
+        "energy"
+       ],
+       "url": "https://www.southcarolinapublicradio.org/sc-news/2026-10-07/what-scs-gop-and-dem-gov-candidates-said-about-data-centers-taxes-in-first-and-likely-one-debate",
+       "date": "2026-10-07"
+      },
+      {
+       "text": "Expand Medicaid and pass a state hate crime law",
+       "topic": "health care / civil rights",
+       "topics": [
+        "health care",
+        "civil rights"
+       ],
+       "url": "https://www.southcarolinapublicradio.org/sc-news/2026-10-07/what-scs-gop-and-dem-gov-candidates-said-about-data-centers-taxes-in-first-and-likely-one-debate",
+       "date": "2026-10-07"
+      },
+      {
+       "text": "Ban Flock Safety license-plate cameras",
+       "topic": "privacy",
+       "topics": [
+        "privacy"
+       ],
+       "url": "https://www.southcarolinapublicradio.org/sc-news/2026-10-07/what-scs-gop-and-dem-gov-candidates-said-about-data-centers-taxes-in-first-and-likely-one-debate",
+       "date": "2026-10-07"
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ],
+   "area": {
+    "type": "race",
+    "id": "GOV-SC",
+    "state": "SC",
+    "county": "",
+    "who_votes": "All SC voters"
+   }
   }
  ],
  "races_without_promises": [
@@ -7212,9 +7730,9 @@
   "repo": "botlotician/botlotician.github.io"
  },
  "stats": {
-  "candidate_promises": 508,
-  "national_promises": 368,
-  "races": 59,
-  "candidates": 127
+  "candidate_promises": 547,
+  "national_promises": 407,
+  "races": 64,
+  "candidates": 137
  }
 }

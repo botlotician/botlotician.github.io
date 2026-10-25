@@ -6,6 +6,7 @@
   var LOCAL_HINT = "Hollister and San Benito County local races are now shown by ZIP code. Enter your ZIP (for example 95023 for Hollister) to see the local races on your ballot.";
   var STATE_HINT = "Races for California and every other state are now shown by ZIP code. Enter your ZIP (for example 95023 for Hollister, CA) to see the races on your ballot.";
   var STORE_KEY = "promiseTracker.zip";
+  var PRES_AS_OF = "2026-10-21"; // date of the President ratings (not the site update date)
   var STATUS_DESC = { "Kept": "Promise kept", "Partially kept": "Compromise / partly kept", "In progress": "In the works", "Stalled": "No progress or blocked", "Broken": "Promise broken", "Not yet addressed": "No action yet" };
   var OFFICE = { cd: "U.S. House", ad: "State Assembly", sd: "State Senate", boe: "Board of Equalization" };
   var PREFIX = { cd: "CA-", ad: "AD-", sd: "SD-", boe: "BOE-" };
@@ -341,7 +342,7 @@
 
   function renderPresident() {
     var P = DATA.president, out = [];
-    out.push('<p class="muted small">Status of ' + P.total + " promises the current president made during his 2024 campaign, as of " + esc(fmtDate(DATA.last_updated)) + ". Ratings mostly follow PolitiFact's MAGA-Meter. Tap a status to filter.</p>");
+    out.push('<p class="muted small">Status of ' + P.total + " promises the current president made during his 2024 campaign, as of " + esc(fmtDate(DATA.president_as_of || PRES_AS_OF)) + ". Ratings mostly follow PolitiFact's MAGA-Meter. Tap a status to filter.</p>");
     out.push('<div class="counts" role="group" aria-label="Filter by status">');
     P.status_order.forEach(function (s) {
       out.push('<button type="button" class="count" data-status="' + esc(s) + '" aria-pressed="' + (state.status === s) + '"><b>' + (P.counts[s] || 0) + '</b><span class="badge s-' + slug(s) + '">' + esc(s) + "</span></button>");
