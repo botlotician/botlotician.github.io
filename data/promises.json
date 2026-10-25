@@ -10066,6 +10066,434 @@
     "county": "",
     "who_votes": "Voters in U.S. House"
    }
+  },
+  {
+   "race": "U.S. House, MI-7",
+   "level": "federal",
+   "section": "national",
+   "race_id": "US-HOUSE-MI-7",
+   "note": "",
+   "candidates": [
+    {
+     "name": "William Lawrence",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "Co-sponsor the Medicare for All Act, or back steps like lowering the Medicare age to 55 or a public option if it lacks support",
+       "topic": "health care",
+       "topics": [
+        "health care"
+       ],
+       "url": "https://www.mlive.com/politics/2026/09/michigans-7th-district-race-is-rated-a-toss-up-heres-where-the-candidates-stand.html",
+       "date": "2026-09-27"
+      },
+      {
+       "text": "Push to build 10 million new or rehabilitated homes nationwide",
+       "topic": "housing",
+       "topics": [
+        "housing"
+       ],
+       "url": "https://www.mlive.com/politics/2026/09/michigans-7th-district-race-is-rated-a-toss-up-heres-where-the-candidates-stand.html",
+       "date": "2026-09-27"
+      },
+      {
+       "text": "Support a 12-month moratorium on new AI data centers and regulation to protect ratepayers",
+       "topic": "energy / technology",
+       "topics": [
+        "energy",
+        "technology"
+       ],
+       "url": "https://www.mlive.com/politics/2026/09/michigans-7th-district-race-is-rated-a-toss-up-heres-where-the-candidates-stand.html",
+       "date": "2026-09-27"
+      },
+      {
+       "text": "Raise the minimum wage and pass the PRO Act",
+       "topic": "labor",
+       "topics": [
+        "labor"
+       ],
+       "url": "https://www.mlive.com/politics/2026/09/michigans-7th-district-race-is-rated-a-toss-up-heres-where-the-candidates-stand.html",
+       "date": "2026-09-27"
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Tom Barrett",
+     "party": "Republican",
+     "promises": [
+      {
+       "text": "Expand telehealth, increase price transparency and lower prescription drug costs through competition",
+       "topic": "health care",
+       "topics": [
+        "health care"
+       ],
+       "url": "https://www.mlive.com/politics/2026/09/michigans-7th-district-race-is-rated-a-toss-up-heres-where-the-candidates-stand.html",
+       "date": "2026-09-27"
+      },
+      {
+       "text": "Support faster immigration court processing and stronger enforcement against trafficking and illegal entry",
+       "topic": "immigration",
+       "topics": [
+        "immigration"
+       ],
+       "url": "https://www.mlive.com/politics/2026/09/michigans-7th-district-race-is-rated-a-toss-up-heres-where-the-candidates-stand.html",
+       "date": "2026-09-27"
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ],
+   "area": {
+    "type": "race",
+    "id": "US-HOUSE-MI-7",
+    "state": "MI",
+    "county": "",
+    "who_votes": "Voters in U.S. House"
+   }
+  },
+  {
+   "race": "U.S. House, MI-10",
+   "level": "federal",
+   "section": "national",
+   "race_id": "US-HOUSE-MI-10",
+   "note": "",
+   "candidates": [
+    {
+     "name": "Christina Hines",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "Roll back retaliatory tariffs, end the war in Iran and invest in paid family leave and affordable housing",
+       "topic": "economy",
+       "topics": [
+        "economy"
+       ],
+       "url": "https://www.mlive.com/news/detroit/2026/10/the-5-candidates-vying-to-replace-us-rep-john-james.html",
+       "date": "2026-10-08"
+      },
+      {
+       "text": "Hold ICE to the same standards as other law enforcement and create efficient pathways to citizenship",
+       "topic": "immigration",
+       "topics": [
+        "immigration"
+       ],
+       "url": "https://www.mlive.com/news/detroit/2026/10/the-5-candidates-vying-to-replace-us-rep-john-james.html",
+       "date": "2026-10-08"
+      },
+      {
+       "text": "Hold polluters accountable, strengthen fuel standards and expand clean energy",
+       "topic": "environment / energy",
+       "topics": [
+        "environment",
+        "energy"
+       ],
+       "url": "https://www.mlive.com/news/detroit/2026/10/the-5-candidates-vying-to-replace-us-rep-john-james.html",
+       "date": "2026-10-08"
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Michael Bouchard",
+     "party": "Republican",
+     "promises": [
+      {
+       "text": "Enforce hospital and insurer price transparency, allow insurance sales across state lines and expand HSAs",
+       "topic": "health care",
+       "topics": [
+        "health care"
+       ],
+       "url": "https://www.mlive.com/news/detroit/2026/10/the-5-candidates-vying-to-replace-us-rep-john-james.html",
+       "date": "2026-10-08"
+      },
+      {
+       "text": "Eliminate taxes on tips, overtime and Social Security, expand the Child Tax Credit and double the standard deduction",
+       "topic": "taxes",
+       "topics": [
+        "taxes"
+       ],
+       "url": "https://www.mlive.com/news/detroit/2026/10/the-5-candidates-vying-to-replace-us-rep-john-james.html",
+       "date": "2026-10-08"
+      },
+      {
+       "text": "Decide asylum claims quickly while applicants remain outside the U.S. and end catch-and-release",
+       "topic": "immigration",
+       "topics": [
+        "immigration"
+       ],
+       "url": "https://www.mlive.com/news/detroit/2026/10/the-5-candidates-vying-to-replace-us-rep-john-james.html",
+       "date": "2026-10-08"
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ],
+   "area": {
+    "type": "race",
+    "id": "US-HOUSE-MI-10",
+    "state": "MI",
+    "county": "",
+    "who_votes": "Voters in U.S. House"
+   }
+  },
+  {
+   "race": "U.S. House, MT-1",
+   "level": "federal",
+   "section": "national",
+   "race_id": "US-HOUSE-MT-1",
+   "note": "",
+   "candidates": [
+    {
+     "name": "Aaron Flint",
+     "party": "Republican",
+     "promises": [
+      {
+       "text": "Support Rep. Zinke's Public Lands in Public Hands Act and keep public lands public",
+       "topic": "public lands",
+       "topics": [
+        "public lands"
+       ],
+       "url": "https://montanafreepress.org/2026/10/13/sparks-fly-flint-forstag-house-debate/",
+       "date": "2026-10-13"
+      },
+      {
+       "text": "Suspend the federal gas tax and push broad tax relief",
+       "topic": "taxes / gas prices",
+       "topics": [
+        "taxes",
+        "gas prices"
+       ],
+       "url": "https://montanafreepress.org/2026/10/13/sparks-fly-flint-forstag-house-debate/",
+       "date": "2026-10-13"
+      },
+      {
+       "text": "Ban stock trading by members of Congress",
+       "topic": "ethics",
+       "topics": [
+        "ethics"
+       ],
+       "url": "https://montanafreepress.org/2026/10/13/sparks-fly-flint-forstag-house-debate/",
+       "date": "2026-10-13"
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Sam Forstag",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "Ban stock trading by members of Congress",
+       "topic": "ethics",
+       "topics": [
+        "ethics"
+       ],
+       "url": "https://montanafreepress.org/2026/10/13/sparks-fly-flint-forstag-house-debate/",
+       "date": "2026-10-13"
+      },
+      {
+       "text": "Push for government oversight of data center and AI companies and oppose data centers on public lands",
+       "topic": "technology / public lands",
+       "topics": [
+        "technology",
+        "public lands"
+       ],
+       "url": "https://montanafreepress.org/2026/10/13/sparks-fly-flint-forstag-house-debate/",
+       "date": "2026-10-13"
+      },
+      {
+       "text": "Oppose corporations buying up residential homes",
+       "topic": "housing",
+       "topics": [
+        "housing"
+       ],
+       "url": "https://montanafreepress.org/2026/10/13/sparks-fly-flint-forstag-house-debate/",
+       "date": "2026-10-13"
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ],
+   "area": {
+    "type": "race",
+    "id": "US-HOUSE-MT-1",
+    "state": "MT",
+    "county": "",
+    "who_votes": "Voters in U.S. House"
+   }
+  },
+  {
+   "race": "U.S. House, NC-1",
+   "level": "federal",
+   "section": "national",
+   "race_id": "US-HOUSE-NC-1",
+   "note": "",
+   "candidates": [
+    {
+     "name": "Don Davis",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "Pass a farm bill",
+       "topic": "agriculture",
+       "topics": [
+        "agriculture"
+       ],
+       "url": "https://www.newsobserver.com/news/politics-government/election/article317335577.html",
+       "date": "2026-10-14"
+      },
+      {
+       "text": "Temporarily suspend the federal diesel tax",
+       "topic": "gas prices",
+       "topics": [
+        "gas prices"
+       ],
+       "url": "https://www.newsobserver.com/news/politics-government/election/article317335577.html",
+       "date": "2026-10-14"
+      },
+      {
+       "text": "Pass his RESET Act to limit mid-decade redistricting to court orders, referendums or independent commissions",
+       "topic": "elections",
+       "topics": [
+        "elections"
+       ],
+       "url": "https://www.newsobserver.com/news/politics-government/election/article317335577.html",
+       "date": "2026-10-14"
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Laurie Buckhout",
+     "party": "Republican",
+     "promises": [
+      {
+       "text": "Bring jobs to the district with infrastructure, broadband and manufacturing incentives and expanded apprenticeships",
+       "topic": "economy",
+       "topics": [
+        "economy"
+       ],
+       "url": "https://www.newsobserver.com/news/politics-government/election/article317335577.html",
+       "date": "2026-10-14"
+      },
+      {
+       "text": "Push oversight of wasteful spending and counter Chinese purchases of farmland",
+       "topic": "government / national security",
+       "topics": [
+        "government",
+        "national security"
+       ],
+       "url": "https://www.newsobserver.com/news/politics-government/election/article317335577.html",
+       "date": "2026-10-14"
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ],
+   "area": {
+    "type": "race",
+    "id": "US-HOUSE-NC-1",
+    "state": "NC",
+    "county": "",
+    "who_votes": "Voters in U.S. House"
+   }
+  },
+  {
+   "race": "U.S. House, OH-9",
+   "level": "federal",
+   "section": "national",
+   "race_id": "US-HOUSE-OH-9",
+   "note": "",
+   "candidates": [
+    {
+     "name": "Marcy Kaptur",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "Oppose cuts to or privatization of Social Security and Medicare",
+       "topic": "Social Security / Medicare",
+       "topics": [
+        "social security",
+        "medicare"
+       ],
+       "url": "https://www.wtol.com/article/news/politics/elections/ohio-9th-district-kaptur-merrin-2026-election/512-57c63974-9833-4a78-ac00-8e98e92e466d",
+       "date": "2026-09-29"
+      },
+      {
+       "text": "Strip federal tax advantages from companies that move American jobs overseas",
+       "topic": "trade / jobs",
+       "topics": [
+        "trade",
+        "jobs"
+       ],
+       "url": "https://www.wtol.com/article/news/politics/elections/ohio-9th-district-kaptur-merrin-2026-election/512-57c63974-9833-4a78-ac00-8e98e92e466d",
+       "date": "2026-09-29"
+      },
+      {
+       "text": "Back legislation barring members of Congress from trading individual stocks",
+       "topic": "ethics",
+       "topics": [
+        "ethics"
+       ],
+       "url": "https://www.wtol.com/article/news/politics/elections/ohio-9th-district-kaptur-merrin-2026-election/512-57c63974-9833-4a78-ac00-8e98e92e466d",
+       "date": "2026-09-29"
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Derek Merrin",
+     "party": "Republican",
+     "promises": [
+      {
+       "text": "Balance the federal budget and cut spending that adds to the debt",
+       "topic": "spending",
+       "topics": [
+        "spending"
+       ],
+       "url": "https://www.wtol.com/article/news/politics/elections/ohio-9th-district-kaptur-merrin-2026-election/512-57c63974-9833-4a78-ac00-8e98e92e466d",
+       "date": "2026-09-29"
+      },
+      {
+       "text": "Secure the southern border",
+       "topic": "immigration",
+       "topics": [
+        "immigration"
+       ],
+       "url": "https://www.wtol.com/article/news/politics/elections/ohio-9th-district-kaptur-merrin-2026-election/512-57c63974-9833-4a78-ac00-8e98e92e466d",
+       "date": "2026-09-29"
+      },
+      {
+       "text": "Support congressional term limits",
+       "topic": "government reform",
+       "topics": [
+        "government reform"
+       ],
+       "url": "https://www.wtol.com/article/news/politics/elections/ohio-9th-district-kaptur-merrin-2026-election/512-57c63974-9833-4a78-ac00-8e98e92e466d",
+       "date": "2026-09-29"
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ],
+   "area": {
+    "type": "race",
+    "id": "US-HOUSE-OH-9",
+    "state": "OH",
+    "county": "",
+    "who_votes": "Voters in U.S. House"
+   }
   }
  ],
  "races_without_promises": [
@@ -10095,9 +10523,9 @@
   "repo": "botlotician/botlotician.github.io"
  },
  "stats": {
-  "candidate_promises": 695,
-  "national_promises": 555,
-  "races": 96,
-  "candidates": 198
+  "candidate_promises": 724,
+  "national_promises": 584,
+  "races": 101,
+  "candidates": 208
  }
 }
