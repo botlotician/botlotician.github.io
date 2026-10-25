@@ -10494,6 +10494,490 @@
     "county": "",
     "who_votes": "Voters in U.S. House"
    }
+  },
+  {
+   "race": "U.S. House, NY-17",
+   "level": "federal",
+   "section": "national",
+   "race_id": "US-HOUSE-NY-17",
+   "note": "",
+   "candidates": [
+    {
+     "name": "Cait Conley",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "Repeal the Trump tariffs",
+       "topic": "trade",
+       "topics": [
+        "trade"
+       ],
+       "url": "https://rocklandnews.com/lawler-conley-debate-pix-11-oct2026/",
+       "date": "2026-10-18"
+      },
+      {
+       "text": "Create a public-service home loan benefit, modeled on VA loans, for teachers, nurses, first responders and police with 10 years of service",
+       "topic": "housing",
+       "topics": [
+        "housing"
+       ],
+       "url": "https://rocklandnews.com/lawler-conley-debate-pix-11-oct2026/",
+       "date": "2026-10-18"
+      },
+      {
+       "text": "Support a moratorium on data centers and require community approval for future projects",
+       "topic": "energy / technology",
+       "topics": [
+        "energy",
+        "technology"
+       ],
+       "url": "https://rocklandnews.com/lawler-conley-debate-pix-11-oct2026/",
+       "date": "2026-10-18"
+      },
+      {
+       "text": "Require body cameras and visible identification for immigration agents and bar masks",
+       "topic": "immigration",
+       "topics": [
+        "immigration"
+       ],
+       "url": "https://rocklandnews.com/lawler-conley-debate-pix-11-oct2026/",
+       "date": "2026-10-18"
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Mike Lawler",
+     "party": "Republican",
+     "promises": [
+      {
+       "text": "Pass federal AI standards with testing of advanced models, developed with Rep. Josh Gottheimer",
+       "topic": "technology",
+       "topics": [
+        "technology"
+       ],
+       "url": "https://rocklandnews.com/lawler-conley-debate-pix-11-oct2026/",
+       "date": "2026-10-18"
+      },
+      {
+       "text": "Create tax credits to help small businesses train employees to use AI",
+       "topic": "technology / jobs",
+       "topics": [
+        "technology",
+        "jobs"
+       ],
+       "url": "https://rocklandnews.com/lawler-conley-debate-pix-11-oct2026/",
+       "date": "2026-10-18"
+      },
+      {
+       "text": "Reopen Indian Point, expand natural gas production and build pipelines",
+       "topic": "energy",
+       "topics": [
+        "energy"
+       ],
+       "url": "https://rocklandnews.com/lawler-conley-debate-pix-11-oct2026/",
+       "date": "2026-10-18"
+      },
+      {
+       "text": "Back federal legislation to end sanctuary policies",
+       "topic": "immigration",
+       "topics": [
+        "immigration"
+       ],
+       "url": "https://www.cbsnews.com/newyork/news/mike-lawler-cait-conley-debate-new-york-17th-congressional-district/",
+       "date": "2026-09-29"
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ],
+   "area": {
+    "type": "race",
+    "id": "US-HOUSE-NY-17",
+    "state": "NY",
+    "county": "",
+    "who_votes": "Voters in U.S. House"
+   }
+  },
+  {
+   "race": "U.S. House, OH-7",
+   "level": "federal",
+   "section": "national",
+   "race_id": "US-HOUSE-OH-7",
+   "note": "",
+   "candidates": [
+    {
+     "name": "Brian Poindexter",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "Ban members of Congress from trading stocks and ban dark money in politics",
+       "topic": "ethics",
+       "topics": [
+        "ethics"
+       ],
+       "url": "https://www.ashlandsource.com/2026/10/24/poindexter-seeks-to-represent-ashland-county-in-ohios-7th-congressional-district/",
+       "date": "2026-10-24"
+      },
+      {
+       "text": "Work to end the war in Iran to bring down gas and living costs",
+       "topic": "foreign policy / cost of living",
+       "topics": [
+        "foreign policy",
+        "cost of living"
+       ],
+       "url": "https://www.ashlandsource.com/2026/10/24/poindexter-seeks-to-represent-ashland-county-in-ohios-7th-congressional-district/",
+       "date": "2026-10-24"
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ],
+   "area": {
+    "type": "race",
+    "id": "US-HOUSE-OH-7",
+    "state": "OH",
+    "county": "",
+    "who_votes": "Voters in U.S. House"
+   }
+  },
+  {
+   "race": "U.S. House, PA-8",
+   "level": "federal",
+   "section": "national",
+   "race_id": "US-HOUSE-PA-8",
+   "note": "",
+   "candidates": [
+    {
+     "name": "Paige Cognetti",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "Propose legislation banning corporate PAC donations to federal campaigns and support an amendment to reverse Citizens United",
+       "topic": "campaign finance",
+       "topics": [
+        "campaign finance"
+       ],
+       "url": "https://www.spotlightpa.org/news/2026/10/bresnahan-cognetti-midterm-election-campaign-finance-anticorruption-elections/",
+       "date": "2026-10-15"
+      },
+      {
+       "text": "Push to permanently ban members of Congress from becoming lobbyists",
+       "topic": "ethics",
+       "topics": [
+        "ethics"
+       ],
+       "url": "https://www.spotlightpa.org/news/2026/10/bresnahan-cognetti-midterm-election-campaign-finance-anticorruption-elections/",
+       "date": "2026-10-15"
+      },
+      {
+       "text": "Fight for a constitutional amendment setting congressional term limits, including 18 years for House members",
+       "topic": "government reform",
+       "topics": [
+        "government reform"
+       ],
+       "url": "https://www.spotlightpa.org/news/2026/10/bresnahan-cognetti-midterm-election-campaign-finance-anticorruption-elections/",
+       "date": "2026-10-15"
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Rob Bresnahan Jr.",
+     "party": "Republican",
+     "promises": [
+      {
+       "text": "Ban members of Congress from trading stocks",
+       "topic": "ethics",
+       "topics": [
+        "ethics"
+       ],
+       "url": "https://www.spotlightpa.org/news/2026/10/bresnahan-cognetti-midterm-election-campaign-finance-anticorruption-elections/",
+       "date": "2026-10-15"
+      },
+      {
+       "text": "Co-sponsor and vote for a constitutional amendment limiting House members to three terms",
+       "topic": "government reform",
+       "topics": [
+        "government reform"
+       ],
+       "url": "https://www.spotlightpa.org/news/2026/10/bresnahan-cognetti-midterm-election-campaign-finance-anticorruption-elections/",
+       "date": "2026-10-15"
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ],
+   "area": {
+    "type": "race",
+    "id": "US-HOUSE-PA-8",
+    "state": "PA",
+    "county": "",
+    "who_votes": "Voters in U.S. House"
+   }
+  },
+  {
+   "race": "U.S. House, TX-15",
+   "level": "federal",
+   "section": "national",
+   "race_id": "US-HOUSE-TX-15",
+   "note": "",
+   "candidates": [
+    {
+     "name": "Monica De La Cruz",
+     "party": "Republican",
+     "promises": [
+      {
+       "text": "Pass the bipartisan Dignity Act and her legislation helping DACA recipients and farmworkers, while focusing enforcement on cartels and criminals",
+       "topic": "immigration",
+       "topics": [
+        "immigration"
+       ],
+       "url": "https://www.krgv.com/news/cost-of-living-border-policy-take-center-stage-in-texas-district-15-race/",
+       "date": "2026-10-22"
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Bobby Pulido",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "Make lowering health care costs a priority",
+       "topic": "health care",
+       "topics": [
+        "health care"
+       ],
+       "url": "https://www.krgv.com/news/cost-of-living-border-policy-take-center-stage-in-texas-district-15-race/",
+       "date": "2026-10-22"
+      },
+      {
+       "text": "Push to pull funding from the current deportation force over how it is being used",
+       "topic": "immigration",
+       "topics": [
+        "immigration"
+       ],
+       "url": "https://www.krgv.com/news/cost-of-living-border-policy-take-center-stage-in-texas-district-15-race/",
+       "date": "2026-10-22"
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ],
+   "area": {
+    "type": "race",
+    "id": "US-HOUSE-TX-15",
+    "state": "TX",
+    "county": "",
+    "who_votes": "Voters in U.S. House"
+   }
+  },
+  {
+   "race": "U.S. House, TX-35",
+   "level": "federal",
+   "section": "national",
+   "race_id": "US-HOUSE-TX-35",
+   "note": "",
+   "candidates": [
+    {
+     "name": "Carlos De La Cruz",
+     "party": "Republican",
+     "promises": [
+      {
+       "text": "Seek a seat on the House Armed Services Committee to protect San Antonio's military installations",
+       "topic": "military",
+       "topics": [
+        "military"
+       ],
+       "url": "https://sanantonioreport.org/tx35-candidates-meet-for-only-forum-before-election/",
+       "date": "2026-10-09"
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ],
+   "area": {
+    "type": "race",
+    "id": "US-HOUSE-TX-35",
+    "state": "TX",
+    "county": "",
+    "who_votes": "Voters in U.S. House"
+   }
+  },
+  {
+   "race": "U.S. House, VA-1",
+   "level": "federal",
+   "section": "national",
+   "race_id": "US-HOUSE-VA-1",
+   "note": "",
+   "candidates": [
+    {
+     "name": "Shannon Taylor",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "Ban congressional stock trading, impose a lifetime lobbying ban on members, mandate jail time for misuse of tax dollars and set term limits",
+       "topic": "ethics",
+       "topics": [
+        "ethics"
+       ],
+       "url": "https://www.vpm.org/elections/2026-09-23/va01-taylor-wittman-candidate-survey/",
+       "date": "2026-09-23"
+      },
+      {
+       "text": "Restore the Affordable Care Act, lower prescription drug costs and restore funding to rural hospitals",
+       "topic": "health care",
+       "topics": [
+        "health care"
+       ],
+       "url": "https://www.vpm.org/elections/2026-09-23/va01-taylor-wittman-candidate-survey/",
+       "date": "2026-09-23"
+      },
+      {
+       "text": "Require data centers to fully cover their own power, water and transmission costs",
+       "topic": "energy / utilities",
+       "topics": [
+        "energy",
+        "utilities"
+       ],
+       "url": "https://www.vpm.org/elections/2026-09-23/va01-taylor-wittman-candidate-survey/",
+       "date": "2026-09-23"
+      },
+      {
+       "text": "Reject contributions from corporate PACs",
+       "topic": "campaign finance",
+       "topics": [
+        "campaign finance"
+       ],
+       "url": "https://www.vpm.org/elections/2026-09-23/va01-taylor-wittman-candidate-survey/",
+       "date": "2026-09-23"
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Rob Wittman",
+     "party": "Republican",
+     "promises": [
+      {
+       "text": "Keep supporting pro-family policies including preserving access to IVF and expanding child care options",
+       "topic": "family policy",
+       "topics": [
+        "family policy"
+       ],
+       "url": "https://www.vpm.org/elections/2026-09-23/va01-taylor-wittman-candidate-survey/",
+       "date": "2026-09-23"
+      },
+      {
+       "text": "Require data center developers to pay for the infrastructure and energy their facilities need",
+       "topic": "energy / utilities",
+       "topics": [
+        "energy",
+        "utilities"
+       ],
+       "url": "https://www.vpm.org/elections/2026-09-23/va01-taylor-wittman-candidate-survey/",
+       "date": "2026-09-23"
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ],
+   "area": {
+    "type": "race",
+    "id": "US-HOUSE-VA-1",
+    "state": "VA",
+    "county": "",
+    "who_votes": "Voters in U.S. House"
+   }
+  },
+  {
+   "race": "U.S. House, FL-14",
+   "level": "federal",
+   "section": "national",
+   "race_id": "US-HOUSE-FL-14",
+   "note": "",
+   "candidates": [
+    {
+     "name": "Mike Beltran",
+     "party": "Republican",
+     "promises": [
+      {
+       "text": "Vote to eliminate federal sugar price supports",
+       "topic": "agriculture / economy",
+       "topics": [
+        "agriculture",
+        "economy"
+       ],
+       "url": "https://www.fox13news.com/news/one-on-one-mike-beltran-ending-sugar-subsidies-flood-insurance-restricting-federal-power",
+       "date": "2026-10-08"
+      },
+      {
+       "text": "Pursue a constitutional amendment to end birthright citizenship for children of people here unlawfully and birth tourism",
+       "topic": "immigration",
+       "topics": [
+        "immigration"
+       ],
+       "url": "https://www.fox13news.com/news/one-on-one-mike-beltran-ending-sugar-subsidies-flood-insurance-restricting-federal-power",
+       "date": "2026-10-08"
+      },
+      {
+       "text": "Protect Social Security benefits without raising payroll taxes or the retirement age",
+       "topic": "Social Security",
+       "topics": [
+        "social security"
+       ],
+       "url": "https://www.fox13news.com/news/one-on-one-mike-beltran-ending-sugar-subsidies-flood-insurance-restricting-federal-power",
+       "date": "2026-10-08"
+      },
+      {
+       "text": "Vote against any federal abortion ban",
+       "topic": "abortion",
+       "topics": [
+        "abortion"
+       ],
+       "url": "https://www.fox13news.com/news/one-on-one-mike-beltran-ending-sugar-subsidies-flood-insurance-restricting-federal-power",
+       "date": "2026-10-08"
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Kathy Castor",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "Push for more federal involvement in mass transit",
+       "topic": "transportation",
+       "topics": [
+        "transportation"
+       ],
+       "url": "https://www.wusf.org/politics-issues/2026-10-17/kathy-castor-mike-beltran-square-off-in-a-rare-debate-for-congress",
+       "date": "2026-10-17"
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ],
+   "area": {
+    "type": "race",
+    "id": "US-HOUSE-FL-14",
+    "state": "FL",
+    "county": "",
+    "who_votes": "Voters in U.S. House"
+   }
   }
  ],
  "races_without_promises": [
@@ -10523,9 +11007,9 @@
   "repo": "botlotician/botlotician.github.io"
  },
  "stats": {
-  "candidate_promises": 724,
-  "national_promises": 584,
-  "races": 101,
-  "candidates": 208
+  "candidate_promises": 754,
+  "national_promises": 614,
+  "races": 108,
+  "candidates": 220
  }
 }
