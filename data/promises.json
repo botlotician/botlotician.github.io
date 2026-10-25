@@ -8453,6 +8453,445 @@
     "county": "",
     "who_votes": "All DC voters"
    }
+  },
+  {
+   "race": "U.S. Senate, Illinois",
+   "level": "federal",
+   "section": "national",
+   "race_id": "US-SEN-IL",
+   "note": "",
+   "candidates": [
+    {
+     "name": "Juliana Stratton",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "Raise the federal minimum wage to $25 an hour and support a millionaire's tax",
+       "topic": "wages / taxes",
+       "topics": [
+        "wages",
+        "taxes"
+       ],
+       "url": "https://www.nprillinois.org/government-politics/2026-10-21/key-takeaways-from-the-only-senate-debate-between-juliana-stratton-and-don-tracy",
+       "date": "2026-10-21"
+      },
+      {
+       "text": "Fight to make sure refunds of the tariffs the Supreme Court struck down go to people, not corporations",
+       "topic": "trade",
+       "topics": [
+        "trade"
+       ],
+       "url": "https://www.nprillinois.org/government-politics/2026-10-21/key-takeaways-from-the-only-senate-debate-between-juliana-stratton-and-don-tracy",
+       "date": "2026-10-21"
+      },
+      {
+       "text": "Abolish ICE and create a path to legal citizenship, including for Dreamers",
+       "topic": "immigration",
+       "topics": [
+        "immigration"
+       ],
+       "url": "https://www.nprillinois.org/government-politics/2026-10-21/key-takeaways-from-the-only-senate-debate-between-juliana-stratton-and-don-tracy",
+       "date": "2026-10-21"
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Don Tracy",
+     "party": "Republican",
+     "promises": [
+      {
+       "text": "Cut wasteful federal spending to lower taxes and inflation, and back an all-of-the-above energy policy to cut utility costs",
+       "topic": "taxes / energy",
+       "topics": [
+        "taxes",
+        "energy"
+       ],
+       "url": "https://dontracyforil.com/lower-the-cost-of-living/",
+       "date": "2026-10"
+      },
+      {
+       "text": "Push health care price transparency and competition to cut insurance and prescription costs",
+       "topic": "health care",
+       "topics": [
+        "health care"
+       ],
+       "url": "https://dontracyforil.com/lower-the-cost-of-living/",
+       "date": "2026-10"
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ],
+   "area": {
+    "type": "race",
+    "id": "US-SEN-IL",
+    "state": "IL",
+    "county": "",
+    "who_votes": "All IL voters"
+   }
+  },
+  {
+   "race": "U.S. Senate, Kentucky",
+   "level": "federal",
+   "section": "national",
+   "race_id": "US-SEN-KY",
+   "note": "",
+   "candidates": [
+    {
+     "name": "Andy Barr",
+     "party": "Republican",
+     "promises": [
+      {
+       "text": "Back legislation forbidding data centers from passing their costs on to consumers, and let communities decide whether to host them",
+       "topic": "energy",
+       "topics": [
+        "energy"
+       ],
+       "url": "https://www.wkyt.com/2026/10/20/what-barr-booker-had-say-their-faceoff-issues/",
+       "date": "2026-10-19"
+      },
+      {
+       "text": "Protect Medicare for seniors and keep immigrants in the country illegally and fraudsters off it",
+       "topic": "health care",
+       "topics": [
+        "health care"
+       ],
+       "url": "https://www.wkyt.com/2026/10/20/what-barr-booker-had-say-their-faceoff-issues/",
+       "date": "2026-10-19"
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Charles Booker",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "Give everyone the same health care members of Congress receive",
+       "topic": "health care",
+       "topics": [
+        "health care"
+       ],
+       "url": "https://www.wkyt.com/2026/10/20/what-barr-booker-had-say-their-faceoff-issues/",
+       "date": "2026-10-19"
+      },
+      {
+       "text": "Support congressional term limits and bar politicians from getting rich in office",
+       "topic": "ethics",
+       "topics": [
+        "ethics"
+       ],
+       "url": "https://www.wkyt.com/2026/10/20/what-barr-booker-had-say-their-faceoff-issues/",
+       "date": "2026-10-19"
+      },
+      {
+       "text": "Bring U.S. troops home from the Iran war",
+       "topic": "foreign policy",
+       "topics": [
+        "foreign policy"
+       ],
+       "url": "https://www.wkyt.com/2026/10/20/what-barr-booker-had-say-their-faceoff-issues/",
+       "date": "2026-10-19"
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ],
+   "area": {
+    "type": "race",
+    "id": "US-SEN-KY",
+    "state": "KY",
+    "county": "",
+    "who_votes": "All KY voters"
+   }
+  },
+  {
+   "race": "U.S. Senate, Minnesota",
+   "level": "federal",
+   "section": "national",
+   "race_id": "US-SEN-MN",
+   "note": "",
+   "candidates": [
+    {
+     "name": "Peggy Flanagan",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "Lift the Social Security payroll tax cap for earnings above $250,000 and support the Social Security Expansion Act",
+       "topic": "Social Security",
+       "topics": [
+        "social security"
+       ],
+       "url": "https://www.mprnews.org/story/2026/10/16/peggy-flanagan-michele-tafoya-debate-ahead-of-minnesota-us-senate-election",
+       "date": "2026-10-16"
+      },
+      {
+       "text": "Vote to end the war in Iran",
+       "topic": "foreign policy",
+       "topics": [
+        "foreign policy"
+       ],
+       "url": "https://www.mprnews.org/story/2026/10/16/peggy-flanagan-michele-tafoya-debate-ahead-of-minnesota-us-senate-election",
+       "date": "2026-10-16"
+      },
+      {
+       "text": "Replace ICE with a system built on secure borders, due process and a path to citizenship for law-abiding long-term residents",
+       "topic": "immigration",
+       "topics": [
+        "immigration"
+       ],
+       "url": "https://www.mprnews.org/story/2026/10/16/peggy-flanagan-michele-tafoya-debate-ahead-of-minnesota-us-senate-election",
+       "date": "2026-10-16"
+      },
+      {
+       "text": "Oppose additional U.S. military aid to Israel under Netanyahu's government",
+       "topic": "foreign policy",
+       "topics": [
+        "foreign policy"
+       ],
+       "url": "https://www.mprnews.org/story/2026/10/16/peggy-flanagan-michele-tafoya-debate-ahead-of-minnesota-us-senate-election",
+       "date": "2026-10-16"
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Michele Tafoya",
+     "party": "Republican",
+     "promises": [
+      {
+       "text": "Vote to confirm conservative, strict-constructionist judges and oppose taxpayer funding of abortion, while not seeking to change Minnesota's abortion law",
+       "topic": "abortion / courts",
+       "topics": [
+        "abortion",
+        "courts"
+       ],
+       "url": "https://www.mprnews.org/story/2026/10/16/peggy-flanagan-michele-tafoya-debate-ahead-of-minnesota-us-senate-election",
+       "date": "2026-10-16"
+      },
+      {
+       "text": "Support term limits of two or three terms for U.S. senators",
+       "topic": "governance",
+       "topics": [
+        "governance"
+       ],
+       "url": "https://www.mprnews.org/story/2026/10/16/peggy-flanagan-michele-tafoya-debate-ahead-of-minnesota-us-senate-election",
+       "date": "2026-10-16"
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ],
+   "area": {
+    "type": "race",
+    "id": "US-SEN-MN",
+    "state": "MN",
+    "county": "",
+    "who_votes": "All MN voters"
+   }
+  },
+  {
+   "race": "U.S. Senate, Massachusetts",
+   "level": "federal",
+   "section": "national",
+   "race_id": "US-SEN-MA",
+   "note": "",
+   "candidates": [
+    {
+     "name": "Edward J. Markey",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "Keep pushing to pass Medicare for All",
+       "topic": "health care",
+       "topics": [
+        "health care"
+       ],
+       "url": "https://www.wbur.org/news/2026/10/14/senate-markey-deaton-debate-trump-healthcare-energy-massachusetts",
+       "date": "2026-10-14"
+      },
+      {
+       "text": "Reverse the administration's cancellation of offshore wind projects and pass the Green New Deal",
+       "topic": "energy",
+       "topics": [
+        "energy"
+       ],
+       "url": "https://www.wbur.org/news/2026/10/14/senate-markey-deaton-debate-trump-healthcare-energy-massachusetts",
+       "date": "2026-10-14"
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "John Deaton",
+     "party": "Republican",
+     "promises": [
+      {
+       "text": "Lower health care costs by breaking up big insurance companies",
+       "topic": "health care",
+       "topics": [
+        "health care"
+       ],
+       "url": "https://www.wbur.org/news/2026/10/14/senate-markey-deaton-debate-trump-healthcare-energy-massachusetts",
+       "date": "2026-10-14"
+      },
+      {
+       "text": "Add four small modular nuclear reactors and expand natural gas in Massachusetts to cut energy costs in half",
+       "topic": "energy",
+       "topics": [
+        "energy"
+       ],
+       "url": "https://www.wbur.org/news/2026/10/14/senate-markey-deaton-debate-trump-healthcare-energy-massachusetts",
+       "date": "2026-10-14"
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ],
+   "area": {
+    "type": "race",
+    "id": "US-SEN-MA",
+    "state": "MA",
+    "county": "",
+    "who_votes": "All MA voters"
+   }
+  },
+  {
+   "race": "U.S. Senate, New Jersey",
+   "level": "federal",
+   "section": "national",
+   "race_id": "US-SEN-NJ",
+   "note": "",
+   "candidates": [
+    {
+     "name": "Cory Booker",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "Push to end the Iran war, using military force only as a last resort after diplomacy",
+       "topic": "foreign policy",
+       "topics": [
+        "foreign policy"
+       ],
+       "url": "https://newjerseymonitor.com/2026/10/08/cory-booker-justin-murphy-senate-debate/",
+       "date": "2026-10-08"
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Justin Murphy",
+     "party": "Republican",
+     "promises": [
+      {
+       "text": "Limit tech platforms' ability to control speech, treating it as a First Amendment issue",
+       "topic": "technology",
+       "topics": [
+        "technology"
+       ],
+       "url": "https://newjerseymonitor.com/2026/10/08/cory-booker-justin-murphy-senate-debate/",
+       "date": "2026-10-08"
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ],
+   "area": {
+    "type": "race",
+    "id": "US-SEN-NJ",
+    "state": "NJ",
+    "county": "",
+    "who_votes": "All NJ voters"
+   }
+  },
+  {
+   "race": "U.S. Senate, Virginia",
+   "level": "federal",
+   "section": "national",
+   "race_id": "US-SEN-VA",
+   "note": "",
+   "candidates": [
+    {
+     "name": "Mark Warner",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "Pass his legislation requiring data centers to disclose energy and water use and pay for the grid upgrades they need instead of passing costs to residents",
+       "topic": "energy",
+       "topics": [
+        "energy"
+       ],
+       "url": "https://www.cvilletomorrow.org/qa-for-u-s-senate-shows-virginias-warner-and-mizusawa-agree-data-centers-are-a-problem-but-theyd-fix-it-differently/",
+       "date": "2026-09-18"
+      },
+      {
+       "text": "Push the Keeping Obstetrics Local Act and Save Struggling Hospitals Act to raise Medicaid and federal payments to rural hospitals",
+       "topic": "health care",
+       "topics": [
+        "health care"
+       ],
+       "url": "https://www.cvilletomorrow.org/qa-for-u-s-senate-shows-virginias-warner-and-mizusawa-agree-data-centers-are-a-problem-but-theyd-fix-it-differently/",
+       "date": "2026-09-18"
+      },
+      {
+       "text": "Pass the LIFT Act, offering first-generation homebuyers a 20-year mortgage at payments similar to a 30-year loan",
+       "topic": "housing",
+       "topics": [
+        "housing"
+       ],
+       "url": "https://www.cvilletomorrow.org/qa-for-u-s-senate-shows-virginias-warner-and-mizusawa-agree-data-centers-are-a-problem-but-theyd-fix-it-differently/",
+       "date": "2026-09-18"
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Bert Mizusawa",
+     "party": "Republican",
+     "promises": [
+      {
+       "text": "Eliminate the capital gains tax on the sale of a person's home",
+       "topic": "taxes / housing",
+       "topics": [
+        "taxes",
+        "housing"
+       ],
+       "url": "https://www.cvilletomorrow.org/qa-for-u-s-senate-shows-virginias-warner-and-mizusawa-agree-data-centers-are-a-problem-but-theyd-fix-it-differently/",
+       "date": "2026-09-18"
+      },
+      {
+       "text": "Support letting local communities veto AI data centers, and rapidly deploy newer nuclear reactors",
+       "topic": "energy",
+       "topics": [
+        "energy"
+       ],
+       "url": "https://www.cvilletomorrow.org/qa-for-u-s-senate-shows-virginias-warner-and-mizusawa-agree-data-centers-are-a-problem-but-theyd-fix-it-differently/",
+       "date": "2026-09-18"
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ],
+   "area": {
+    "type": "race",
+    "id": "US-SEN-VA",
+    "state": "VA",
+    "county": "",
+    "who_votes": "All VA voters"
+   }
   }
  ],
  "races_without_promises": [
@@ -8482,9 +8921,9 @@
   "repo": "botlotician/botlotician.github.io"
  },
  "stats": {
-  "candidate_promises": 597,
-  "national_promises": 457,
-  "races": 73,
-  "candidates": 156
+  "candidate_promises": 624,
+  "national_promises": 484,
+  "races": 79,
+  "candidates": 168
  }
 }
