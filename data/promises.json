@@ -8066,6 +8066,393 @@
     "county": "",
     "who_votes": "All ID voters"
    }
+  },
+  {
+   "race": "Governor, Oklahoma",
+   "level": "statewide",
+   "section": "national",
+   "race_id": "GOV-OK",
+   "note": "",
+   "candidates": [
+    {
+     "name": "Mike Mazzei",
+     "party": "Republican",
+     "promises": [
+      {
+       "text": "Make Oklahoma a no-income-tax state within six years, starting by cutting the top rate from 4.5% to 3% in year one",
+       "topic": "taxes",
+       "topics": [
+        "taxes"
+       ],
+       "url": "https://www.newson6.com/oklahoma-elections/mike-mazzei-priorities-governor-oklahoma",
+       "date": "2026-10"
+      },
+      {
+       "text": "Eliminate property taxes for seniors 65 and older and for veterans",
+       "topic": "taxes",
+       "topics": [
+        "taxes"
+       ],
+       "url": "https://www.news9.com/oklahoma-elections/mike-mazzei-cyndi-munson-oklahoma-governor-key-issues",
+       "date": "2026-10"
+      },
+      {
+       "text": "Create an Office of State Finance and Fiscal Responsibility to act on audit findings and cut waste",
+       "topic": "budget",
+       "topics": [
+        "budget"
+       ],
+       "url": "https://www.newson6.com/oklahoma-elections/mike-mazzei-priorities-governor-oklahoma",
+       "date": "2026-10"
+      },
+      {
+       "text": "Hire a statewide literacy director and adopt a third-grade reading gate",
+       "topic": "education",
+       "topics": [
+        "education"
+       ],
+       "url": "https://www.news9.com/oklahoma-elections/oklahoma-mazzei-munson-governor-election-education",
+       "date": "2026-10"
+      },
+      {
+       "text": "Require data centers to get no taxpayer funding, use industrial land, use closed-loop cooling and supply their own electricity",
+       "topic": "energy",
+       "topics": [
+        "energy"
+       ],
+       "url": "https://www.newson6.com/oklahoma-elections/mike-mazzei-priorities-governor-oklahoma",
+       "date": "2026-10"
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Cyndi Munson",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "Sign a day-one executive order pausing new data center projects",
+       "topic": "energy",
+       "topics": [
+        "energy"
+       ],
+       "url": "https://www.news9.com/oklahoma-elections/cyndi-munson-priorities-governor-oklahoma",
+       "date": "2026-10"
+      },
+      {
+       "text": "Repeal the Parental Choice tax credit voucher, expand Oklahoma's Promise and provide free school meals",
+       "topic": "education",
+       "topics": [
+        "education"
+       ],
+       "url": "https://www.news9.com/oklahoma-elections/mike-mazzei-cyndi-munson-oklahoma-governor-key-issues",
+       "date": "2026-10"
+      },
+      {
+       "text": "Target tax relief to working families by modernizing the Sales Tax Relief Credit and raising Earned Income Tax Credit refunds",
+       "topic": "taxes",
+       "topics": [
+        "taxes"
+       ],
+       "url": "https://www.newson6.com/oklahoma-politics/oklahoma-mazzei-munson-tax-plans",
+       "date": "2026-10"
+      },
+      {
+       "text": "Make sure federal grants reach small rural hospitals",
+       "topic": "health care",
+       "topics": [
+        "health care"
+       ],
+       "url": "https://www.news9.com/oklahoma-elections/cyndi-munson-priorities-governor-oklahoma",
+       "date": "2026-10"
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ],
+   "area": {
+    "type": "race",
+    "id": "GOV-OK",
+    "state": "OK",
+    "county": "",
+    "who_votes": "All OK voters"
+   }
+  },
+  {
+   "race": "Governor, South Dakota",
+   "level": "statewide",
+   "section": "national",
+   "race_id": "GOV-SD",
+   "note": "",
+   "candidates": [
+    {
+     "name": "Dan Ahlers",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "Create a child care tax credit or a per-child rebate for families",
+       "topic": "child care",
+       "topics": [
+        "child care"
+       ],
+       "url": "https://www.sdpb.org/elections/2026-09-28/rhoden-ahlers-discuss-affordability-water-infrastructure-and-other-issues-at-sdpb-sd-news-watch-debate",
+       "date": "2026-09-28"
+      },
+      {
+       "text": "Build water conservation into new state buildings and schools, and tighten water-pollution safeguards on mining",
+       "topic": "environment",
+       "topics": [
+        "environment"
+       ],
+       "url": "https://www.sdpb.org/elections/2026-09-28/rhoden-ahlers-discuss-affordability-water-infrastructure-and-other-issues-at-sdpb-sd-news-watch-debate",
+       "date": "2026-09-28"
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ],
+   "area": {
+    "type": "race",
+    "id": "GOV-SD",
+    "state": "SD",
+    "county": "",
+    "who_votes": "All SD voters"
+   }
+  },
+  {
+   "race": "Governor, Vermont",
+   "level": "statewide",
+   "section": "national",
+   "race_id": "GOV-VT",
+   "note": "",
+   "candidates": [
+    {
+     "name": "Phil Scott",
+     "party": "Republican",
+     "promises": [
+      {
+       "text": "Propose a slate of tax cuts or credits to the Legislature if reelected",
+       "topic": "taxes",
+       "topics": [
+        "taxes"
+       ],
+       "url": "https://vtdigger.org/2026/10/22/5-takeaways-from-phil-scott-and-amanda-janoos-first-debate-of-the-campaign/",
+       "date": "2026-10-21"
+      },
+      {
+       "text": "Follow through on education reform that right-sizes the pre-K-12 system for declining enrollment",
+       "topic": "education",
+       "topics": [
+        "education"
+       ],
+       "url": "https://www.vermontpublic.org/local-news/2026-10-21/phil-scott-amanda-janoo-vermont-governor-debate",
+       "date": "2026-10-21"
+      },
+      {
+       "text": "Consider siting a small-scale nuclear plant in Vermont",
+       "topic": "energy",
+       "topics": [
+        "energy"
+       ],
+       "url": "https://www.vermontpublic.org/local-news/2026-10-21/phil-scott-amanda-janoo-vermont-governor-debate",
+       "date": "2026-10-21"
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Amanda Janoo",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "Provide free universal primary and preventive health care, paid for by income tax surcharges on people earning over $250,000",
+       "topic": "health care / taxes",
+       "topics": [
+        "health care",
+        "taxes"
+       ],
+       "url": "https://www.vermontpublic.org/local-news/2026-10-21/phil-scott-amanda-janoo-vermont-governor-debate",
+       "date": "2026-10-21"
+      },
+      {
+       "text": "Invest in wraparound services in schools rather than school consolidation",
+       "topic": "education",
+       "topics": [
+        "education"
+       ],
+       "url": "https://www.vermontpublic.org/local-news/2026-10-21/phil-scott-amanda-janoo-vermont-governor-debate",
+       "date": "2026-10-21"
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ],
+   "area": {
+    "type": "race",
+    "id": "GOV-VT",
+    "state": "VT",
+    "county": "",
+    "who_votes": "All VT voters"
+   }
+  },
+  {
+   "race": "Governor, Wyoming",
+   "level": "statewide",
+   "section": "national",
+   "race_id": "GOV-WY",
+   "note": "",
+   "candidates": [
+    {
+     "name": "Eric Barlow",
+     "party": "Republican",
+     "promises": [
+      {
+       "text": "Adopt cash-based budgeting and scale back duplicative or underperforming programs",
+       "topic": "budget",
+       "topics": [
+        "budget"
+       ],
+       "url": "https://projects.wyofile.com/election-guide-2026/candidates/barlow-eric/",
+       "date": "2026-06"
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Ken Casner",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "Bring universal health care to Wyoming",
+       "topic": "health care",
+       "topics": [
+        "health care"
+       ],
+       "url": "https://www.wyomingpublicmedia.org/open-spaces/2026-10-02/governor-candidates-highlight-top-issues-facing-wyoming",
+       "date": "2026-10-02"
+      },
+      {
+       "text": "Open up elections so independent candidates and voters outside the parties can take part more easily",
+       "topic": "elections",
+       "topics": [
+        "elections"
+       ],
+       "url": "https://www.wyomingpublicmedia.org/open-spaces/2026-10-02/governor-candidates-highlight-top-issues-facing-wyoming",
+       "date": "2026-10-02"
+      },
+      {
+       "text": "Restructure state taxes around an 8% statewide lodging tax",
+       "topic": "taxes",
+       "topics": [
+        "taxes"
+       ],
+       "url": "https://www.wyomingpublicmedia.org/open-spaces/2026-10-02/governor-candidates-highlight-top-issues-facing-wyoming",
+       "date": "2026-10-02"
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Rebecca Bextel",
+     "party": "Constitution Party",
+     "promises": [
+      {
+       "text": "In her first 100 days, review every executive agency, board and commission plus energy subsidies and tax breaks, and freeze discretionary grants",
+       "topic": "budget",
+       "topics": [
+        "budget"
+       ],
+       "url": "https://www.wyomingpublicmedia.org/open-spaces/2026-10-02/governor-candidates-highlight-top-issues-facing-wyoming",
+       "date": "2026-10-02"
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ],
+   "area": {
+    "type": "race",
+    "id": "GOV-WY",
+    "state": "WY",
+    "county": "",
+    "who_votes": "All WY voters"
+   }
+  },
+  {
+   "race": "Mayor, District of Columbia",
+   "level": "statewide",
+   "section": "national",
+   "race_id": "MAYOR-DC",
+   "note": "",
+   "candidates": [
+    {
+     "name": "Janeese Lewis George",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "Offer universal child care in the District",
+       "topic": "child care",
+       "topics": [
+        "child care"
+       ],
+       "url": "https://www.washingtonpost.com/dc-md-va/2026/01/15/janeese-lewis-george-mayor-launch/",
+       "date": "2026-01-15"
+      },
+      {
+       "text": "Build 72,000 new homes in five years by legalizing dense housing near transit, allowing small apartment buildings up to six units citywide and ending parking requirements",
+       "topic": "housing",
+       "topics": [
+        "housing"
+       ],
+       "url": "https://ggwash.org/view/102946/im-running-for-dc-mayor-to-build-more-housing-to-lower-costs",
+       "date": "2026-04-02"
+      },
+      {
+       "text": "Set a \"shot clock\" on permit reviews and offer pre-approved designs for missing-middle housing",
+       "topic": "housing",
+       "topics": [
+        "housing"
+       ],
+       "url": "https://ggwash.org/view/102946/im-running-for-dc-mayor-to-build-more-housing-to-lower-costs",
+       "date": "2026-04-02"
+      },
+      {
+       "text": "Establish a Federal Workforce Transition Center to reskill displaced federal employees and contractors",
+       "topic": "jobs",
+       "topics": [
+        "jobs"
+       ],
+       "url": "https://janeesefordc.com/platform/good-jobs-for-all/",
+       "date": "2026-10"
+      },
+      {
+       "text": "Create Community Hubs in all eight wards connecting residents to job programs and mental health services",
+       "topic": "public safety",
+       "topics": [
+        "public safety"
+       ],
+       "url": "https://janeesefordc.com/platform/safe-communities-for-all/",
+       "date": "2026-10"
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ],
+   "area": {
+    "type": "race",
+    "id": "MAYOR-DC",
+    "state": "DC",
+    "county": "",
+    "who_votes": "All DC voters"
+   }
   }
  ],
  "races_without_promises": [
@@ -8095,9 +8482,9 @@
   "repo": "botlotician/botlotician.github.io"
  },
  "stats": {
-  "candidate_promises": 571,
-  "national_promises": 431,
-  "races": 68,
-  "candidates": 147
+  "candidate_promises": 597,
+  "national_promises": 457,
+  "races": 73,
+  "candidates": 156
  }
 }
