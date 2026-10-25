@@ -7701,6 +7701,371 @@
     "county": "",
     "who_votes": "All SC voters"
    }
+  },
+  {
+   "race": "Governor, Arkansas",
+   "level": "statewide",
+   "section": "national",
+   "race_id": "GOV-AR",
+   "note": "",
+   "candidates": [
+    {
+     "name": "Sarah Huckabee Sanders",
+     "party": "Republican",
+     "promises": [
+      {
+       "text": "Keep \"responsibly\" phasing out the state income tax",
+       "topic": "taxes",
+       "topics": [
+        "taxes"
+       ],
+       "url": "https://arkansasadvocate.com/2026/09/30/arkansas-governor-hopefuls-focus-on-health-education-prisons/",
+       "date": "2026-09-30"
+      },
+      {
+       "text": "Keep working with the Legislature to expand prison capacity, with Franklin County still her preferred site for a new prison",
+       "topic": "public safety",
+       "topics": [
+        "public safety"
+       ],
+       "url": "https://arkansasadvocate.com/2026/09/30/arkansas-governor-hopefuls-focus-on-health-education-prisons/",
+       "date": "2026-09-30"
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Fredrick Love",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "Sign an executive order ending the LEARNS Act school voucher program as one of his first acts",
+       "topic": "education",
+       "topics": [
+        "education"
+       ],
+       "url": "https://arkansasadvocate.com/2026/09/30/arkansas-governor-hopefuls-focus-on-health-education-prisons/",
+       "date": "2026-09-30"
+      },
+      {
+       "text": "Oppose the Franklin County prison; add reentry planning, fair pay to county jails for state inmates and more beds at the state mental hospital",
+       "topic": "public safety",
+       "topics": [
+        "public safety"
+       ],
+       "url": "https://arkansasadvocate.com/2026/09/30/arkansas-governor-hopefuls-focus-on-health-education-prisons/",
+       "date": "2026-09-30"
+      },
+      {
+       "text": "Increase Medicaid enrollment and require companies recruited with state incentives to pay affordable wages",
+       "topic": "health care / jobs",
+       "topics": [
+        "health care",
+        "jobs"
+       ],
+       "url": "https://arkansasadvocate.com/2026/09/30/arkansas-governor-hopefuls-focus-on-health-education-prisons/",
+       "date": "2026-09-30"
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Colt Shelby",
+     "party": "Libertarian",
+     "promises": [
+      {
+       "text": "Eliminate the sales tax on used cars and raise the state standard deduction to match the federal one",
+       "topic": "taxes",
+       "topics": [
+        "taxes"
+       ],
+       "url": "https://arkansasadvocate.com/2026/09/30/arkansas-governor-hopefuls-focus-on-health-education-prisons/",
+       "date": "2026-09-30"
+      },
+      {
+       "text": "Add income limits to the school voucher program and amend the Protect Arkansas Act",
+       "topic": "education / public safety",
+       "topics": [
+        "education",
+        "public safety"
+       ],
+       "url": "https://arkansasadvocate.com/2026/09/30/arkansas-governor-hopefuls-focus-on-health-education-prisons/",
+       "date": "2026-09-30"
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ],
+   "area": {
+    "type": "race",
+    "id": "GOV-AR",
+    "state": "AR",
+    "county": "",
+    "who_votes": "All AR voters"
+   }
+  },
+  {
+   "race": "Governor, Connecticut",
+   "level": "statewide",
+   "section": "national",
+   "race_id": "GOV-CT",
+   "note": "",
+   "candidates": [
+    {
+     "name": "Ned Lamont",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "Make affordability a standard in setting utility profits, require cost-benefit reviews before major infrastructure costs go on bills, and strengthen the Office of Consumer Counsel",
+       "topic": "energy",
+       "topics": [
+        "energy"
+       ],
+       "url": "https://sixstatesignal.com/articles/lamont-and-fazio-offer-different-routes-to-lower-electric-bills",
+       "date": "2026-10-16"
+      },
+      {
+       "text": "Build housing near transit and jobs, including workforce and middle-income housing on underused properties",
+       "topic": "housing",
+       "topics": [
+        "housing"
+       ],
+       "url": "https://sixstatesignal.com/articles/lamont-and-fazio-offer-different-routes-to-lower-electric-bills",
+       "date": "2026-10-16"
+      },
+      {
+       "text": "Create a health care assessment on large employers whose workers are on Medicaid, to support insurance affordability",
+       "topic": "health care",
+       "topics": [
+        "health care"
+       ],
+       "url": "https://sixstatesignal.com/articles/lamont-and-fazio-offer-different-routes-to-lower-electric-bills",
+       "date": "2026-10-16"
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Ryan Fazio",
+     "party": "Republican",
+     "promises": [
+      {
+       "text": "Cut electric bills 20% by ending or shifting most public-benefits-charge programs and adding natural gas pipeline capacity",
+       "topic": "energy",
+       "topics": [
+        "energy"
+       ],
+       "url": "https://sixstatesignal.com/articles/lamont-and-fazio-offer-different-routes-to-lower-electric-bills",
+       "date": "2026-10-16"
+      },
+      {
+       "text": "Cut income tax rates (2% to 0, 4.5% to 2.5%, 5.5% to 3.5%, 6% to 5%), over $2.5 billion in relief by his fourth year",
+       "topic": "taxes",
+       "topics": [
+        "taxes"
+       ],
+       "url": "https://sixstatesignal.com/articles/lamont-and-fazio-offer-different-routes-to-lower-electric-bills",
+       "date": "2026-10-16"
+      },
+      {
+       "text": "Eliminate \"hidden taxes and fees\" in the largest middle-class tax cut in state history",
+       "topic": "taxes",
+       "topics": [
+        "taxes"
+       ],
+       "url": "https://www.wfsb.com/2026/10/21/lamont-fazio-meet-thursday-first-televised-debate/",
+       "date": "2026-10-22"
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ],
+   "area": {
+    "type": "race",
+    "id": "GOV-CT",
+    "state": "CT",
+    "county": "",
+    "who_votes": "All CT voters"
+   }
+  },
+  {
+   "race": "Governor, Hawaii",
+   "level": "statewide",
+   "section": "national",
+   "race_id": "GOV-HI",
+   "note": "",
+   "candidates": [
+    {
+     "name": "Joshua Green",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "Protect the middle-class income tax cuts and credits; his commitment to that relief is \"firm\"",
+       "topic": "taxes",
+       "topics": [
+        "taxes"
+       ],
+       "url": "https://www.civilbeat.org/2026/07/candidate-qa-governor-josh-green-2/",
+       "date": "2026-07-20"
+      },
+      {
+       "text": "Expand kauhale villages to move people off the streets, and keep cutting red tape to build homes faster",
+       "topic": "housing / homelessness",
+       "topics": [
+        "housing",
+        "homelessness"
+       ],
+       "url": "https://www.civilbeat.org/2026/07/candidate-qa-governor-josh-green-2/",
+       "date": "2026-07-20"
+      },
+      {
+       "text": "Use liquefied natural gas as a bridge to lower electricity bills while scaling up toward 100% renewable energy",
+       "topic": "energy",
+       "topics": [
+        "energy"
+       ],
+       "url": "https://www.civilbeat.org/2026/07/candidate-qa-governor-josh-green-2/",
+       "date": "2026-07-20"
+      },
+      {
+       "text": "Protect the independence of the Ethics and Campaign Spending Commissions and back stronger enforcement and disclosure",
+       "topic": "ethics",
+       "topics": [
+        "ethics"
+       ],
+       "url": "https://www.civilbeat.org/2026/07/candidate-qa-governor-josh-green-2/",
+       "date": "2026-07-20"
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Gary Cordery",
+     "party": "Republican",
+     "promises": [
+      {
+       "text": "Bring in out-of-state auditors to review every state department and use the savings to eliminate the excise tax on food and drugs",
+       "topic": "taxes / budget",
+       "topics": [
+        "taxes",
+        "budget"
+       ],
+       "url": "https://www.hawaiinewsnow.com/2026/10/22/gop-gubernatorial-ticket-targets-government-waste-vaccine-mandates/",
+       "date": "2026-10-21"
+      },
+      {
+       "text": "Build 15,000 single-family homes on state land to sell fee simple for $400,000-$600,000",
+       "topic": "housing",
+       "topics": [
+        "housing"
+       ],
+       "url": "https://www.hawaiinewsnow.com/2026/10/22/gop-gubernatorial-ticket-targets-government-waste-vaccine-mandates/",
+       "date": "2026-10-21"
+      },
+      {
+       "text": "Make support for local housing a condition of new leases for military training lands",
+       "topic": "housing",
+       "topics": [
+        "housing"
+       ],
+       "url": "https://www.hawaiinewsnow.com/2026/10/22/gop-gubernatorial-ticket-targets-government-waste-vaccine-mandates/",
+       "date": "2026-10-21"
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ],
+   "area": {
+    "type": "race",
+    "id": "GOV-HI",
+    "state": "HI",
+    "county": "",
+    "who_votes": "All HI voters"
+   }
+  },
+  {
+   "race": "Governor, Idaho",
+   "level": "statewide",
+   "section": "national",
+   "race_id": "GOV-ID",
+   "note": "",
+   "candidates": [
+    {
+     "name": "Brad Little",
+     "party": "Republican",
+     "promises": [
+      {
+       "text": "Expand Operation No Return and continue tax cuts and investments in infrastructure, education and workforce training",
+       "topic": "public safety / taxes",
+       "topics": [
+        "public safety",
+        "taxes"
+       ],
+       "url": "https://idgop.org/candidate/brad-little-2/",
+       "date": "2026-07"
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "Terri Pickens",
+     "party": "Democratic",
+     "promises": [
+      {
+       "text": "Eliminate the state sales tax on groceries",
+       "topic": "taxes",
+       "topics": [
+        "taxes"
+       ],
+       "url": "https://www.kxly.com/news/idaho-governor-candidates-propose-budget-solutions-ahead-of-upcoming-election/article_64825b7f-64e2-4185-9c5d-ad053152e321.html",
+       "date": "2026-10-19"
+      },
+      {
+       "text": "Raise Idaho's minimum wage to at least $15 an hour",
+       "topic": "wages",
+       "topics": [
+        "wages"
+       ],
+       "url": "https://www.kxly.com/news/idaho-governor-candidates-propose-budget-solutions-ahead-of-upcoming-election/article_64825b7f-64e2-4185-9c5d-ad053152e321.html",
+       "date": "2026-10-19"
+      }
+     ],
+     "note": "",
+     "sources": []
+    },
+    {
+     "name": "John R. Stegner",
+     "party": "Unaffiliated",
+     "promises": [
+      {
+       "text": "Undo the sales tax on groceries and give tax breaks to the lowest-income earners",
+       "topic": "taxes",
+       "topics": [
+        "taxes"
+       ],
+       "url": "https://www.kxly.com/news/idaho-governor-candidates-propose-budget-solutions-ahead-of-upcoming-election/article_64825b7f-64e2-4185-9c5d-ad053152e321.html",
+       "date": "2026-10-19"
+      }
+     ],
+     "note": "",
+     "sources": []
+    }
+   ],
+   "area": {
+    "type": "race",
+    "id": "GOV-ID",
+    "state": "ID",
+    "county": "",
+    "who_votes": "All ID voters"
+   }
   }
  ],
  "races_without_promises": [
@@ -7730,9 +8095,9 @@
   "repo": "botlotician/botlotician.github.io"
  },
  "stats": {
-  "candidate_promises": 547,
-  "national_promises": 407,
-  "races": 64,
-  "candidates": 137
+  "candidate_promises": 571,
+  "national_promises": 431,
+  "races": 68,
+  "candidates": 147
  }
 }

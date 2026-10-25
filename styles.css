@@ -84,3 +84,8 @@ details.group>summary{cursor:pointer;font-weight:700;font-size:1.05rem;margin:18
 .subtitle{margin:-4px 0 10px;font-size:1.05rem;font-weight:600;opacity:.9}
 .cov ul li{margin-bottom:.4rem}
 .cov .cands{color:#334155}
+
+.zip-scorecard{margin:0 0 18px;padding:12px 14px;border:1px solid var(--line);border-radius:10px;background:var(--card)}
+.zip-scorecard .zsc-h{font-size:1.05rem;margin:0 0 4px}
+.zip-scorecard .bar{margin-bottom:4px}
+@media (max-width:560px){.zip-scorecard{padding:10px 0;border-width:1px 0;border-radius:0;background:none}}

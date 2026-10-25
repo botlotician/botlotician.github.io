@@ -340,16 +340,28 @@
     return { html: out.join(""), shown: shown, total: total };
   }
 
-  function renderPresident() {
+  /* President's 2024 scorecard: status count cards + bar, computed from the data (used on the President tab and atop ZIP results) */
+  function scorecard(pressed) {
     var P = DATA.president, out = [];
-    out.push('<p class="muted small">Status of ' + P.total + " promises the current president made during his 2024 campaign, as of " + esc(fmtDate(DATA.president_as_of || PRES_AS_OF)) + ". Ratings mostly follow PolitiFact's MAGA-Meter. Tap a status to filter.</p>");
-    out.push('<div class="counts" role="group" aria-label="Filter by status">');
+    out.push('<div class="counts" role="group" aria-label="Filter the President\'s promises by status">');
     P.status_order.forEach(function (s) {
-      out.push('<button type="button" class="count" data-status="' + esc(s) + '" aria-pressed="' + (state.status === s) + '"><b>' + (P.counts[s] || 0) + '</b><span class="badge s-' + slug(s) + '">' + esc(s) + "</span></button>");
+      out.push('<button type="button" class="count" data-status="' + esc(s) + '" aria-pressed="' + (pressed === s) + '"><b>' + (P.counts[s] || 0) + '</b><span class="badge s-' + slug(s) + '">' + esc(s) + "</span></button>");
     });
     out.push('</div><div class="bar" aria-hidden="true">');
     P.status_order.forEach(function (s) { if (P.counts[s]) out.push('<span class="s-' + slug(s) + '" style="width:' + (100 * P.counts[s] / P.total).toFixed(2) + '%" title="' + esc(s) + ": " + P.counts[s] + '"></span>'); });
     out.push("</div>");
+    return out.join("");
+  }
+  function zipScorecard() {
+    var P = DATA.president;
+    return '<section class="zip-scorecard" aria-labelledby="zsc-h"><h2 id="zsc-h" class="zsc-h">President\'s 2024 promises</h2>' +
+      '<p class="muted small">Status of ' + P.total + " promises the current president made during his 2024 campaign, as of " + esc(fmtDate(DATA.president_as_of || PRES_AS_OF)) + ". Tap a status to see those promises.</p>" + scorecard(null) + "</section>";
+  }
+
+  function renderPresident() {
+    var P = DATA.president, out = [];
+    out.push('<p class="muted small">Status of ' + P.total + " promises the current president made during his 2024 campaign, as of " + esc(fmtDate(DATA.president_as_of || PRES_AS_OF)) + ". Ratings mostly follow PolitiFact's MAGA-Meter. Tap a status to filter.</p>");
+    out.push(scorecard(state.status));
     var list = P.promises.filter(function (p) {
       return (!state.status || p.status === state.status) && (!state.topic || p.topic === state.topic) &&
         matches([p.promise, p.topic, p.made_where, p.status, p.status_note].join(" "));
@@ -395,7 +407,7 @@
       b.setAttribute("aria-selected", on); b.tabIndex = on ? 0 : -1;
     });
     $("panel").setAttribute("aria-labelledby", "tab-" + state.tab);
-    $("panel").innerHTML = state.tab === "president" ? renderPresident() : renderZip();
+    $("panel").innerHTML = state.tab === "president" ? renderPresident() : (state.zipView ? zipScorecard() : "") + renderZip();
   }
   function visibleTabs() { return TABS.filter(function (t) { return !$("tab-" + t).hidden; }); }
   function switchTab(t, push) {
@@ -498,6 +510,12 @@
       var b = e.target.closest(".count");
       if (!b) return;
       var s = b.getAttribute("data-status");
+      if (state.tab !== "president") {
+        switchTab("president", true);
+        state.status = s; $("status").value = s; render();
+        var t = document.querySelector(".tabs"); if (t) t.scrollIntoView({ block: "start" });
+        return;
+      }
       state.status = state.status === s ? "" : s; $("status").value = state.status; render();
     });
     window.addEventListener("hashchange", routeFromHash);
