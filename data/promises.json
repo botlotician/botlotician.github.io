@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-10-25",
+ "last_updated": "2026-10-26",
  "election_date": "2026-11-03",
  "president": {
   "promises": [
@@ -3227,6 +3227,24 @@
        ],
        "url": "https://www.clickondetroit.com/news/local/2026/10/09/el-sayed-rogers-trade-barbs-over-iran-war-gas-prices-in-michigan-senate-debate/",
        "date": "2026-10-09"
+      },
+      {
+       "text": "Make the tax cuts on overtime, tips and Social Security permanent",
+       "topic": "taxes",
+       "topics": [
+        "taxes"
+       ],
+       "url": "https://www.michigandaily.com/news/elections/el-sayed-and-rogers-clash-over-tariffs-education-and-public-safety-at-second-senate-debate/",
+       "date": "2026-10-21"
+      },
+      {
+       "text": "Use federal Title I money for a phonics-based reading program for struggling third and fourth graders",
+       "topic": "education",
+       "topics": [
+        "education"
+       ],
+       "url": "https://www.michigandaily.com/news/elections/el-sayed-and-rogers-clash-over-tariffs-education-and-public-safety-at-second-senate-debate/",
+       "date": "2026-10-21"
       }
      ],
      "note": "",
@@ -3282,6 +3300,24 @@
        ],
        "url": "https://www.nbcnews.com/politics/2026-election/sparks-fly-abdul-el-sayed-mike-rogers-first-michigan-senate-debate-rcna599866",
        "date": "2026-10-09"
+      },
+      {
+       "text": "Fund police retirement, retention and recruitment along with behavioral health response and community violence intervention",
+       "topic": "public safety",
+       "topics": [
+        "public safety"
+       ],
+       "url": "https://www.michigandaily.com/news/elections/el-sayed-and-rogers-clash-over-tariffs-education-and-public-safety-at-second-senate-debate/",
+       "date": "2026-10-21"
+      },
+      {
+       "text": "Create a debt-free, tuition-free pathway to higher education",
+       "topic": "education",
+       "topics": [
+        "education"
+       ],
+       "url": "https://www.michigandaily.com/news/elections/el-sayed-and-rogers-clash-over-tariffs-education-and-public-safety-at-second-senate-debate/",
+       "date": "2026-10-22"
       }
      ],
      "note": "",
@@ -4785,6 +4821,24 @@
        ],
        "url": "https://ballotpedia.org/Tom_Tiffany",
        "date": ""
+      },
+      {
+       "text": "Uphold Wisconsin's law allowing abortion through 20 weeks and not sign a six-week abortion ban",
+       "topic": "abortion",
+       "topics": [
+        "abortion"
+       ],
+       "url": "https://www.nbcnews.com/politics/2026-election/wisconsin-governor-candidates-debate-economy-trump-2020-election-rcna602991",
+       "date": "2026-10-21"
+      },
+      {
+       "text": "Undo recent tax increases and return state surplus dollars to taxpayers",
+       "topic": "taxes",
+       "topics": [
+        "taxes"
+       ],
+       "url": "https://www.nbcnews.com/politics/2026-election/wisconsin-governor-candidates-debate-economy-trump-2020-election-rcna602991",
+       "date": "2026-10-21"
       }
      ],
      "note": "",
@@ -4831,6 +4885,15 @@
        ],
        "url": "https://ballotpedia.org/David_Crowley_(Wisconsin)",
        "date": ""
+      },
+      {
+       "text": "Work with the Legislature to enshrine abortion rights in the Wisconsin constitution",
+       "topic": "abortion",
+       "topics": [
+        "abortion"
+       ],
+       "url": "https://www.nbcnews.com/politics/2026-election/wisconsin-governor-candidates-debate-economy-trump-2020-election-rcna602991",
+       "date": "2026-10-21"
       }
      ],
      "note": "",
@@ -6368,6 +6431,33 @@
        ],
        "url": "https://rhodeislandcurrent.com/voter-guides/contests/2026-general-governor/",
        "date": ""
+      },
+      {
+       "text": "Use the millionaires' tax to build 20,000 homes the middle class can afford",
+       "topic": "housing",
+       "topics": [
+        "housing"
+       ],
+       "url": "https://www.oceanstatemedia.org/politics/2026-10-20/block-foulkes-and-guckian-trade-jabs-in-final-debate",
+       "date": "2026-10-20"
+      },
+      {
+       "text": "Support raising the $17 minimum wage to $20 by 2030",
+       "topic": "wages",
+       "topics": [
+        "wages"
+       ],
+       "url": "https://www.oceanstatemedia.org/politics/2026-10-20/block-foulkes-and-guckian-trade-jabs-in-final-debate",
+       "date": "2026-10-20"
+      },
+      {
+       "text": "Put navigators in place to help Rhode Islanders facing the loss of Medicaid coverage",
+       "topic": "health care",
+       "topics": [
+        "health care"
+       ],
+       "url": "https://www.oceanstatemedia.org/politics/2026-10-20/block-foulkes-and-guckian-trade-jabs-in-final-debate",
+       "date": "2026-10-20"
       }
      ],
      "note": "",
@@ -6412,6 +6502,25 @@
        ],
        "url": "https://rhodeislandcurrent.com/voter-guides/contests/2026-general-governor/",
        "date": ""
+      },
+      {
+       "text": "Cut the $15 billion state budget by 10% within a year of taking office, sharing savings with workers who find them",
+       "topic": "budget / taxes",
+       "topics": [
+        "budget",
+        "taxes"
+       ],
+       "url": "https://www.oceanstatemedia.org/politics/2026-10-20/block-foulkes-and-guckian-trade-jabs-in-final-debate",
+       "date": "2026-10-20"
+      },
+      {
+       "text": "Help medical students stay in Rhode Island by assisting with their loans",
+       "topic": "health care",
+       "topics": [
+        "health care"
+       ],
+       "url": "https://www.oceanstatemedia.org/politics/2026-10-20/block-foulkes-and-guckian-trade-jabs-in-final-debate",
+       "date": "2026-10-20"
       }
      ],
      "note": "",
@@ -6439,6 +6548,15 @@
        ],
        "url": "https://rhodeislandcurrent.com/voter-guides/contests/2026-general-governor/",
        "date": ""
+      },
+      {
+       "text": "Create a regional health care marketplace and require a \"one stay, one bill\" policy for hospitals",
+       "topic": "health care",
+       "topics": [
+        "health care"
+       ],
+       "url": "https://www.oceanstatemedia.org/politics/2026-10-20/block-foulkes-and-guckian-trade-jabs-in-final-debate",
+       "date": "2026-10-20"
       }
      ],
      "note": "",
@@ -11007,8 +11125,8 @@
   "repo": "botlotician/botlotician.github.io"
  },
  "stats": {
-  "candidate_promises": 754,
-  "national_promises": 614,
+  "candidate_promises": 767,
+  "national_promises": 627,
   "races": 108,
   "candidates": 220
  }
