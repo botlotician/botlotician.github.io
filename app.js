@@ -352,11 +352,6 @@
     out.push("</div>");
     return out.join("");
   }
-  function zipScorecard() {
-    var P = DATA.president;
-    return '<section class="zip-scorecard" aria-labelledby="zsc-h"><h2 id="zsc-h" class="zsc-h">President\'s 2024 promises</h2>' +
-      '<p class="muted small">Status of ' + P.total + " promises the current president made during his 2024 campaign, as of " + esc(fmtDate(DATA.president_as_of || PRES_AS_OF)) + ". Tap a status to see those promises.</p>" + scorecard(null) + "</section>";
-  }
 
   function renderPresident() {
     var P = DATA.president, out = [];
