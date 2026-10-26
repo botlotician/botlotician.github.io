@@ -407,7 +407,7 @@
       b.setAttribute("aria-selected", on); b.tabIndex = on ? 0 : -1;
     });
     $("panel").setAttribute("aria-labelledby", "tab-" + state.tab);
-    $("panel").innerHTML = state.tab === "president" ? renderPresident() : (state.zipView ? zipScorecard() : "") + renderZip();
+    $("panel").innerHTML = state.tab === "president" ? renderPresident() : renderZip();
   }
   function visibleTabs() { return TABS.filter(function (t) { return !$("tab-" + t).hidden; }); }
   function switchTab(t, push) {
