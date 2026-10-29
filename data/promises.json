@@ -199,9 +199,9 @@
     "made_where": "Speech to the Economic Club of New York (official transcript)",
     "made_date": "2024-09-05",
     "source_url": "https://econclubny.globalnorthstar.net/documents/20124/74672/20240905_Trump_Transcript.pdf/cf65e176-58d3-44e8-71fe-941d4cc71029",
-    "status": "Stalled",
-    "status_note": "PolitiFact rates it Stalled: the national average was $4.15 a gallon on Apr. 10, 2026 after the Iran war disrupted shipping through the Strait of Hormuz.",
-    "status_source_url": "https://api.politifact.com/truth-o-meter/promises/maga-meter-tracking-donald-trumps-2024-promises/promise/1692/reduce-the-cost-of-gasoline-below-2-a-gallon/article/3264/"
+    "status": "Broken",
+    "status_note": "PolitiFact rates it Promise Broken (Oct. 26, 2026): the national average was $4.42 a gallon in late October, after prices spiked when the Iran war began Feb. 28. PolitiFact says it will reconsider if prices fall below $2 before the term ends.",
+    "status_source_url": "https://www.politifact.com/truth-o-meter/promises/maga-meter-tracking-donald-trumps-2024-promises/promise/387719/reduce-the-cost-of-gasoline-below-2-a-gallon/article/399213/"
    },
    {
     "promise": "Put a temporary cap of about 10% on credit card interest rates",
@@ -475,8 +475,8 @@
    "Kept": 14,
    "Partially kept": 3,
    "In progress": 15,
-   "Stalled": 10,
-   "Broken": 4,
+   "Stalled": 9,
+   "Broken": 5,
    "Not yet addressed": 0
   },
   "total": 46
@@ -4261,6 +4261,53 @@
        ],
        "url": "https://ballotpedia.org/Zach_Lahn",
        "date": ""
+      },
+      {
+       "text": "Open additional mental health facilities, including for people now held in prisons who need treatment",
+       "topic": "mental health",
+       "topics": [
+        "mental health"
+       ],
+       "url": "https://www.iowapublicradio.org/state-government-news/2026-10-28/five-takeaways-final-iowa-governor-debate-rob-sand-and-zach-lahn-midterms-elections-healthcare-cancer-water-quality",
+       "date": "2026-10-27"
+      },
+      {
+       "text": "Keep privately managed Medicaid but require timely provider payments and protections against improper claim denials",
+       "topic": "health care",
+       "topics": [
+        "health care"
+       ],
+       "url": "https://www.iowapublicradio.org/state-government-news/2026-10-28/five-takeaways-final-iowa-governor-debate-rob-sand-and-zach-lahn-midterms-elections-healthcare-cancer-water-quality",
+       "date": "2026-10-27"
+      },
+      {
+       "text": "Keep universal eligibility for Education Savings Accounts while requiring independent third-party audits",
+       "topic": "education",
+       "topics": [
+        "education"
+       ],
+       "url": "https://www.iowapublicradio.org/state-government-news/2026-10-28/five-takeaways-final-iowa-governor-debate-rob-sand-and-zach-lahn-midterms-elections-healthcare-cancer-water-quality",
+       "date": "2026-10-27"
+      },
+      {
+       "text": "Target nitrate monitoring and conservation incentives at the most affected waterways, with no new mandates on farmers",
+       "topic": "water quality / agriculture",
+       "topics": [
+        "water quality",
+        "agriculture"
+       ],
+       "url": "https://www.iowapublicradio.org/state-government-news/2026-10-28/five-takeaways-final-iowa-governor-debate-rob-sand-and-zach-lahn-midterms-elections-healthcare-cancer-water-quality",
+       "date": "2026-10-27"
+      },
+      {
+       "text": "Fund the voter-approved Natural Resources and Outdoor Recreation Trust Fund (IWILL) and make data centers pay more in property taxes",
+       "topic": "conservation / taxes",
+       "topics": [
+        "conservation",
+        "taxes"
+       ],
+       "url": "https://www.iowapublicradio.org/state-government-news/2026-10-28/five-takeaways-final-iowa-governor-debate-rob-sand-and-zach-lahn-midterms-elections-healthcare-cancer-water-quality",
+       "date": "2026-10-27"
       }
      ],
      "note": "",
@@ -4316,6 +4363,62 @@
        ],
        "url": "https://iowacapitaldispatch.com/voter-guides/contests/2026-iowa-governor-general/",
        "date": ""
+      },
+      {
+       "text": "Restore income limits on Education Savings Account vouchers and require private schools that take public money to admit all students, including those with disabilities",
+       "topic": "education",
+       "topics": [
+        "education"
+       ],
+       "url": "https://www.iowapublicradio.org/state-government-news/2026-10-28/five-takeaways-final-iowa-governor-debate-rob-sand-and-zach-lahn-midterms-elections-healthcare-cancer-water-quality",
+       "date": "2026-10-27"
+      },
+      {
+       "text": "Eliminate waiting lists for farmers seeking conservation assistance and launch a large-scale wetlands restoration effort to cut nitrate pollution",
+       "topic": "water quality / agriculture",
+       "topics": [
+        "water quality",
+        "agriculture"
+       ],
+       "url": "https://www.iowapublicradio.org/state-government-news/2026-10-28/five-takeaways-final-iowa-governor-debate-rob-sand-and-zach-lahn-midterms-elections-healthcare-cancer-water-quality",
+       "date": "2026-10-27"
+      },
+      {
+       "text": "Cut deficit spending by restoring voucher income limits, changing tax treatment of data centers, and regulating and taxing cannabis",
+       "topic": "budget / taxes",
+       "topics": [
+        "budget",
+        "taxes"
+       ],
+       "url": "https://www.iowapublicradio.org/state-government-news/2026-10-28/five-takeaways-final-iowa-governor-debate-rob-sand-and-zach-lahn-midterms-elections-healthcare-cancer-water-quality",
+       "date": "2026-10-27"
+      },
+      {
+       "text": "Follow federal Medicaid work requirements while keeping eligible Iowans from losing coverage over paperwork",
+       "topic": "health care",
+       "topics": [
+        "health care"
+       ],
+       "url": "https://www.iowapublicradio.org/state-government-news/2026-10-28/five-takeaways-final-iowa-governor-debate-rob-sand-and-zach-lahn-midterms-elections-healthcare-cancer-water-quality",
+       "date": "2026-10-27"
+      },
+      {
+       "text": "Fund the voter-approved Natural Resources and Outdoor Recreation Trust Fund (IWILL)",
+       "topic": "conservation",
+       "topics": [
+        "conservation"
+       ],
+       "url": "https://www.iowapublicradio.org/state-government-news/2026-10-28/five-takeaways-final-iowa-governor-debate-rob-sand-and-zach-lahn-midterms-elections-healthcare-cancer-water-quality",
+       "date": "2026-10-27"
+      },
+      {
+       "text": "Create a Prescription Drug Review Board to negotiate lower drug costs and offer caregivers a tax credit of up to $2,000 a year (plus $1,000 for caretakers of veterans)",
+       "topic": "health care",
+       "topics": [
+        "health care"
+       ],
+       "url": "https://robsand.com/news/rob-sand-will-make-health-care-more-accessible-and-affordable-for-all-iowans/",
+       "date": "2026-10-27"
       }
      ],
      "note": "",
@@ -8679,6 +8782,16 @@
        ],
        "url": "https://www.wkyt.com/2026/10/20/what-barr-booker-had-say-their-faceoff-issues/",
        "date": "2026-10-19"
+      },
+      {
+       "text": "Pass year-round nationwide E15 gasoline sales to lower fuel prices",
+       "topic": "energy / cost of living",
+       "topics": [
+        "energy",
+        "cost of living"
+       ],
+       "url": "https://www.wkyt.com/2026/10/28/barr-booker-outline-positions-costs-surveillance-child-safety-kentucky-senate-race/",
+       "date": "2026-10-28"
       }
      ],
      "note": "",
@@ -8714,6 +8827,16 @@
        ],
        "url": "https://www.wkyt.com/2026/10/20/what-barr-booker-had-say-their-faceoff-issues/",
        "date": "2026-10-19"
+      },
+      {
+       "text": "Introduce a joint resolution revoking the emergency declaration the Trump administration used to impose tariffs",
+       "topic": "trade / cost of living",
+       "topics": [
+        "trade",
+        "cost of living"
+       ],
+       "url": "https://www.wkyt.com/2026/10/28/barr-booker-outline-positions-costs-surveillance-child-safety-kentucky-senate-race/",
+       "date": "2026-10-28"
       }
      ],
      "note": "",
@@ -11125,8 +11248,8 @@
   "repo": "botlotician/botlotician.github.io"
  },
  "stats": {
-  "candidate_promises": 767,
-  "national_promises": 627,
+  "candidate_promises": 780,
+  "national_promises": 640,
   "races": 108,
   "candidates": 220
  }
