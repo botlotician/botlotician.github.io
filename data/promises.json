@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-10-26",
+ "last_updated": "2026-11-02",
  "election_date": "2026-11-03",
  "president": {
   "promises": [
@@ -2645,6 +2645,16 @@
        ],
        "url": "https://roycooper.com/costless/groceries/",
        "date": "2026-09-05"
+      },
+      {
+       "text": "Have Congress take back its constitutional authority to roll back the tariffs, and work to end the Iran war",
+       "topic": "trade / foreign policy",
+       "topics": [
+        "trade",
+        "foreign policy"
+       ],
+       "url": "https://www.wral.com/news/nccapitol/cooper-whatley-make-final-appeals-before-end-of-early-voting-friday-october-2026/",
+       "date": "2026-10-30"
       }
      ],
      "note": "",
@@ -3427,6 +3437,16 @@
        ],
        "url": "https://ballotpedia.org/James_Talarico",
        "date": ""
+      },
+      {
+       "text": "Repeal the Republican tax cuts for the wealthy and enact universal child care",
+       "topic": "taxes / child care",
+       "topics": [
+        "taxes",
+        "child care"
+       ],
+       "url": "https://spectrumlocalnews.com/tx/south-texas-el-paso/news/2026/10/30/texas-senate-candidates-closing-arguments",
+       "date": "2026-10-30"
       }
      ],
      "note": "",
@@ -5264,6 +5284,15 @@
        ],
        "url": "https://ballotpedia.org/Cinde_Warmington",
        "date": ""
+      },
+      {
+       "text": "Veto any sales tax or income tax that reaches her desk",
+       "topic": "taxes",
+       "topics": [
+        "taxes"
+       ],
+       "url": "https://www.politifact.com/article/2026/oct/29/new-hampshire-governor-debate-ayotte-warmington/",
+       "date": "2026-10-29"
       }
      ],
      "note": "",
@@ -9502,6 +9531,43 @@
        ],
        "url": "https://www.wwno.org/2026-10-19/nov-3-election-guide-meet-the-u-s-senate-candidates",
        "date": "2026-10-19"
+      },
+      {
+       "text": "Make ending the Iran war the very first thing he does in the Senate, to bring down fuel costs",
+       "topic": "foreign policy / cost of living",
+       "topics": [
+        "foreign policy",
+        "cost of living"
+       ],
+       "url": "https://www.fox8live.com/2026/10/30/democrat-jamie-davis-hopes-louisiana-voters-send-him-washington/",
+       "date": "2026-10-29"
+      },
+      {
+       "text": "Push on day one for a national ban on partisan gerrymandering and pass the John Lewis Voting Rights Act",
+       "topic": "elections",
+       "topics": [
+        "elections"
+       ],
+       "url": "https://www.fox8live.com/2026/10/30/democrat-jamie-davis-hopes-louisiana-voters-send-him-washington/",
+       "date": "2026-10-29"
+      },
+      {
+       "text": "Require a \"kill switch\" so humans keep control of AI, and pass laws holding tech companies liable when AI harms people or businesses",
+       "topic": "technology",
+       "topics": [
+        "technology"
+       ],
+       "url": "https://www.fox8live.com/2026/10/30/democrat-jamie-davis-hopes-louisiana-voters-send-him-washington/",
+       "date": "2026-10-29"
+      },
+      {
+       "text": "Restore the expired enhanced ACA subsidies and strengthen Medicaid and Medicare to pre-Trump levels",
+       "topic": "health care",
+       "topics": [
+        "health care"
+       ],
+       "url": "https://www.fox8live.com/2026/10/30/democrat-jamie-davis-hopes-louisiana-voters-send-him-washington/",
+       "date": "2026-10-29"
       }
      ],
      "note": "",
@@ -11248,8 +11314,8 @@
   "repo": "botlotician/botlotician.github.io"
  },
  "stats": {
-  "candidate_promises": 780,
-  "national_promises": 640,
+  "candidate_promises": 787,
+  "national_promises": 647,
   "races": 108,
   "candidates": 220
  }
